@@ -1,13 +1,13 @@
-VV的BigWigs语音包更名为：BigWigs_Voice_VV
+#### VV的BigWigs语音包更名为：BigWigs_Voice_VV
 
 
-倒数/开怪语音设置：
+#### 倒数/开怪语音设置：
 ![倒数](https://github.com/user-attachments/assets/b421b2fc-7c0d-41eb-a2eb-3434e796ea5e)
 ![开怪](https://github.com/user-attachments/assets/2127c046-9138-46b0-a502-381f48fc48a7)
 
 
 
-“私有光环”音效设置：
+#### “私有光环”音效设置：
 
 ![私有光环](https://github.com/user-attachments/assets/4fde7f88-536b-4cd8-aa34-0cff1fa49b95)
 
@@ -17,6 +17,6 @@ VV的BigWigs语音包更名为：BigWigs_Voice_VV
 
 
 
-BigWigs现在新版本每次更新都会还原回BW的默认设置，请大家在“配置文件“选项内利用”导出“功能导出你设置计时条/信息/倒数等设置的字符串保存好，更新BW完毕后可以使用保存的字符串在导入进去（注意：每次更新不会影响到首领模块的设置）。
+#### BigWigs现在新版本每次更新都会还原回BW的默认设置，请大家在“配置文件“选项内利用”导出“功能导出你设置计时条/信息/倒数等设置的字符串保存好，更新BW完毕后可以使用保存的字符串在导入进去（注意：每次更新不会影响到首领模块的设置）。
 
 ![配置文件](https://github.com/user-attachments/assets/6b9c0094-8ed3-4750-975c-d07c5bbf80cd)

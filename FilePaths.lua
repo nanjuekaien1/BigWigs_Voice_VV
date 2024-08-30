@@ -4956,6 +4956,17 @@ addon.FilePaths = {
 	[430441] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 暗焰之影
 	
 	--  [The War Within 地心之战]
+	    -- Scenarios  场景
+	--  AwakeningTheMachine  主机觉醒	
+	[462802] = "TheWarWithin\\Scenarios\\AwakeningTheMachine\\",  -- 净化烈焰
+	[462826] = "TheWarWithin\\Scenarios\\AwakeningTheMachine\\",  -- 自毁
+	[462856] = "TheWarWithin\\Scenarios\\AwakeningTheMachine\\",  -- 废灵壁垒
+	[462892] = "TheWarWithin\\Scenarios\\AwakeningTheMachine\\",  -- 危害光束
+	[462936] = "TheWarWithin\\Scenarios\\AwakeningTheMachine\\",  -- 日常维护
+	[462983] = "TheWarWithin\\Scenarios\\AwakeningTheMachine\\",  -- 不稳定的熔岩
+	[463052] = "TheWarWithin\\Scenarios\\AwakeningTheMachine\\",  -- 地鸣猛击
+	[463081] = "TheWarWithin\\Scenarios\\AwakeningTheMachine\\",  -- 撼地冲撞
+	
 		-- Delves  地下堡
 	[448412] = "TheWarWithin\\Delves\\",  -- 燃烧的矿车
 	[448443] = "TheWarWithin\\Delves\\",  -- 痛苦诅咒

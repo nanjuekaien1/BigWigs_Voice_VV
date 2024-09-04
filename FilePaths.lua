@@ -5480,5 +5480,35 @@ addon.FilePaths = {
 	[460281] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 燃烧之怒
 	[460359] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 虚空溃变
 	--  Queen Ansurek  安苏雷克女王
-	
+	[437078] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 酸池
+	[437093] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 盛宴
+	[437417] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 剧毒新星
+	[437592] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 活性毒素
+	[438481] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 剧毒波浪
+	[438976] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 皇谕责罚
+	[439299] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 网刃
+	[439814] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 流丝之墓
+	[440899] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 液化
+	[441556] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 反应蒸汽
+	[441958] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 勒握流丝
+	[443325] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 感染
+	[443336] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 啃噬
+	[443403] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 阴霾
+	[443726] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 幽暗幼体
+	[443888] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 深渊倾注
+	[444829] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 女王的应诏者
+	[445021] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 虚无爆破
+	[445152] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 侍僧精华
+	[445422] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 吐沫的饕餮者
+	[445880] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 泛沫蒸汽
+	[447411] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 强征
+	[447456] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 麻痹毒液
+	[447950] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 暗影冲击
+	[448147] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 发配
+	[449236] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 腐蚀锐牙
+	[451278] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 浓缩毒素
+	[451600] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 斥逐光束
+	[455387] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 深渊回响
+	[464056] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 晦暗之触
+	[464638] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 泛沫毒素	
 }

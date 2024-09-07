@@ -20,11 +20,11 @@
 
 
 ## “语音”关闭设置：
-- “语音”不想听到某个技能的语音预警可以在BigWigs的团本/地下城的副本模块内选择。
+- 因为BigWigs的语音预警不会根据你的职业和职责来单独技能语音预警，针对某些技能“语音”不想听到，可以在BigWigs的团本/地下城的副本模块内选择启用/禁用。
 
 ![语音设置2-1](https://github.com/user-attachments/assets/dbd6849d-a72a-4529-bb0c-0d97176583e4)
 
-- 关闭“语音”选项
+- 如何关闭“语音”选项
 
 ![语音设置2-2](https://github.com/user-attachments/assets/d63b8fcd-1734-4109-994d-24a922029ce1)
 

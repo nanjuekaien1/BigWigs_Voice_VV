@@ -5388,6 +5388,7 @@ addon.FilePaths = {
 	  --  Ulgrax the Devourer  噬灭者乌格拉克斯
 	[434697] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 蛮力碾压
 	[434705] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 暴捶
+	[434778] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 噬肉角力
 	[434803] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 噬肉角力
 	[435136] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 剧毒鞭击
 	[435138] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 消化酸液
@@ -5401,7 +5402,7 @@ addon.FilePaths = {
 	[441452] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 追踪者缠网
 	[443842] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 噬灭黑暗
 	[445052] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 聒噪虫群
-	[445123] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 泰山压顶
+	[455831] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 硬化缠网
 	  --  The Bloodbound Horror  血缚恐魔
 	[438696] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 黑脓败血
 	[442530] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 瘀液喷撒
@@ -5409,6 +5410,7 @@ addon.FilePaths = {
 	[443203] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 猩红之雨
 	[443612] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 阴森呕吐
 	[444363] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 阴森呕吐
+	[444497] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 召引恐魔
 	[445518] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 黑血
 	[445570] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 无明凋零
 	[445936] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 呕吐出血
@@ -5420,7 +5422,6 @@ addon.FilePaths = {
 	[434860] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 相位之刃
 	[439511] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 队长之百华斩
 	[439559] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 箭雨
-	[442428] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 毁灭
 	[456420] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 粉碎横扫
 	[459273] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 宇宙碎片
 	  --  Rasha'nan  拉夏南
@@ -5474,6 +5475,7 @@ addon.FilePaths = {
 	[441782] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 现实之束
 	[442994] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 肆虐虫群
 	[443068] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 尖刺爆发
+	[443598] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 难抑怒火
 	[449857] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 被刺穿
 	[450129] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 熵能废灭
 	[450980] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 存在瓦解
@@ -5515,5 +5517,5 @@ addon.FilePaths = {
 	[451600] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 斥逐光束
 	[455387] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 深渊回响
 	[464056] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 晦暗之触
-	[464638] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 泛沫毒素	
+	[464638] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 泛沫毒素
 }

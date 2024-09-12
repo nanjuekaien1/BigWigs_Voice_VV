@@ -5015,6 +5015,7 @@ addon.FilePaths = {
 	[445407] = "TheWarWithin\\Delves\\",  -- 嗜血
 	[445492] = "TheWarWithin\\Delves\\",  -- 锯齿顺劈
 	[445718] = "TheWarWithin\\Delves\\",  -- 熔岩巨锤
+	[445771] = "TheWarWithin\\Delves\\",  -- 气泡激射
 	[445774] = "TheWarWithin\\Delves\\",  -- 痛击狂热
 	[445781] = "TheWarWithin\\Delves\\",  -- 熔岩冲击
 	[445860] = "TheWarWithin\\Delves\\",  -- 淹溺幻象
@@ -5045,7 +5046,6 @@ addon.FilePaths = {
 	[449295] = "TheWarWithin\\Delves\\",  -- 大地猛击
 	[449318] = "TheWarWithin\\Delves\\",  -- 纷争之影
 	[449339] = "TheWarWithin\\Delves\\",  -- 暴脾气
-	[449965] = "TheWarWithin\\Delves\\",  -- 沼泽箭
 	[450128] = "TheWarWithin\\Delves\\",  -- 恶性毒气
 	[450142] = "TheWarWithin\\Delves\\",  -- 烧尽
 	[450197] = "TheWarWithin\\Delves\\",  -- 飞掠冲锋
@@ -5082,6 +5082,7 @@ addon.FilePaths = {
 	[458879] = "TheWarWithin\\Delves\\",  -- 黄昏祝福
 	[459421] = "TheWarWithin\\Delves\\",  -- 圣光术
 	[461741] = "TheWarWithin\\Delves\\",  -- 奉献
+	[470582] = "TheWarWithin\\Delves\\",  -- 沼泽箭
 	
 		-- Dungeon 地下城
 	--  Ara-Kara, City of Echoes   艾拉-卡拉，回响之城

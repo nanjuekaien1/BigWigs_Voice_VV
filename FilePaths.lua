@@ -2332,8 +2332,8 @@ addon.FilePaths = {
 	[257459] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  --  上钩了
 	[257585] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  --  火炮弹幕
 	[273721] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  --  重型军火
+	[274002] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  --  召唤铁潮
 	  -- Sergeant Bainbridge 拜恩比吉中士
-	[257585] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  --  火炮弹幕
 	[260924] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  --  钢铁风暴
 	[260954] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  --  铁之凝视
 	[261428] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  --  刽子手的套索

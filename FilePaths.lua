@@ -2367,6 +2367,7 @@ addon.FilePaths = {
 	[256957] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  --  防水甲壳
 	[257169] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  --  恐惧咆哮
 	[257170] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  --  狂野风暴
+	[257732] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  --  震耳咆哮
 	[272421] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  --  瞄准火炮
 	[272546] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  --  香蕉狂怒
 	[272571] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  --  窒息之水

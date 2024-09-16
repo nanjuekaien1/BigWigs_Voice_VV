@@ -35,7 +35,7 @@ addon.FilePaths = {
 	--  [Classic 经典]
 	
 	--  [Cataclysm 大地的裂变]
-								 -- 地下城 --
+	      -- 地下城 --
 	--  Grim Batol 	格瑞姆巴托
 	
 	-- General Umbriss	 乌比斯将军

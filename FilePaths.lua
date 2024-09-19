@@ -35,7 +35,7 @@ addon.FilePaths = {
 	--  [Classic 经典]
 	
 	--  [Cataclysm 大地的裂变]
-	      -- 地下城 --
+								 -- 地下城 --
 	--  Grim Batol 	格瑞姆巴托
 	
 	-- General Umbriss	 乌比斯将军
@@ -2367,7 +2367,7 @@ addon.FilePaths = {
 	[256957] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  --  防水甲壳
 	[257169] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  --  恐惧咆哮
 	[257170] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  --  狂野风暴
-	[257732] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  --  震耳咆哮
+	[257732] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 震耳咆哮
 	[272421] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  --  瞄准火炮
 	[272546] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  --  香蕉狂怒
 	[272571] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  --  窒息之水
@@ -4971,7 +4971,7 @@ addon.FilePaths = {
 	[463052] = "TheWarWithin\\Scenarios\\AwakeningTheMachine\\",  -- 地鸣猛击
 	[463081] = "TheWarWithin\\Scenarios\\AwakeningTheMachine\\",  -- 撼地冲撞
 	
-	    -- Delves  地下堡
+		-- Delves  地下堡
 	[372529] = "TheWarWithin\\Delves\\",  -- 狰狞笑声
 	[398749] = "TheWarWithin\\Delves\\",  -- 碎颅者
 	[400335] = "TheWarWithin\\Delves\\",  -- 尖刺陷阱
@@ -5085,7 +5085,8 @@ addon.FilePaths = {
 	[458879] = "TheWarWithin\\Delves\\",  -- 黄昏祝福
 	[459421] = "TheWarWithin\\Delves\\",  -- 圣光术
 	[461741] = "TheWarWithin\\Delves\\",  -- 奉献
-	[470582] = "TheWarWithin\\Delves\\",  -- 沼泽箭
+	[470582] = "TheWarWithin\\Delves\\",  -- 沼泽箭	
+
 	
 		-- Dungeon 地下城
 	--  Ara-Kara, City of Echoes   艾拉-卡拉，回响之城
@@ -5527,4 +5528,6 @@ addon.FilePaths = {
 	[455387] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 深渊回响
 	[462558] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 宇宙裂痕
 	[464638] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 泛沫毒素
+
+	
 }

@@ -5387,7 +5387,19 @@ addon.FilePaths = {
 	[449130] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 熔岩重炮
 	[449154] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 熔岩迫击炮
 	[449455] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 咆哮恐惧	 
-	--   Isles  地心之战（世界） 
+	--   TWW-  地心之战（世界） 
+	  --  KhazAlgar 世界首领
+	 -- Aggregation of Horrors 惊魂聚合体  
+	[452205] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 晶化弹幕
+	[452980] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 虚空震击
+	[453271] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 黑暗觉醒
+	[453294] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 水晶打击	
+	-- Shurrai, Atrocity of the Undersea  修拉伊，地狱之海的暴虐者
+	[453618] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 深渊打击
+	[453733] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 咸水喷吐
+	[453875] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 灵魂反刍
+	[455275] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 黑暗之潮
+
 	--  Raid  团本
 	 --  Nerub'ar Palace   尼鲁巴尔王宫
 	  --  Ulgrax the Devourer  噬灭者乌格拉克斯

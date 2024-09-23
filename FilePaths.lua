@@ -5168,6 +5168,7 @@ addon.FilePaths = {
 	  --  The Coaglamation  凝结聚合体
 	[441289] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 黏稠黑暗
 	[441395] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 黑暗脉动
+	[441825] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 黑血
 	[461842] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 溢流猛击
 	[461880] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 血之激涌
 	  --  Izo, the Grand Splicer  大捻接师艾佐

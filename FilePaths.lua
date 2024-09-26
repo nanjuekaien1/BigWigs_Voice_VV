@@ -3441,6 +3441,7 @@ addon.FilePaths = {
 	[321368] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  冰缚之盾
 	[321894] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  黑暗放逐
 	--  The Necrotic Wake Trash	 小怪
+	[320464] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  暗影之井
 	[320822] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  最终交易
 	[321780] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  亡者再临
 	[322756] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  佐尔拉姆斯之怒
@@ -5383,7 +5384,7 @@ addon.FilePaths = {
 	[449130] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 熔岩重炮
 	[449154] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 熔岩迫击炮
 	[449455] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 咆哮恐惧	 
-	--   TWW-  地心之战（世界） 
+	--   TWW  地心之战（世界） 
 	  --  KhazAlgar 世界首领
 	 -- Aggregation of Horrors 惊魂聚合体  
 	[452205] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 晶化弹幕
@@ -5395,8 +5396,12 @@ addon.FilePaths = {
 	[453733] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 咸水喷吐
 	[453875] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 灵魂反刍
 	[455275] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 黑暗之潮
+	-- Orta, the Broken Mountain
+	[450407] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 
+	[450454] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 
+	[450677] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 
 
-	--  Raid  团本
+	--  Raid  地心团本
 	 --  Nerub'ar Palace   尼鲁巴尔王宫
 	  --  Ulgrax the Devourer  噬灭者乌格拉克斯
 	[434697] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 蛮力碾压

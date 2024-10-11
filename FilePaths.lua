@@ -5239,14 +5239,16 @@ addon.FilePaths = {
 	[428703] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 花岗岩爆发
 	[428879] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 巨岩碾压
 	[429109] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 愈合金属
-	[429427] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 
+	[429427] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 爆地图腾
 	[429545] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 噤声齿轮
 	[445207] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 穿透哀嚎
 	[447141] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 粉碎突袭
 	[448640] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 重盾奔袭
 	[449130] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 熔岩重炮
 	[449154] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 熔岩迫击炮
-	[449455] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 咆哮恐惧	 
+	[449455] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 咆哮恐惧
+	[459210] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 暗影爪击
+	[462500] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 灌魔铁之能	
 	--   TWW  地心之战（世界） 
 	  --  KhazAlgar 世界首领
 	 -- Aggregation of Horrors 惊魂聚合体  
@@ -5259,11 +5261,18 @@ addon.FilePaths = {
 	[453733] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 咸水喷吐
 	[453875] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 灵魂反刍
 	[455275] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 黑暗之潮
-	-- Orta, the Broken Mountain
-	[450407] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 
-	[450454] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 
-	[450677] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 
-
+	-- Orta, the Broken Mountain  欧尔塔，破碎山恋
+	[450407] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 巨人重击
+	[450454] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 地动咆哮
+	[450677] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 破裂符文
+	[450929] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 崇山之握
+	-- Kordac, the Dormant Protector  考尔达克，休眠的保护者
+	[458329] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 泰坦重击
+	[458423] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 奥术轰炸
+	[458695] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 超载激光
+	[458799] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 超载大地
+	[458838] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 压制爆发
+	
 	--  Raid  地心团本
 	 --  Nerub'ar Palace   尼鲁巴尔王宫
 	  --  Ulgrax the Devourer  噬灭者乌格拉克斯

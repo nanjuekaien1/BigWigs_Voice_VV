@@ -5054,6 +5054,7 @@ addon.FilePaths = {
 	[447271] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 震颤猛击
 	[448047] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 裹体之网
 	[450784] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 香水投掷
+	[451222] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 虚空奔袭
 	[451423] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 纱网弹幕
 	[451543] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 虚无猛击
 	[452162] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 愈合之网	

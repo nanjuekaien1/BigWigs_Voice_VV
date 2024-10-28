@@ -3311,6 +3311,7 @@ addon.FilePaths = {
 	--  Blightbone	凋骨
 	[320596] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  深重呕吐
 	[320630] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  血肉饕餮
+	[320631] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  腐肉爆发
 	[320637] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  恶臭气体
 	[320655] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  嚼碎
 	--  Amarth, The Reanimator	收割者阿玛厄斯
@@ -3337,6 +3338,7 @@ addon.FilePaths = {
 	[321894] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  黑暗放逐
 	--  The Necrotic Wake Trash	 小怪
 	[320464] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  暗影之井
+	[320696] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  白骨爪击
 	[320822] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  最终交易
 	[321780] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  亡者再临
 	[322756] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  佐尔拉姆斯之怒
@@ -3344,6 +3346,7 @@ addon.FilePaths = {
 	[323347] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  黑暗纠缠
 	[323471] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  切肉飞刀
 	[324293] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  刺耳尖啸
+	[324323] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  恐怖顺劈	
 	[324372] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  收割之风
 	[324387] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  寒冰尖刺
 	[324394] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  碎裂
@@ -4968,12 +4971,17 @@ addon.FilePaths = {
 	[432227] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 毒液箭雨
 	[461487] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 培植毒药
 	  -- Trash 小怪
+	[432967] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 预警尖鸣
+	[433002] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 深掘打击
+	[433785] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 勒握斩击	
 	[433841] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 毒液箭雨
 	[433845] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 爆发蛛网
 	[434252] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 野蛮猛击
 	[434793] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 共振弹幕
 	[434802] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 惊惧尖鸣
-	[434824] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 蛛网喷射	
+	[434824] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 蛛网喷射
+	[434830] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 邪恶缠网
+	[436614] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 裹体之网	
 	[438622] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 剧毒崩裂	
 	[438826] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 毒云
 	[438877] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 巢群的召唤
@@ -5062,6 +5070,7 @@ addon.FilePaths = {
 	[451222] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 虚空奔袭
 	[451423] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 纱网弹幕
 	[451543] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 虚无猛击
+	[452151] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 严酷戳刺	
 	[452162] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 愈合之网	
 	--  Darkflame Cleft   暗焰裂口 
 	  --  Ol' Waxbeard  老蜡须
@@ -5146,12 +5155,12 @@ addon.FilePaths = {
 	[453212] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 黑曜光束
 	  --  Anub'ikkaj  阿努布伊卡基
 	[426787] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 晦影腐朽
-	[426860] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 暗黑法球
+	--[426860] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 暗黑法球（私有）
 	[427001] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 恐惧猛击
 	[452127] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 活化暗影
 	  --  Rasha'nan Dawnbreaker  拉夏南
-	[434089] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 喷射丝线（私有）
-	[434407] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 酸液翻腾（私有）
+	--[434089] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 喷射丝线（私有）
+	--[434407] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 酸液翻腾（私有）
 	[434655] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 阿拉希炸弹
 	[435793] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 粘稠迸发
 	[448213] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 缠网喷吐
@@ -5175,7 +5184,9 @@ addon.FilePaths = {
 	[451098] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 黏性新星
 	[451102] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 晦影腐朽
 	[451107] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 迸发虫茧
+	[451112] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 战略家之怒	
 	[451117] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 恐惧猛击
+	[451119] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 深渊轰击	
 	--  The Rookery   驭雷栖巢
 	  --  Kyrioss  凯里欧斯 
 	[419870] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 闪电疾冲

@@ -4888,7 +4888,7 @@ addon.FilePaths = {
 	[446230] = "TheWarWithin\\Delves\\",  -- 逐斥冲击
 	[446300] = "TheWarWithin\\Delves\\",  -- 深海水螅
 	[446405] = "TheWarWithin\\Delves\\",  -- 真菌感染
-	[446832] = "TheWarWithin\\Delves\\",  -- 剧毒灌注
+	--[446832] = "TheWarWithin\\Delves\\",  -- 剧毒灌注
 	[447143] = "TheWarWithin\\Delves\\",  -- 罩网
 	[447187] = "TheWarWithin\\Delves\\",  -- 虚空撕裂
 	[448155] = "TheWarWithin\\Delves\\",  -- 震荡波动
@@ -4949,7 +4949,7 @@ addon.FilePaths = {
 	[458879] = "TheWarWithin\\Delves\\",  -- 黄昏祝福
 	[459421] = "TheWarWithin\\Delves\\",  -- 圣光术
 	[461741] = "TheWarWithin\\Delves\\",  -- 奉献
-	[463408] = "TheWarWithin\\Delves\\",  -- 冰霜灌注
+	--[463408] = "TheWarWithin\\Delves\\",  -- 冰霜灌注
 	[470582] = "TheWarWithin\\Delves\\",  -- 沼泽箭		
 		-- Dungeon 地下城
 	--  Ara-Kara, City of Echoes   艾拉-卡拉，回响之城
@@ -5172,6 +5172,7 @@ addon.FilePaths = {
 	[431309] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 诱捕暗影
 	[431349] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 折磨喷发
 	[431494] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 黑刃之锋
+	[431637] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 
 	[432448] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 冥河之种
 	[432520] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 暗影屏障
 	[432565] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 黑暗之霰

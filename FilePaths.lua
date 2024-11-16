@@ -4844,8 +4844,10 @@ addon.FilePaths = {
 	[463052] = "TheWarWithin\\Scenarios\\AwakeningTheMachine\\",  -- 地鸣猛击
 	[463081] = "TheWarWithin\\Scenarios\\AwakeningTheMachine\\",  -- 撼地冲撞	
 		-- Delves  地下堡
+	[359016] = "TheWarWithin\\Delves\\",  -- 身手矫健		
 	[372529] = "TheWarWithin\\Delves\\",  -- 狰狞笑声
 	[398749] = "TheWarWithin\\Delves\\",  -- 碎颅者
+	[390943] = "TheWarWithin\\Delves\\",  -- 电能灾变	
 	[400335] = "TheWarWithin\\Delves\\",  -- 尖刺陷阱
 	[414944] = "TheWarWithin\\Delves\\",  -- 战斗咆哮
 	[415250] = "TheWarWithin\\Delves\\",  -- 真菌绽放
@@ -4957,7 +4959,8 @@ addon.FilePaths = {
 	[459421] = "TheWarWithin\\Delves\\",  -- 圣光术
 	[461741] = "TheWarWithin\\Delves\\",  -- 奉献
 	--[463408] = "TheWarWithin\\Delves\\",  -- 冰霜灌注
-	[470582] = "TheWarWithin\\Delves\\",  -- 沼泽箭		
+	[470582] = "TheWarWithin\\Delves\\",  -- 沼泽箭
+	[470612] = "TheWarWithin\\Delves\\",  -- 腐蚀胆汁	
 		-- Dungeon 地下城
 	--  Ara-Kara, City of Echoes   艾拉-卡拉，回响之城
 	  --  Avanoxx  阿瓦诺克斯

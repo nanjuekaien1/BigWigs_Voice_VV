@@ -5386,6 +5386,7 @@ addon.FilePaths = {
 	[438355] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 灾变熵能
 	[438656] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 剧毒之雨
 	[438677] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 针刺虫群
+	[438218] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 穿刺打击
 	[438749] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 甲虫锁定
 	[438801] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 虫群的召唤
 	[440001] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 束缚之网

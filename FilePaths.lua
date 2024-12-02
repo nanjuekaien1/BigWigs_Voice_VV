@@ -5108,6 +5108,7 @@ addon.FilePaths = {
 	[427157] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 召唤暗嗣
 	[427176] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 吸取光明
 	  --  Trash
+	[422393] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 窒息黑暗
 	[422414] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 暗影碎击
 	[422541] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 吸取光明
 	[423501] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 狂野抽打
@@ -5117,6 +5118,11 @@ addon.FilePaths = {
 	[426261] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 不息烈焰
 	[426295] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 烈焰系链
 	[426619] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 只手擒拿
+	[426883] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 梆！
+	[428019] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 闪点
+	[428066] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 压制咆哮
+	[428650] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 燃烧反冲
+	[430171] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 镇火冲击
 	[440652] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 激涌之蜡
 	--  Priory of the Sacred Flame   圣焰隐修院 
 	  --  Captain Dailcry  戴尔克莱上尉
@@ -5141,6 +5147,7 @@ addon.FilePaths = {
 	[424431] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 圣光烁辉
 	[424462] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 余烬风暴
 	[424621] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 蛮力重击
+	[426964] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 致死打击
 	[427342] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 防御
 	[427346] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 心灵之光
 	[427356] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 强效治疗术
@@ -5156,7 +5163,8 @@ addon.FilePaths = {
 	[444743] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 连珠火球
 	[448485] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 盾牌猛击
 	[448492] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 雷霆一击
-	[448515] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 神圣审判	
+	[448515] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 神圣审判
+	[453458] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 铁蒺藜
 	--  The Dawnbreaker   破晨号 
 	  --  Shadowcrown  夏多克朗
 	[425264] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 黑曜冲击

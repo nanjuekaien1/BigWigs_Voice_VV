@@ -24,7 +24,7 @@ addon.FilePaths = {
 	["stages"] = "Added\\",  --  转阶段
 	["minecart"] = "Added\\",  --  矿车启动<暗焰裂口>
 	-- ["trading_game"] = "Added\\",  --交易游戏<集市>
-	["weapons_stockpiles_pilfered"] = "Added\\",  -- 
+	["weapons_stockpiles_pilfered"] = "Added\\",  -- 掠夺武器“激活道具”<水闸>
 	-- ["vault_purifier"] = "Added\\",  --宝库净化器<集市>
 	["rift_stability"] = "Added\\",  -- 传送门出现 
 	
@@ -2284,9 +2284,11 @@ addon.FilePaths = {
 	[276229] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 微型飞弹
 	  -- Trash
 	[262092] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 吸入气雾
+	[262268] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 腐蚀性化合物
 	[262377] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 搜寻并摧毁
 	[262383] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 布置蛛形地雷
 	[263202] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 石枪
+	[263215] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 地壳屏障
 	[263628] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 充能护盾
 	[267354] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 刀扇
 	[267433] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 激活机甲
@@ -3407,7 +3409,7 @@ addon.FilePaths = {
 	[323750] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  邪恶毒气
 	  --  Xav the Unfallen  无堕者哈夫
 	[317231] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  碾压重击
-	[320050] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  玛卓克萨斯之力
+	--[320050] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  玛卓克萨斯之力
 	[320114] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  鲜血与荣耀
 	[320644] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  残酷连击
 	[320729] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  群体顺劈
@@ -3416,8 +3418,8 @@ addon.FilePaths = {
       --  Kul'tharok  库尔萨洛克
 	[473513] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  诅咒者的盛宴
 	[474298] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  抽取灵魂
-	[1215787] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  
-	[1223803] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  
+	[1215787] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  死亡螺旋
+	[1223803] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  黑暗之井
       --  Mordretha, the Endless Empress  无尽女皇莫德蕾莎
 	[323608] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  黑暗毁灭
 	[323825] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  攫取裂隙
@@ -3432,6 +3434,7 @@ addon.FilePaths = {
 	[321039] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  嫌恶爆发
 	[330562] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  挫志怒吼
 	[330565] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  盾击
+	[330586] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  吞噬血肉
 	[330614] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  邪恶爆发
 	[330697] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  腐烂打击
 	[330716] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  灵魂风暴
@@ -3455,7 +3458,7 @@ addon.FilePaths = {
 	[342103] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  腐臭胆汁
 	[342135] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  打断怒吼
 	[342675] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  骨矛
-	[1215850] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  	碾地猛击
+	[1215850] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  碾地猛击
 		
 	--  团本
 	--  Shadowlands 暗影界（世界）	
@@ -5161,6 +5164,7 @@ addon.FilePaths = {
 	  --  Brew Master Aldryr  酿造大师阿德里尔
 	[431895] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 携带燧酿
 	[432179] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 投掷燧酿
+	[432196] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 滚烫蜜糖
 	[432198] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 炽热响嗝
 	[432229] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 醉酿投
 	[442525] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 欢乐时光
@@ -5169,6 +5173,7 @@ addon.FilePaths = {
 	[439202] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 燃烧发酵
 	[439365] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 喷涌佳酿
 	[440147] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 满上
+	[441179] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 泛涌蜂蜜
 	  --  Benk Buzzbee  本克·鸣蜂
 	[438025] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 点心时间
 	[439524] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 振翼之风
@@ -5180,7 +5185,6 @@ addon.FilePaths = {
 	[436644] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 燃焰弹射
 	   --  Trash  小怪
 	[434706] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 燧酿飞掷
-	[434761] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 强力践踏
 	[434998] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 飞肉直下
 	[437721] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 沸燃烈焰
 	[437956] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 迸发地狱火
@@ -5189,17 +5193,21 @@ addon.FilePaths = {
 	[440876] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 蜜雨如注
 	[441119] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 蜂爆弹
 	[441179] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 泛涌蜂蜜
+	[441242] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 免费样品！
+	[441351] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 狂蜂怒火
 	[441434] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 失败批次
 	[441627] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 疗愈蜂蜜
 	[442589] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 蜂蜡
 	[442995] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 蜂拥惊喜
 	[448619] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 鲁莽搬运
-	[463206] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 爆捶	
+	[463206] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 爆捶
+	[463218] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 烈性酒桶
 	--  Darkflame Cleft   暗焰裂口 
 	  --  Ol' Waxbeard  老蜡须
 	[422116] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 鲁莽冲锋
 	[422245] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 穿岩凿
 	[423693] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 诱引烛焰
+	[429093] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 卑鄙“轨”术
 	  --  Blazikon  布雷炙(zhi)孔
 	[421817] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 点芯弹幕
 	[422700] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 灭火强风（私有）
@@ -5209,7 +5217,8 @@ addon.FilePaths = {
 	[443835] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 炽烈风暴
 	  --  The Candle King  蜡烛之王
 	[420659] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 诡谀铸模
-	[420696] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 投掷暗焰（私有）
+	[421067] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 熔化蜡油
+	[421653] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 被诅咒的蜡油
 	[422648] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 暗焰之锄
 	[426145] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 偏执失心
 	  --  The Darkness  黑暗之主
@@ -5218,6 +5227,7 @@ addon.FilePaths = {
 	[427025] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 幽影斩击
 	[427157] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 召唤暗嗣
 	[427176] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 吸取光明
+	[428166] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 永恒黑暗
 	  --  Trash
 	[422393] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 窒息黑暗
 	[422414] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 暗影碎击
@@ -5235,6 +5245,8 @@ addon.FilePaths = {
 	[428650] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 燃烧反冲
 	[430171] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 镇火冲击
 	[440652] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 激涌之蜡
+	[1218177] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 强力践踏
+	[1218131] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 燃烧的蜡烛
 	--  Priory of the Sacred Flame   圣焰隐修院 
 	  --  Captain Dailcry  戴尔克莱上尉
 	[424414] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 贯穿护甲
@@ -5246,15 +5258,20 @@ addon.FilePaths = {
 	[423015] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 谴罚者之盾
 	[423051] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 灼烧之光
 	[423062] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 纯洁之锤
+	[446268] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 献祭葬火
+	[446403] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 牺牲烈焰
 	  --  Prioress Murrpray  隐修院长穆普雷
 	[423588] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 圣光屏障
 	[423664] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 拥抱圣光
+	[425556] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 神圣之地
+	[428169] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 盲目之光
 	[444546] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 净涤
 	[444608] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 心灵之火
 	[451605] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 神圣烈焰
 	  --  Trash  小怪
 	[424420] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 余烬冲击
 	[424423] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 跃进打击
+	[424429] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 奉献
 	[424431] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 圣光烁辉
 	[424462] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 余烬风暴
 	[424621] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 蛮力重击
@@ -5267,14 +5284,17 @@ addon.FilePaths = {
 	[427601] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 强光迸发
 	[427609] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 瓦解怒吼
 	[427897] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 热浪
+	[427900] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 熔岩池
 	[427950] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 烈焰圣印
 	[428150] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 反射护盾
-	[429091] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 心灵之光
+	--[429091] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 心灵之光
 	[435088] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 神圣烈焰的祝福
+	[435165] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 炽热打击
 	[444743] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 连珠火球
 	[448485] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 盾牌猛击
 	[448492] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 雷霆一击
 	[448515] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 神圣审判
+	[448787] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 纯净
 	[453458] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 铁蒺藜
 	--  The Rookery   驭雷栖巢
 	  --  Kyrioss  凯里欧斯 
@@ -5310,6 +5330,7 @@ addon.FilePaths = {
 	[430179] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 渗透腐蚀
 	[430288] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 粉碎黑暗
 	[430754] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 虚空壳壁
+	[430805] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 弧形虚空
 	[430812] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 诱集暗影
 	[432781] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 拥抱虚空
 	[432959] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 虚空齐射

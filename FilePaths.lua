@@ -3417,6 +3417,7 @@ addon.FilePaths = {
 	[339415] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  雷音贯耳
       --  Kul'tharok  库尔萨洛克
 	[473513] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  诅咒者的盛宴
+	[474087] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  通灵喷发
 	[474298] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  抽取灵魂
 	[1215787] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  死亡螺旋
 	[1223803] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  --  黑暗之井

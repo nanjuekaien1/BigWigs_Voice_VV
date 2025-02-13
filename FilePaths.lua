@@ -2284,7 +2284,7 @@ addon.FilePaths = {
 	[276229] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 微型飞弹
 	  -- Trash
 	[262092] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 吸入气雾
-	[262268] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 腐蚀性化合物
+	--[262268] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 腐蚀性化合物
 	[262377] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 搜寻并摧毁
 	[262383] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 布置蛛形地雷
 	[263202] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 石枪

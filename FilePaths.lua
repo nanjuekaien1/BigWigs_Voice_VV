@@ -5383,6 +5383,7 @@ addon.FilePaths = {
 	[465754] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 火焰喷射器
 	[465813] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 昏睡毒液
 	[465827] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 扭曲鲜血
+	[468631] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 鱼叉
 	[468726] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 安放爆盐炸弹
 	[469721] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 逆流
 	[469799] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 过载

@@ -2279,7 +2279,7 @@ addon.FilePaths = {
 	[270042] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 艾泽里特催化剂
 	  -- Mogul Razdunk  商业大亨拉兹敦克
 	[260280] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 加特林机枪
-	[260829] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 自控导弹
+	[260813] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 自控导弹
 	[271456] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 钻地猛砸
 	[276229] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 微型飞弹
 	  -- Trash
@@ -2334,6 +2334,7 @@ addon.FilePaths = {
 	[291626] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  --  切割光线
 	[291865] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  --  离子校正
 	[291928] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  --  超荷电磁炮
+	[292264] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  --  巨力震击
 	[292290] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  --  第九十九号协议
 	  -- Trash
 	[293670] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  --  链刃
@@ -5213,7 +5214,7 @@ addon.FilePaths = {
 	[429093] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 卑鄙“轨”术
 	  --  Blazikon  布雷炙(zhi)孔
 	[421817] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 点芯弹幕
-	[422700] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 灭火强风（私有）
+	[421910] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 灭火强风
 	[423109] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 燃焰地狱火
 	[424212] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 点燃
 	[425394] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 吹灭之息
@@ -5223,6 +5224,7 @@ addon.FilePaths = {
 	[421067] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 熔化蜡油
 	[421653] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 被诅咒的蜡油
 	[422648] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 暗焰之锄
+	[420696] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 投掷暗焰	
 	[426145] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 偏执失心
 	  --  The Darkness  黑暗之主
 	[426943] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 晦幽骤兴
@@ -5298,6 +5300,7 @@ addon.FilePaths = {
 	[448492] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 雷霆一击
 	[448515] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 神圣审判
 	[448787] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 纯净
+	[448791] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 神圣鸣罪
 	[453458] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 铁蒺藜
 	--  The Rookery   驭雷栖巢
 	  --  Kyrioss  凯里欧斯 

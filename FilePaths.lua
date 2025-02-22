@@ -5210,7 +5210,7 @@ addon.FilePaths = {
 	  --  Ol' Waxbeard  老蜡须
 	[422116] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 鲁莽冲锋
 	[422245] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 穿岩凿
-	[423693] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 诱引烛焰
+	[422163] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 诱引烛焰
 	[429093] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 卑鄙“轨”术
 	  --  Blazikon  布雷炙(zhi)孔
 	[421817] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 点芯弹幕
@@ -5224,7 +5224,7 @@ addon.FilePaths = {
 	[421067] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 熔化蜡油
 	[421653] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 被诅咒的蜡油
 	[422648] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 暗焰之锄
-	[420696] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 投掷暗焰	
+	[420696] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 投掷暗焰
 	[426145] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 偏执失心
 	  --  The Darkness  黑暗之主
 	[426943] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 晦幽骤兴

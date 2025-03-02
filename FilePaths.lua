@@ -4993,7 +4993,8 @@ addon.FilePaths = {
 	--[463408] = "TheWarWithin\\Delves\\",  -- 冰霜灌注
 	[470582] = "TheWarWithin\\Delves\\",  -- 沼泽箭
 	[470612] = "TheWarWithin\\Delves\\",  -- 腐蚀胆汁
-    --	第二赛季 安德麦 
+    --	第二赛季 安德麦
+	[457448] = "TheWarWithin\\Delves\\",  -- 暗影爆发
 	[1217903] = "TheWarWithin\\Delves\\",  -- 火焰箭
 	[1217905] = "TheWarWithin\\Delves\\",  -- 召唤钻探机
 	[1217913] = "TheWarWithin\\Delves\\",  -- 黑暗灼烧

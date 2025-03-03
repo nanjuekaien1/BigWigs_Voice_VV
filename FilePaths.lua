@@ -5055,6 +5055,7 @@ addon.FilePaths = {
 	[474001] = "TheWarWithin\\Delves\\",  -- 浴血奋战
 	[474004] = "TheWarWithin\\Delves\\",  -- 钻地震击
 	[1213656] = "TheWarWithin\\Delves\\",  -- 加班加点！
+	[1217589] = "TheWarWithin\\Delves\\",  -- 孢子爆炸
 
 		-- Dungeon 地下城
 	--  Ara-Kara, City of Echoes   艾拉-卡拉，回响之城
@@ -5443,6 +5444,7 @@ addon.FilePaths = {
       --  Trash
 	[462771] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 勘测光束
 	[463058] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 嗜血狞笑
+	[465120] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 上紧发条
 	[465408] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 快速建造
 	[465666] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 火花猛击
 	[465682] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 突击调查

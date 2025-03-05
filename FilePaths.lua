@@ -5058,7 +5058,17 @@ addon.FilePaths = {
 	[474004] = "TheWarWithin\\Delves\\",  -- 钻地震击
 	[1213656] = "TheWarWithin\\Delves\\",  -- 加班加点！
 	[1217589] = "TheWarWithin\\Delves\\",  -- 孢子爆炸
-
+	[1213852] = "TheWarWithin\\Delves\\",  -- 
+	[1213950] = "TheWarWithin\\Delves\\",  -- 
+	[1214043] = "TheWarWithin\\Delves\\",  -- 
+	[1214052] = "TheWarWithin\\Delves\\",  -- 
+	[1214147] = "TheWarWithin\\Delves\\",  -- 
+	[1215521] = "TheWarWithin\\Delves\\",  -- 
+	[1217371] = "TheWarWithin\\Delves\\",  -- 
+	[1217661] = "TheWarWithin\\Delves\\",  -- 
+	[1217667] = "TheWarWithin\\Delves\\",  -- 
+	[1218153] = "TheWarWithin\\Delves\\",  -- 
+		
 		-- Dungeon 地下城
 	--  Ara-Kara, City of Echoes   艾拉-卡拉，回响之城
 	  --  Avanoxx  阿瓦诺克斯

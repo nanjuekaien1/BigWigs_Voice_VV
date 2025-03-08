@@ -5757,7 +5757,7 @@ addon.FilePaths = {
 	[1215953] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 静电充能
 	[1216142] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 鲁莽怒火
 	  --  Chrome King Gallywix	 铬武大王加里维克斯
-	[-31482] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 
+	--[-31482] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 召唤增援
 	[465952] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 超大捆劣性炸药
 	[466154] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 爆破燃烧
 	[466165] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 1500磅的“哑弹”
@@ -5772,15 +5772,18 @@ addon.FilePaths = {
 	[469286] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 极巨大线圈
 	[469362] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 充能的极巨大炸弹
 	[469404] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 极巨大爆破！
-	[471352] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 马力全开！
-	[1214226] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 陷坑重击
+	[469795] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 极巨大炸弹爆炸
+	--[471352] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 马力全开！
+	--[1214226] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 陷坑重击
 	[1214229] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 末日决战级护板
-	[1214607] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 超大更猛炸弹轰击
+	[1214226] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 毁灭一切！！！
+	[1214369] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 超大更猛炸弹轰击
 	[1215209] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 破坏区域
 	[1216845] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 扳手
 	[1216852] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 笨拙狂怒
 	[1220290] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 技巧射击
 	[1220761] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 机械工程师的弹药筒
-	[1220846] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 控制熔毁
+	--[1220846] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 控制熔毁
+	[1222831] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 过载线圈
 	
 }

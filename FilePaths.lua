@@ -5753,7 +5753,8 @@ addon.FilePaths = {
 	[472631] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 震地牢狱
 	[472782] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 致敬
 	[1214623] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 激怒
-	[1215595] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 故障导线
+	[1215591] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 故障导线
+	--[1215595] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 故障导线
 	[1215953] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 静电充能
 	[1216142] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 鲁莽怒火
 	  --  Chrome King Gallywix	 铬武大王加里维克斯
@@ -5770,6 +5771,7 @@ addon.FilePaths = {
 	[466958] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 打压自尊
 	[467182] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 压制
 	[469286] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 极巨大线圈
+	[469327] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 极巨大冲击
 	[469362] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 充能的极巨大炸弹
 	[469404] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 极巨大爆破！
 	[469795] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 极巨大炸弹爆炸

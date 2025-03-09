@@ -5502,7 +5502,7 @@ addon.FilePaths = {
 	[458695] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 超载激光
 	[458799] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 超载大地
 	[458838] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 压制爆发
-	  -- The Gobfather
+	  -- The Gobfather 地精教父
 	[1216505] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 炸弹场
 	[1216687] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 炽燃烈焰
 	[1216709] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 死从天降

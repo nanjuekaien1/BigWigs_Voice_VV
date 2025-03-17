@@ -5068,6 +5068,8 @@ addon.FilePaths = {
 	[1217661] = "TheWarWithin\\Delves\\",  -- 示意走狗
 	[1217667] = "TheWarWithin\\Delves\\",  -- 能量导向护盾
 	[1218153] = "TheWarWithin\\Delves\\",  -- 燃烧的残骸
+	[472842] = "TheWarWithin\\Delves\\",  -- 摧毁
+	[473541] = "TheWarWithin\\Delves\\",  -- 拳击连打
 		
 		-- Dungeon 地下城
 	--  Ara-Kara, City of Echoes   艾拉-卡拉，回响之城
@@ -5660,6 +5662,7 @@ addon.FilePaths = {
 	[460116] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 整修
 	[465865] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 坦爆重击
 	[466615] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 防御护板
+	[468147] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 废气
 	[471403] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 冷酷刹戮
 	  --  Cauldron of Carnage  血腥大熔炉
 	[463900] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 雷鼓齐射
@@ -5702,6 +5705,7 @@ addon.FilePaths = {
 	[467117] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 过载
 	[467135] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 压缩垃圾
 	[472893] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 焚化
+	[473119] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 超短引线
 	[1217954] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 熔毁
 	[1217975] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 毁灭爆破
 	[1218704] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 原型能源线圈
@@ -5762,6 +5766,7 @@ addon.FilePaths = {
 	--[1215595] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 故障导线
 	[1215953] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 静电充能
 	[1216142] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 鲁莽怒火
+	[1222948] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 电气充能护盾
 	  --  Chrome King Gallywix	 铬武大王加里维克斯
 	--[-31482] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 召唤增援
 	[465952] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 超大捆劣性炸药
@@ -5780,7 +5785,7 @@ addon.FilePaths = {
 	[469362] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 充能的极巨大炸弹
 	[469404] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 极巨大爆破！
 	[469795] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 极巨大炸弹爆炸
-	--[471352] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 马力全开！
+	[474130] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 机械大师的弹药筒
 	--[1214226] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 陷坑重击
 	[1214229] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 末日决战级护板
 	[1214226] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 毁灭一切！！！
@@ -5788,6 +5793,10 @@ addon.FilePaths = {
 	[1215209] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 破坏区域
 	[1216845] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 扳手
 	[1216852] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 笨拙狂怒
+	[1217987] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 组合式弹药筒
+	[1218488] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 散射弹药筒
+	[1218546] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 超大特猛炸弹弹幕
+	[1218696] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 浩劫火箭
 	[1220290] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 技巧射击
 	[1220761] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 机械工程师的弹药筒
 	--[1220846] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 控制熔毁

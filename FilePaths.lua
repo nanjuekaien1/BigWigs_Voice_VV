@@ -5329,6 +5329,7 @@ addon.FilePaths = {
 	[428650] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 燃烧反冲
 	[430171] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 镇火冲击
 	[440652] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 激涌之蜡
+	[469620] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 蠕行暗影
 	[1218177] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 强力践踏
 	[1218131] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 燃烧的蜡烛
 	--  Priory of the Sacred Flame   圣焰隐修院 

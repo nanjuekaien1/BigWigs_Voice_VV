@@ -2051,6 +2051,8 @@ addon.FilePaths = {
 	[311399] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 利刃绽放
 	[311456] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 咆哮冲击
 	[311996] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 打开幻象
+	[1223111] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 恶意切割
+	[1223112] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 疯狂咆哮
 	-- Horrific Vision of Orgrimmar 奥格瑞玛惊魂幻象
 	  -- Thrall 萨尔
 	[297574] = "BattleForAzeroth\\HorrificVision\\Orgrimmar\\",  -- 绝望
@@ -5192,6 +5194,15 @@ addon.FilePaths = {
 	[1218153] = "TheWarWithin\\Delves\\",  -- 燃烧的残骸
 	[472842] = "TheWarWithin\\Delves\\",  -- 摧毁
 	[473541] = "TheWarWithin\\Delves\\",  -- 拳击连打
+	-- 过载地下堡
+	[455380] = "TheWarWithin\\Delves\\",  -- 链齿重拳
+	[455613] = "TheWarWithin\\Delves\\",  -- 机轴突袭
+	[1220472] = "TheWarWithin\\Delves\\",  -- 过载
+	[1220665] = "TheWarWithin\\Delves\\",  -- 过载猛击 
+	[1227334] = "TheWarWithin\\Delves\\",  -- 维护 
+	[1227345] = "TheWarWithin\\Delves\\",  -- 坚钢防御
+	[1239731] = "TheWarWithin\\Delves\\",  -- 魔像重击
+
 		
 		-- Dungeon 地下城
 	--  Ara-Kara, City of Echoes   艾拉-卡拉，回响之城

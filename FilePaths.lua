@@ -3145,7 +3145,7 @@ addon.FilePaths = {
 	[318971] = "BattleForAzeroth\\Raid\\Ny'alotha,TheWakingCity\\",  --  
 	[318976] = "BattleForAzeroth\\Raid\\Ny'alotha,TheWakingCity\\",  --  
 	
-	--  [Shadowlands 暗影界]
+	--  [Shadowlands 暗影国度]
 		-- Dungeon 地下城	
 	--  De Other Side  彼界	
 	[320132] = "Shadowlands\\Dungeon\\DeOtherSide\\",  --  暗影之怒
@@ -3183,40 +3183,45 @@ addon.FilePaths = {
 	[334051] = "Shadowlands\\Dungeon\\DeOtherSide\\",  --  喷涌黑暗
 	[334970] = "Shadowlands\\Dungeon\\DeOtherSide\\",  --  凝结
 	[340026] = "Shadowlands\\Dungeon\\DeOtherSide\\",  --  哀嚎之痛	
-	--  Halls of Atonement  赎罪大厅	
-	[319733] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  唤石
-	[319941] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  碎石之跃
+	--  Halls of Atonement  赎罪大厅
+	  -- Halkias  哈尔吉亚斯
 	[322711] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  折射罪光
 	[322936] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  粉碎砸击
 	[322943] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  举起残骸
 	[323001] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  玻璃裂片
-	[323143] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  念力投掷
-	[323236] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  释放苦痛
-	[323437] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  傲慢罪印
+	[339237] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  罪光幻象
+      --  Echelon  艾谢朗
+	[319733] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  唤石
+	[319941] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  碎石之跃
+	[326389] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  鲜血洪流
+	[328206] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  羁石诅咒
+	  --  High Adjudicator Aleez  高阶裁决官阿丽兹
 	[323538] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  能量箭
 	[323552] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  能量箭雨
 	[323650] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  萦绕锁定
+	[329340] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  心能喷泉
+	  --  Lord Chamberlain  宫务大臣
+	[323143] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  念力投掷
+	[323236] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  释放苦痛
+	[323437] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  傲慢罪印
+	[327885] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  痛苦爆发
+	[328791] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  哀伤仪式
+	[329104] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  暗影之门
+	  --  小怪
 	[325523] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  致命推刺
 	[325700] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  收集罪恶
 	[325701] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  生命虹吸
 	[325799] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  急速射击
 	[325876] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  湮灭诅咒
-	[326389] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  鲜血洪流
 	[326409] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  痛击
 	[326441] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  罪孽震击
 	[326450] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  忠心的野兽
 	[326607] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  变为石头
 	[326891] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  痛楚
 	[326997] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  猛力横扫
-	[327885] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  痛苦爆发
-	[328206] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  羁石诅咒
-	[328791] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  哀伤仪式
-	[329104] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  暗影之门
-	[329340] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  心能喷泉
-	[339237] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  罪光幻象
 	[342171] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  忠诚的石裔魔
 	[344993] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  锯齿横扫
-	[346866] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  岩石吐息	
+	[346866] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  岩石吐息
 	--  Mists of Tirna Scithe  塞兹仙林的迷雾	
 	  -- Ingra Maloch	 英格拉·马洛克
 	[323057] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  --  灵魂之箭
@@ -3456,7 +3461,7 @@ addon.FilePaths = {
 	[357260] = "Shadowlands\\Dungeon\\Tazavesh,TheVeiledMarket\\",  --  不稳定的裂隙
 	[357284] = "Shadowlands\\Dungeon\\Tazavesh,TheVeiledMarket\\",  --  重唤活力
 	[357512] = "Shadowlands\\Dungeon\\Tazavesh,TheVeiledMarket\\",  --  狂暴冲锋
-	[359028] = "Shadowlands\\Dungeon\\Tazavesh,TheVeiledMarket\\",  --  安保猛击	
+	[359028] = "Shadowlands\\Dungeon\\Tazavesh,TheVeiledMarket\\",  --  安保猛击
 	--  The Necrotic Wake  通灵战潮
 	--  Blightbone	凋骨
 	[320596] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  --  深重呕吐
@@ -5615,6 +5620,48 @@ addon.FilePaths = {
 	[1214468] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 特技射击
 	[1216039] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- R.P.G.G.
 	[1217496] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 噼啪溅跃
+	--  Eco-Dome Al'dani   奥尔达尼生态圆顶
+	  --  Azhiccar  阿兹希卡
+	[1217232] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 吞噬
+	[1217247] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 盛宴
+	[1217327] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 入侵尖啸
+	[1217446] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 消化唾沫
+	[1217664] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 痛击
+	[1227745] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 毒性反刍
+	  --  Taah'bat and A'wazj  塔尔·巴特和阿瓦兹吉
+	[1219457] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 虚体
+	[1219482] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 裂隙利爪
+	[1219700] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 奥术突袭
+	[1227918] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 迁跃打击
+	[1236130] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 束缚的标枪
+	  --  Soul-Scribe  撰魂师
+	[1224793] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 命运低语
+	[1224865] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 命缚者
+	[1225174] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 仪式匕首
+	[1225218] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 对未知的畏惧
+	[1226444] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 重伤的命运
+	[1236703] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 永恒织缕
+	[1237184] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 命运裂片
+	  --  小怪 
+	[1215850] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 碾地猛击
+	[1221152] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 暴食猛击
+	[1221190] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 暴食瘴气
+	[1221483] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 电弧能量
+	[1221532] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 异变仪式
+	[1222202] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 奥术燃烧
+	[1222341] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 幽暗之咬
+	[1222356] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 迁跃
+	[1223000] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 卡雷什之拥
+	[1223007] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 掘进喷发
+	[1226111] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 不稳定的喷发
+	[1226306] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 吞噬灵魂
+	[1229510] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 弧光震击
+	[1231244] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 不稳定的核心
+	[1235368] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 奥术猛袭
+	[1236981] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 干扰手雷
+	[1237195] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 钻地冲击
+	[1237220] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 猛烈沙暴
+	[1239229] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 卡雷什涌动
 
 	--   TWW  地心之战（世界） 
 	  --  KhazAlgar 世界首领
@@ -5939,4 +5986,7 @@ addon.FilePaths = {
 	--[1220846] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 控制熔毁
 	--[1222831] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 过载线圈
 	
+	--  Manaforge Omega  法力熔炉：欧米伽
+	  --  Plexus Sentinel  
+	--[1222831] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 	
 }

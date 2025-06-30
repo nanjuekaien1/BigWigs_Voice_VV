@@ -42,10 +42,16 @@ BigWigsAPI:RegisterCountdown(VoiceID, {
    "Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\9.ogg",
    "Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\10.ogg",
 })
+-- 优化代码默认首次安装加载VV倒数语音，自己指定语音后使用指定的倒数语音
+local function safeSetVoice(pluginName, defaultVoice)
+    local plugin = BigWigs:GetPlugin(pluginName)
+    if plugin and plugin.db and plugin.db.profile then
+        local currentVoice = plugin.db.profile.voice
+        if not currentVoice or currentVoice == "" then
+            plugin.db.profile.voice = defaultVoice
+        end
+    end
+end
 
--- 不喜欢VV的数字语音删除以下代码
-local Pull = BigWigs:GetPlugin("Pull")
-Pull.db.profile.voice = VoiceID
-
-local Countdown = BigWigs:GetPlugin("Countdown")
-Countdown.db.profile.voice = VoiceID
+safeSetVoice("Pull", VoiceID)
+safeSetVoice("Countdown", VoiceID)

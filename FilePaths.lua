@@ -3198,8 +3198,10 @@ addon.FilePaths = {
 	  --  High Adjudicator Aleez  高阶裁决官阿丽兹
 	[323538] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  能量箭
 	[323552] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  能量箭雨
+	[323597] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  
 	[323650] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  萦绕锁定
 	[329340] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  心能喷泉
+	[1236512] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  
 	  --  Lord Chamberlain  宫务大臣
 	[323143] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  念力投掷
 	[323236] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  释放苦痛
@@ -3207,21 +3209,33 @@ addon.FilePaths = {
 	[327885] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  痛苦爆发
 	[328791] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  哀伤仪式
 	[329104] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  暗影之门
+	[1236973] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  
 	  --  小怪
 	[325523] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  致命推刺
 	[325700] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  收集罪恶
 	[325701] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  生命虹吸
-	[325799] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  急速射击
+	[325793] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  
 	[325876] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  湮灭诅咒
 	[326409] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  痛击
 	[326441] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  罪孽震击
 	[326450] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  忠心的野兽
 	[326607] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  变为石头
+	[326638] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  
+	[326847] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  
 	[326891] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  痛楚
 	[326997] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  猛力横扫
 	[342171] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  忠诚的石裔魔
 	[344993] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  锯齿横扫
 	[346866] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  岩石吐息
+	[1235060] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  
+	[1235257] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  
+	[1235326] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  
+	[1235762] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  
+	[1235766] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  
+	[1236614] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  
+	[1237071] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  
+	[1237602] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  --  
+
 	--  Mists of Tirna Scithe  塞兹仙林的迷雾	
 	  -- Ingra Maloch	 英格拉·马洛克
 	[323057] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  --  灵魂之箭
@@ -5655,6 +5669,7 @@ addon.FilePaths = {
 	[1223007] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 掘进喷发
 	[1226111] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 不稳定的喷发
 	[1226306] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 吞噬灵魂
+	[1229474] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 啃噬
 	[1229510] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 弧光震击
 	[1231244] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 不稳定的核心
 	[1235368] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 奥术猛袭

@@ -28,7 +28,7 @@ BigWigsAPI.RegisterVoicePack("VV")
 
 -- 倒数语音
 
-local VoiceID = "中文语音：VV(女)"    --改成自己名字，开怪/倒数的语音自动加载成自己的倒数语音
+local VoiceID = "中文语音：VV(女)"
 
 BigWigsAPI:RegisterCountdown(VoiceID, {
    "Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\1.ogg",
@@ -43,6 +43,7 @@ BigWigsAPI:RegisterCountdown(VoiceID, {
    "Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\10.ogg",
 })
 
+-- 不喜欢VV的数字语音删除以下代码
 local Pull = BigWigs:GetPlugin("Pull")
 Pull.db.profile.voice = VoiceID
 

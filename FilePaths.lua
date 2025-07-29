@@ -23,10 +23,10 @@ addon.FilePaths = {
 	-- ["soporific_shimmerdust"] = "Added\\",  -- 催眠光粉彼界
 	["stages"] = "Added\\",  -- 转阶段
 	["minecart"] = "Added\\",  -- 矿车启动暗焰裂口
-	["trading_game"] = "Added\\",  --交易游戏集市
-	["warmup"] = "Added\\",  --卖品会激活战斗 集市
+	["trading_game"] = "Added\\",  --交易游戏--集市
+	["warmup"] = "Added\\",  --卖品会激活战斗--集市
 	["weapons_stockpiles_pilfered"] = "Added\\",  -- 掠夺武器“激活道具”水闸
-	["vault_purifier"] = "Added\\",  --宝库增援集市
+	["vault_purifier"] = "Added\\",  --宝库增援-宏图
 	["rift_stability"] = "Added\\",  -- 传送门出现 
 	
 	-- 技能列表[查询可以按照副本名称搜索]
@@ -3204,7 +3204,7 @@ addon.FilePaths = {
 	[329340] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 心能喷泉
 	[1236512] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 不稳定的心能
 	  -- Lord Chamberlain  宫务大臣
-	[323143] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 念力投掷
+	[323142] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 念力投掷
 	[323236] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 释放苦痛
 	[323437] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 傲慢罪印
 	[327885] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 痛苦爆发
@@ -3216,7 +3216,7 @@ addon.FilePaths = {
 	[325700] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 收集罪恶
 	[325701] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 生命虹吸
 	[325793] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 急速射击
-	[325876] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 湮灭诅咒
+	[325876] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 湮灭印记
 	[326409] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 痛击
 	[326441] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 罪孽震击
 	[326450] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 忠心的野兽
@@ -3405,7 +3405,7 @@ addon.FilePaths = {
 	[345770] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 扣押违禁品
 	[345990] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 监禁室
 	[346204] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 武装安保
-	--[347949] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 审讯
+	[347949] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 审讯
 	[348128] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 全副武装
 	[348350] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 审讯
 	[1236348] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 充能劈斩
@@ -3440,10 +3440,10 @@ addon.FilePaths = {
 	[359028] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 安保猛击
 	[1241032] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 最终警告
 	  -- So'azmi  索·阿兹密
-	--[347249] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 分隔术
-	--[347610] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 奥能手里波
-	--[347623] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 迅斩
-	--[357188] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 双重秘术
+	[347249] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 分隔术
+	[347610] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 奥能手里波
+	[347623] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 迅斩
+	[357188] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 双重秘术
 	[1245579] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 奥能手里波
 	[1245634] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 分隔术
 	[1245669] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 双重秘术
@@ -3451,6 +3451,7 @@ addon.FilePaths = {
 	  -- Hylbrande  希尔布兰德 
 	[346116] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 剪切挥舞
 	[346766] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 定期消毒
+	[346957] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 火焰净除
 	[346959] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 火焰净除
 	[347094] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 泰坦粉碎
 	[353312] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 净化爆发
@@ -3461,32 +3462,39 @@ addon.FilePaths = {
 	[350517] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 双倍速
 	[352345] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 船锚射击
 	[354334] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 被钩住！
+	[358947] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 燃烧沥青
+	[1240102] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 定时炸弹
 	  -- So'leah  索·莉亚
 	[350796] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 凌光火花
 	[350804] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 坍缩能量
+	[350875] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 凌光震荡
 	[351086] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 势不可挡
 	[351096] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 能量裂片
 	[351119] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 闪击手里剑
 	[351124] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 召唤刺客
+	[351646] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 凌光新星
 	[353635] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 坍缩之星
 	  -- Tazavesh Trash
 	[347716] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 开信刀  
 	[347721] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 打开牢笼
 	[347775] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 垃圾信息过滤
-	[351047] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 代理打击
+	[352796] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 代理打击
+	[355048] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 破壳猛击
 	[355057] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 鱼人战吼
 	[355132] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 活力鱼串
+	[355234] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 不稳定的河豚
 	[355429] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 海潮践踏
+	[355464] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 投掷巨石
 	[355473] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 震荡地雷
 	[355477] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 强力脚踢
 	[355479] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 致命武力
-	--[355480] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 致命武力
+	[355480] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 致命武力
 	[355577] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 连环爆裂
 	[355584] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 充能脉冲
 	[355637] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 压制打击
 	[355640] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 重装方阵
 	[355642] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 凌光齐射
-	--[355782] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 力量增幅器
+	[355782] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 力量增幅器
 	[355830] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 迅斩
 	[355888] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 强光魔棒 
 	[355891] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 传送
@@ -3497,7 +3505,7 @@ addon.FilePaths = {
 	[356001] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 光线切分者
 	[356031] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 静滞射线
 	[356133] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 超级塞松啤酒
-	--[356324] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 强化约束雕文
+	[356324] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 强化约束雕文
 	[356404] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 熔岩吐息
 	[356407] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 上古恐慌
 	[356537] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 强化约束雕文
@@ -3514,9 +3522,11 @@ addon.FilePaths = {
 	[357284] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 重唤活力
 	[357508] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 狂野鞭笞
 	[357512] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 狂暴冲锋
+	[368661] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 利剑投掷
 	[1240821] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 充能猛击
 	[1240912] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 穿刺
 	[1244443] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 力量增幅器
+	[1244650] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 海潮爆发
 
 	-- The Necrotic Wake  通灵战潮
 	-- Blightbone	凋骨
@@ -5264,7 +5274,56 @@ addon.FilePaths = {
 	[1227334] = "TheWarWithin\\Delves\\",  -- 维护 
 	[1227345] = "TheWarWithin\\Delves\\",  -- 坚钢防御
 	[1239731] = "TheWarWithin\\Delves\\",  -- 魔像重击
-
+	--  第三赛季
+	--  尼尔西坦船长<Captain Nil'hitan>
+	[1239350] = "TheWarWithin\\Delves\\",  -- 全体听令！
+	[1239407] = "TheWarWithin\\Delves\\",  -- 冲刺
+	[1239427] = "TheWarWithin\\Delves\\",  -- 击沉它！
+	[1239445] = "TheWarWithin\\Delves\\",  -- 舷侧攻击
+	--  传送门主管哈尔桑<Portalmaster Halsan>
+	[1241753] = "TheWarWithin\\Delves\\",  -- 传送门注能
+	[1241991] = "TheWarWithin\\Delves\\",  -- 卡雷什定时炸弹
+	[1242142] = "TheWarWithin\\Delves\\",  -- 内爆
+	--  虚空骑手查尔纳克斯<Voidrider Challnax>
+	[1238892] = "TheWarWithin\\Delves\\",  -- 虚无之息
+	[1238909] = "TheWarWithin\\Delves\\",  -- 晦暗毁灭
+	[1238930] = "TheWarWithin\\Delves\\",  -- 穿刺
+	[1239134] = "TheWarWithin\\Delves\\",  -- 宇宙宁静
+	--  节点女亲王凯威扎<Nexus-Princess Ky'veza>
+	[1225642] = "TheWarWithin\\Delves\\",  -- 君威暗世 
+	[1244462] = "TheWarWithin\\Delves\\",  -- 祈唤暗影 
+	[1244473] = "TheWarWithin\\Delves\\",  -- 遁入暗影 
+	[1244505] = "TheWarWithin\\Delves\\",  -- 变易暗影 
+	[1244600] = "TheWarWithin\\Delves\\",  -- 暗影爆发 
+	[1244601] = "TheWarWithin\\Delves\\",  -- 回归暗影 
+	[1245035] = "TheWarWithin\\Delves\\",  -- 黑暗狂戮 
+	[1245240] = "TheWarWithin\\Delves\\",  -- 节点匕首 
+	[1245582] = "TheWarWithin\\Delves\\",  -- 虚空裂隙 
+	[1250050] = "TheWarWithin\\Delves\\",  -- 充能 
+	--  凯威扎精英（稀有）<Ky'veza Rares>
+	[1237258] = "TheWarWithin\\Delves\\",  -- 衰腐之池 
+	[1237671] = "TheWarWithin\\Delves\\",  -- 沙尘暴 
+	[1238713] = "TheWarWithin\\Delves\\",  -- 重力粉碎 
+	[1238737] = "TheWarWithin\\Delves\\",  -- 精华顺劈 
+	[1242469] = "TheWarWithin\\Delves\\",  -- 卡雷什之沙 
+	[1242521] = "TheWarWithin\\Delves\\",  -- 呼唤沙丘飞禽
+	[1242534] = "TheWarWithin\\Delves\\",  -- 召唤迁跃兽 
+	[1242752] = "TheWarWithin\\Delves\\",  -- 无能的化身 
+	[1243017] = "TheWarWithin\\Delves\\",  -- 沙尘倾压
+	[1243448] = "TheWarWithin\\Delves\\",  -- 复仇誓言 
+	[1244108] = "TheWarWithin\\Delves\\",  -- 惊骇尖啸 
+	[1244249] = "TheWarWithin\\Delves\\",  -- 突破冲锋 
+	[1244313] = "TheWarWithin\\Delves\\",  -- 奔流能量 
+	[1245156] = "TheWarWithin\\Delves\\",  -- 凯威扎保宏伟登场 
+	[1245203] = "TheWarWithin\\Delves\\",  -- 黑暗狂戮 
+	[1245240] = "TheWarWithin\\Delves\\",  -- 节点匕首 
+	--  虚灵部队<Ethereal Trash>
+	[1231144] = "TheWarWithin\\Delves\\",  -- 虚无之息 
+	[1236229] = "TheWarWithin\\Delves\\",  -- 奥能反斥器 
+	[1236256] = "TheWarWithin\\Delves\\",  -- 锐锋顺劈 
+	[1236354] = "TheWarWithin\\Delves\\",  -- 灵魂虹吸 
+	[1236428] = "TheWarWithin\\Delves\\",  -- 见证吧！ 
+	[1236770] = "TheWarWithin\\Delves\\",  -- 奥术喷流 
 		
 		-- Dungeon 地下城
 	-- Ara-Kara, City of Echoes   艾拉-卡拉，回响之城
@@ -5298,7 +5357,7 @@ addon.FilePaths = {
 	[434824] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 蛛网喷射
 	[434830] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 邪恶缠网
 	[436614] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 裹体之网	
-	[438622] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 剧毒崩裂	
+	--[438622] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 剧毒崩裂	
 	[438826] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 毒云
 	[438877] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 巢群的召唤
 	[439208] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 缠丝束缚
@@ -5306,7 +5365,7 @@ addon.FilePaths = {
 	[453161] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 穿刺
 	[465012] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 猛击
 	[1241693] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 虫群风暴
-	[1241693] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 污血	
+	[1241785] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 污血	
 	-- City of Threads    千丝之城
 	  -- Orator Krix'vizk  演说者基克斯威兹克
 	[434722] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 压制
@@ -5547,7 +5606,7 @@ addon.FilePaths = {
 	[423015] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 谴罚者之盾
 	[423051] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 灼烧之光
 	[423062] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 纯洁之锤
-	[446268] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 献祭葬火
+	[446368] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 献祭葬火
 	[446403] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 牺牲烈焰
 	[446525] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 无束焚焰
 	  -- Prioress Murrpray  隐修院长穆普雷
@@ -5651,6 +5710,7 @@ addon.FilePaths = {
 	  -- Demolition Duo  破拆双人组
 	[459779] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 滚桶冲锋
 	[459799] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 重击
+	[460602] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 快速射击
 	[460867] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 天降神雷！
 	[470090] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 天人永隔
 	[473690] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 动能胶质炸药
@@ -5723,6 +5783,7 @@ addon.FilePaths = {
 	[1223007] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 掘进喷发
 	[1226111] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 不稳定的喷发
 	[1226306] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 吞噬灵魂
+	[1226492] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 干扰仪式
 	[1229474] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 啃噬
 	[1229510] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 弧光震击
 	[1231244] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 不稳定的核心
@@ -5731,6 +5792,7 @@ addon.FilePaths = {
 	[1237195] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 钻地冲击
 	[1237220] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 猛烈沙暴
 	[1239229] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 卡雷什涌动
+	[1248699] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 吞噬灵魂
 
 	--  TWW  地心之战（世界） 
 	  -- KhazAlgar 世界首领

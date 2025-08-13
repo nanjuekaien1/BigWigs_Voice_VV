@@ -5290,13 +5290,13 @@ addon.FilePaths = {
 	[1238930] = "TheWarWithin\\Delves\\",  -- 穿刺
 	[1239134] = "TheWarWithin\\Delves\\",  -- 宇宙宁静
 	--  节点女亲王凯威扎<Nexus-Princess Ky'veza>
-	[1225642] = "TheWarWithin\\Delves\\",  -- 君威暗世 
+	--[1225642] = "TheWarWithin\\Delves\\",  -- 君威暗世 
 	[1244462] = "TheWarWithin\\Delves\\",  -- 祈唤暗影 
-	[1244473] = "TheWarWithin\\Delves\\",  -- 遁入暗影 
-	[1244505] = "TheWarWithin\\Delves\\",  -- 变易暗影 
+	--[1244473] = "TheWarWithin\\Delves\\",  -- 遁入暗影 
+	--[1244505] = "TheWarWithin\\Delves\\",  -- 变易暗影 
 	[1244600] = "TheWarWithin\\Delves\\",  -- 暗影爆发 
-	[1244601] = "TheWarWithin\\Delves\\",  -- 回归暗影 
-	[1245035] = "TheWarWithin\\Delves\\",  -- 黑暗狂戮 
+	--[1244601] = "TheWarWithin\\Delves\\",  -- 回归暗影 
+	--[1245035] = "TheWarWithin\\Delves\\",  -- 黑暗狂戮 
 	[1245240] = "TheWarWithin\\Delves\\",  -- 节点匕首 
 	[1245582] = "TheWarWithin\\Delves\\",  -- 虚空裂隙 
 	[1250050] = "TheWarWithin\\Delves\\",  -- 充能 
@@ -5310,7 +5310,8 @@ addon.FilePaths = {
 	[1242534] = "TheWarWithin\\Delves\\",  -- 召唤迁跃兽 
 	[1242752] = "TheWarWithin\\Delves\\",  -- 无能的化身 
 	[1243017] = "TheWarWithin\\Delves\\",  -- 沙尘倾压
-	[1243448] = "TheWarWithin\\Delves\\",  -- 复仇誓言 
+	[1243448] = "TheWarWithin\\Delves\\",  -- 复仇誓言
+    [1243656] = "TheWarWithin\\Delves\\",  -- 奥术屏障
 	[1244108] = "TheWarWithin\\Delves\\",  -- 惊骇尖啸 
 	[1244249] = "TheWarWithin\\Delves\\",  -- 突破冲锋 
 	[1244313] = "TheWarWithin\\Delves\\",  -- 奔流能量 
@@ -5323,7 +5324,8 @@ addon.FilePaths = {
 	[1236256] = "TheWarWithin\\Delves\\",  -- 锐锋顺劈 
 	[1236354] = "TheWarWithin\\Delves\\",  -- 灵魂虹吸 
 	[1236428] = "TheWarWithin\\Delves\\",  -- 见证吧！ 
-	[1236770] = "TheWarWithin\\Delves\\",  -- 奥术喷流 
+	[1236770] = "TheWarWithin\\Delves\\",  -- 奥术喷流
+	[1237160] = "TheWarWithin\\Delves\\",  -- 辐射之池
 		
 		-- Dungeon 地下城
 	-- Ara-Kara, City of Echoes   艾拉-卡拉，回响之城
@@ -5822,6 +5824,9 @@ addon.FilePaths = {
 	[1216687] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 炽燃烈焰
 	[1216709] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 死从天降
 	[1216812]  = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 极巨大火箭猛击
+	  -- Reshanor, The Untethered  雷什诺尔，无拘者
+	[1237893] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 碎帷咆哮
+	[1237905] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 暮光之息
 	
 	-- Raid  地心团本
 	 -- Nerub'ar Palace   尼鲁巴尔王宫
@@ -6120,6 +6125,7 @@ addon.FilePaths = {
 	-- Manaforge Omega  法力熔炉：欧米伽
 	  -- Plexus Sentinel   集能哨兵
 	[1218625] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 错位矩阵
+	[1218668] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 能量切割者	
 	[1219223] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 灰飞烟灭
 	[1219248] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 奥术辐射
 	[1219263] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 湮灭奥能重炮
@@ -6130,7 +6136,7 @@ addon.FilePaths = {
 	[1220679] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 相位闪现
 	[1227794] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 奥术闪电
 	[1233110] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 净化闪电
-	[1237084] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 能量切割者
+
 	  -- Loom'ithar  卢米萨尔
 	[1226311] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 注能束缚
 	[1226366] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 活体流丝

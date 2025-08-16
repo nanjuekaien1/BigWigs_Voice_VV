@@ -5275,21 +5275,21 @@ addon.FilePaths = {
 	[1227345] = "TheWarWithin\\Delves\\",  -- 坚钢防御
 	[1239731] = "TheWarWithin\\Delves\\",  -- 魔像重击
 	--  第三赛季
-	--  尼尔西坦船长<Captain Nil'hitan>
+	  --  尼尔西坦船长<Captain Nil'hitan>
 	[1239350] = "TheWarWithin\\Delves\\",  -- 全体听令！
 	[1239407] = "TheWarWithin\\Delves\\",  -- 冲刺
 	[1239427] = "TheWarWithin\\Delves\\",  -- 击沉它！
 	[1239445] = "TheWarWithin\\Delves\\",  -- 舷侧攻击
-	--  传送门主管哈尔桑<Portalmaster Halsan>
+	  --  传送门主管哈尔桑<Portalmaster Halsan>
 	[1241753] = "TheWarWithin\\Delves\\",  -- 传送门注能
 	[1241991] = "TheWarWithin\\Delves\\",  -- 卡雷什定时炸弹
 	[1242142] = "TheWarWithin\\Delves\\",  -- 内爆
-	--  虚空骑手查尔纳克斯<Voidrider Challnax>
+	  --  虚空骑手查尔纳克斯<Voidrider Challnax>
 	[1238892] = "TheWarWithin\\Delves\\",  -- 虚无之息
 	[1238909] = "TheWarWithin\\Delves\\",  -- 晦暗毁灭
 	[1238930] = "TheWarWithin\\Delves\\",  -- 穿刺
 	[1239134] = "TheWarWithin\\Delves\\",  -- 宇宙宁静
-	--  节点女亲王凯威扎<Nexus-Princess Ky'veza>
+	  --  节点女亲王凯威扎<Nexus-Princess Ky'veza>
 	--[1225642] = "TheWarWithin\\Delves\\",  -- 君威暗世 
 	[1244462] = "TheWarWithin\\Delves\\",  -- 祈唤暗影 
 	--[1244473] = "TheWarWithin\\Delves\\",  -- 遁入暗影 
@@ -5300,7 +5300,7 @@ addon.FilePaths = {
 	[1245240] = "TheWarWithin\\Delves\\",  -- 节点匕首 
 	[1245582] = "TheWarWithin\\Delves\\",  -- 虚空裂隙 
 	[1250050] = "TheWarWithin\\Delves\\",  -- 充能 
-	--  凯威扎精英（稀有）<Ky'veza Rares>
+	  --  凯威扎精英（稀有）<Ky'veza Rares>
 	[1237258] = "TheWarWithin\\Delves\\",  -- 衰腐之池 
 	[1237671] = "TheWarWithin\\Delves\\",  -- 沙尘暴 
 	[1238713] = "TheWarWithin\\Delves\\",  -- 重力粉碎 
@@ -5318,7 +5318,7 @@ addon.FilePaths = {
 	[1245156] = "TheWarWithin\\Delves\\",  -- 凯威扎保宏伟登场 
 	[1245203] = "TheWarWithin\\Delves\\",  -- 黑暗狂戮 
 	[1245240] = "TheWarWithin\\Delves\\",  -- 节点匕首 
-	--  虚灵部队<Ethereal Trash>
+	  --  虚灵部队<Ethereal Trash>
 	[1231144] = "TheWarWithin\\Delves\\",  -- 虚无之息 
 	[1236229] = "TheWarWithin\\Delves\\",  -- 奥能反斥器 
 	[1236256] = "TheWarWithin\\Delves\\",  -- 锐锋顺劈 
@@ -5326,6 +5326,11 @@ addon.FilePaths = {
 	[1236428] = "TheWarWithin\\Delves\\",  -- 见证吧！ 
 	[1236770] = "TheWarWithin\\Delves\\",  -- 奥术喷流
 	[1237160] = "TheWarWithin\\Delves\\",  -- 辐射之池
+	  -- 绝凶邪兽<Beste Glatisant>
+	[1245667] = "TheWarWithin\\Delves\\",  -- 反刍狗头人
+	[1245746] = "TheWarWithin\\Delves\\",  -- 湿泞肉体
+	[1245765] = "TheWarWithin\\Delves\\",  -- 恐惧咆哮
+	[1245784] = "TheWarWithin\\Delves\\",  -- 粉碎砸击	
 		
 		-- Dungeon 地下城
 	-- Ara-Kara, City of Echoes   艾拉-卡拉，回响之城
@@ -6136,7 +6141,6 @@ addon.FilePaths = {
 	[1220679] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 相位闪现
 	[1227794] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 奥术闪电
 	[1233110] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 净化闪电
-
 	  -- Loom'ithar  卢米萨尔
 	[1226311] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 注能束缚
 	[1226366] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 活体流丝
@@ -6252,8 +6256,8 @@ addon.FilePaths = {
 	[1234266] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 寰宇脆弱
 	[1235114] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 翔空雷什
 	[1237097] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 天体物理射流
-	[1237319] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 伽马爆发
-	[1237690] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 蚀盛
+	[1237325] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 伽马爆发
+	--[1237690] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 蚀盛
 	[1237694] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 物质喷发
 	[1237695] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 星尘新星
 	[1237696] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 碎片地带

@@ -42,10 +42,3 @@ BigWigsAPI:RegisterCountdown(VoiceID, {
    "Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\9.ogg",
    "Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\10.ogg",
 })
-local Pull = BigWigs:GetPlugin("Pull")
-Pull.db.profile.voice = VoiceID
-
-local Countdown = BigWigs:GetPlugin("Countdown")
-Countdown.db.profile.voice = VoiceID
-
-

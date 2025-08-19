@@ -5331,7 +5331,9 @@ addon.FilePaths = {
 	[1245746] = "TheWarWithin\\Delves\\",  -- 湿泞肉体
 	[1245765] = "TheWarWithin\\Delves\\",  -- 恐惧咆哮
 	[1245784] = "TheWarWithin\\Delves\\",  -- 粉碎砸击	
-		
+	  -- 钢魂奥能守卫<Steelsoul Arcanoward>
+	[1230608] = "TheWarWithin\\Delves\\",  -- 晕眩试炼
+	[1231893] = "TheWarWithin\\Delves\\",  -- 毁灭践踏		
 		-- Dungeon 地下城
 	-- Ara-Kara, City of Echoes   艾拉-卡拉，回响之城
 	  -- Avanoxx  阿瓦诺克斯
@@ -6153,6 +6155,7 @@ addon.FilePaths = {
 	[1238502] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 织造结界
 	[1243771] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 奥能黏液
 	[1246921] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 注能晶塔
+	[1247045] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 超能灌注
 	  -- Soulbinder Naazindhri 缚魂者娜欣达利
 	[1223859] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 奥术驱除
 	[1225582] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 灵魂召唤
@@ -6205,6 +6208,7 @@ addon.FilePaths = {
 	[1242259] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 幽魂炸弹
 	[1242284] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 灵魂重碾
 	[1242304] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 驱逐灵魂
+	[1245726] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 根除
 	  --  Fractillus  弗兰克提鲁斯
 	[1224414] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 结晶震荡波
 	[1225673] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 狂怒粉碎

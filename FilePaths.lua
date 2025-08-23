@@ -5112,6 +5112,7 @@ addon.FilePaths = {
 	[444408] = "TheWarWithin\\Delves\\",  -- 代言人之怒
 	[444479] = "TheWarWithin\\Delves\\",  -- 暗焰齐射
 	[445191] = "TheWarWithin\\Delves\\",  -- 点芯箭雨
+	[445193] = "TheWarWithin\\Delves\\",  -- 烈焰之地
 	[445210] = "TheWarWithin\\Delves\\",  -- 烈焰冲刺
 	[445252] = "TheWarWithin\\Delves\\",  -- 死疽终末
 	[445407] = "TheWarWithin\\Delves\\",  -- 嗜血
@@ -5334,7 +5335,8 @@ addon.FilePaths = {
 	[1245784] = "TheWarWithin\\Delves\\",  -- 粉碎砸击	
 	  -- 钢魂奥能守卫<Steelsoul Arcanoward>
 	[1230608] = "TheWarWithin\\Delves\\",  -- 晕眩试炼
-	[1231893] = "TheWarWithin\\Delves\\",  -- 毁灭践踏		
+	[1231893] = "TheWarWithin\\Delves\\",  -- 毁灭践踏
+	[1231919] = "TheWarWithin\\Delves\\",  -- 核闪穿刺	
 		-- Dungeon 地下城
 	-- Ara-Kara, City of Echoes   艾拉-卡拉，回响之城
 	  -- Avanoxx  阿瓦诺克斯

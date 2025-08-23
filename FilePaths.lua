@@ -1,6 +1,7 @@
 -- GENERATE BY script.py
 -- 本次更新得到NGA@雨夜独行客的大力帮助。
 -- 备注：有备注技能名称的是我手里还有保留的资料。
+-- v 11.2
 
 local _, addon = ...
 

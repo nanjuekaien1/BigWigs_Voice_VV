@@ -6250,6 +6250,7 @@ addon.FilePaths = {
 	[1229038] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 吞噬
 	[1230087] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 千钧猛击
 	[1230168] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 凡躯的脆弱
+	[1230674] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 面条效应
 	[1230979] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 暗物质
 	[1231002] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 黑暗能量
 	[1231716] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 熄灭众星
@@ -6259,6 +6260,8 @@ addon.FilePaths = {
 	[1233539] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 吞噬
 	[1234044] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 昏天黑地
 	[1234054] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 暗影震荡
+	[1234243] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 倾压引力
+	[1234244] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 引力倒转
 	[1234263] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 寰宇崩塌
 	[1234266] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 寰宇脆弱
 	[1235114] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 翔空雷什
@@ -6281,5 +6284,6 @@ addon.FilePaths = {
 	[1246541] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 虚无缠缚
 	[1246930] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 星辰之核
 	[1250055] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 虚空之握
+	[1251619] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 星辰碎片冲击
   
 }

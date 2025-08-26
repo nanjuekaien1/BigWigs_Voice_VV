@@ -3453,7 +3453,8 @@ addon.FilePaths = {
 	[346116] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 剪切挥舞
 	[346766] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 定期消毒
 	[346957] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 火焰净除
-	[346959] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 火焰净除
+	--[346959] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 火焰净除
+	[346961] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 净化之地
 	[347094] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 泰坦粉碎
 	[353312] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 净化爆发
 	  -- Timecap'n Hooktail  时空船长钩尾

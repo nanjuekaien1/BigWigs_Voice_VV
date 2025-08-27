@@ -5789,6 +5789,7 @@ addon.FilePaths = {
 	[1221190] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 暴食瘴气
 	[1221483] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 电弧能量
 	[1221532] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 异变仪式
+	[1221679] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 远遁者之跃
 	[1222202] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 奥术燃烧
 	[1222341] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 幽暗之咬
 	[1222356] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 迁跃

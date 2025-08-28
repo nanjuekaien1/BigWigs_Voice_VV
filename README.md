@@ -51,9 +51,9 @@
 
 - ### 如果你还需要某些技能显示，可以在你启用了“手动选择”模式下，在副本模块内的技能列表自行启用“姓名板”（看图）
 
-![姓名板2-1](https://github.com/user-attachments/assets/c1a84866-ce34-4840-82cb-9dd229059a5e)
+![3](https://github.com/user-attachments/assets/49a3ad1e-e70f-4bf9-82a3-fe128855cecd)
 
-![姓名板2-2](https://github.com/user-attachments/assets/de98c5cd-5a77-4793-a543-ad67f66122e9)
+![4](https://github.com/user-attachments/assets/451425e3-6679-40db-ab1d-1219379c1eba)
 
 
 

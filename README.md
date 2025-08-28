@@ -42,7 +42,14 @@
 
 ## 姓名板技能CD
 
-- #### BigWigs在资料片“地心之战”开始上线前修复好了姓名板显示小怪技能CD的功能；不喜欢此功能，可以在技能内选择关闭（看图）
+- #### BigWigs在资料片“地心之战”开始上线前修复好了姓名板显示小怪技能CD的功能；不喜欢此功能，可以在BigWigs控制台--“姓名板”--“高级”选择“姓名板“手动选择”模式”（看图）
+- 
+![1](https://github.com/user-attachments/assets/dc3a7a0c-991b-4de6-8f83-904456f96ac6)
+
+![2](https://github.com/user-attachments/assets/324eaca5-667a-42fe-9630-fe22d200580b)
+
+
+- #### 需要某些技能单独显示，请在模块内自行启用“姓名板”（看图）
 
 ![姓名板2-1](https://github.com/user-attachments/assets/c1a84866-ce34-4840-82cb-9dd229059a5e)
 

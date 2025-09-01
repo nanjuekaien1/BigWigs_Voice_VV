@@ -16,10 +16,7 @@
 ## IconTexture: Interface\AddOns\BigWigs_Voice_VV\Icons\VV_BW.tga
 ## Author: Funkeh, Sehra, VV
 
-
-## X-BigWigs-LoadOn-CoreEnabled: 1
 ## Dependencies: BigWigs
-## LoadOnDemand: 1
 
 ## X-Category: Raid
 ## X-License: All Rights Reserved. 
@@ -28,3 +25,4 @@
 
 Core.lua
 FilePaths.lua
+

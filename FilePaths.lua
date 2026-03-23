@@ -6628,10 +6628,10 @@ addon.FilePaths = {
 	[1233787] = "Midnight\\Raid\\TheVoidspire\\",  -- 黑暗之手
 	[1243743] = "Midnight\\Raid\\TheVoidspire\\",  -- 干扰震荡
 	[1243753] = "Midnight\\Raid\\TheVoidspire\\",  -- 暴食深渊
-	[1234569] = "Midnight\\Raid\\TheVoidspire\\",  -- 星辰散射
+	--[1234569] = "Midnight\\Raid\\TheVoidspire\\",  -- 星辰散射
 	[1243982] = "Midnight\\Raid\\TheVoidspire\\",  -- 银锋弹幕射击
-	[1235622] = "Midnight\\Raid\\TheVoidspire\\",  -- 奇点喷发
-	[1238206] = "Midnight\\Raid\\TheVoidspire\\",  -- 无常裂隙
+	--[1235622] = "Midnight\\Raid\\TheVoidspire\\",  -- 奇点喷发
+	--[1238206] = "Midnight\\Raid\\TheVoidspire\\",  -- 无常裂隙
 	[1237614] = "Midnight\\Raid\\TheVoidspire\\",  -- 游侠队长印记
 	[1237038] = "Midnight\\Raid\\TheVoidspire\\",  -- 虚空追猎者钉刺
 	[1237837] = "Midnight\\Raid\\TheVoidspire\\",  -- 虚空召唤
@@ -6640,7 +6640,7 @@ addon.FilePaths = {
 	[1245874] = "Midnight\\Raid\\TheVoidspire\\",  -- 环绕物质
 	[1238843] = "Midnight\\Raid\\TheVoidspire\\",  -- 噬灭宇宙
 	[1239080] = "Midnight\\Raid\\TheVoidspire\\",  -- 终末守护
-	[1238708] = "Midnight\\Raid\\TheVoidspire\\",  -- 黑暗冲锋
+	--[1238708] = "Midnight\\Raid\\TheVoidspire\\",  -- 黑暗冲锋
 	
 	-- 	 March on Quel'Danas 进军奎尔丹纳斯
 	-- Belo'ren, Child of Al'ar 贝洛朗，奥的子嗣

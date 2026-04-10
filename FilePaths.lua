@@ -6653,6 +6653,15 @@ addon.FilePaths = {
 	[1241313] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 复生
 	[1242792] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 烈焰孵化
 	-- Midnight Falls 至暗之夜降临
+	[1249620] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 死亡挽歌
+	[1250898] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 黑暗天使长
+	[1251386] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 护卫棱镜
+	[1253915] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 天穹战刃
+	[1266897] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 圣光虹吸
+	[1267049] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 天穹之枪
+	[1279420] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 黑暗类星体
+	[1282412] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 核心收割
+	[1284525] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 充电
 	
 	
 	

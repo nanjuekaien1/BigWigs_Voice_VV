@@ -1,7 +1,7 @@
-﻿## Interface: 110107, 110200
+﻿## Interface: 120001, 120005, 120000
 
 ## Title: BigWigs |cffff0000+|r|cffffffffVoice: VV|r
-## Version: 10.9.7-d
+## Version: 12.0.1
 ## Notes: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
 ## Notes-zhCN: BigWigs附加模块，为团队首领技能播放语音提示 v12。
 ## Notes-zhTW: BigWigs附加模組，為團隊首領技能播放語音提示。
@@ -22,7 +22,10 @@
 ## X-License: All Rights Reserved. 
 ## X-Curse-Project-ID: 305210
 
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Embeds.xml
 
 Core.lua
 FilePaths.lua
-
+VVSharedMedia.lua

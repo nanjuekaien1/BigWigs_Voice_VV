@@ -33,6 +33,7 @@ LSM:Register("sound", "|cFFff2f00远离坦克|r", [[Interface\Addons\BigWigs_Voi
 LSM:Register("sound", "|cFFff2f00远离宝珠|r", [[Interface\Addons\BigWigs_Voice_VV\Media\farfromorb.ogg]])
 LSM:Register("sound", "|cFFff2f00远离连线|r", [[Interface\Addons\BigWigs_Voice_VV\Media\farfromline.ogg]])
 LSM:Register("sound", "|cFFff2f00远离镜像|r", [[Interface\Addons\BigWigs_Voice_VV\Media\farfrommirror.ogg]])
+LSM:Register("sound", "|cFFff2f00注意躲避|r", [[Interface\Addons\BigWigs_Voice_VV\Media\watchout.ogg]])
 
 --点名类
 LSM:Register("sound", "|cffa335ee你被点名|r", [[Interface\Addons\BigWigs_Voice_VV\Media\callyou.ogg]])

@@ -6498,10 +6498,10 @@ addon.FilePaths = {
 	
 	-- Nexus-Point Xenas  节点希纳斯
 	-- Kasreth 核技工程长卡斯雷瑟
-	--[1251626] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 魔网阵列
-	--[1251772] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 回流充能
-	--[1257836] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 回流充能
-	--[1264042] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 奥术喷溢
+	[1251579] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 魔网阵列
+	[1251772] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 回流充能
+	[1257509] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 核闪引爆
+	[1264048] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 能量坍缩
 	--[1276485] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 星火灼烧
 	-- Corewarden Nysarra 核心守卫奈萨拉
 	[1247937] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 幽影鞭笞
@@ -6610,7 +6610,7 @@ addon.FilePaths = {
 	--[1246485] = "Midnight\\Raid\\TheVoidspire\\",  -- 复仇者之盾
 	[1246736] = "Midnight\\Raid\\TheVoidspire\\",  -- 审判
 	[1246749] = "Midnight\\Raid\\TheVoidspire\\",  -- 神圣鸣罪
-	[1246765] = "Midnight\\Raid\\TheVoidspire\\",  -- 神圣风暴
+	--[1246765] = "Midnight\\Raid\\TheVoidspire\\",  -- 神圣风暴
 	[1248449] = "Midnight\\Raid\\TheVoidspire\\",  -- 愤怒光环
 	[1248451] = "Midnight\\Raid\\TheVoidspire\\",  -- 平心光环
 	[1248644] = "Midnight\\Raid\\TheVoidspire\\",  -- 圣洁鸣钟
@@ -6621,48 +6621,54 @@ addon.FilePaths = {
 	[1255738] = "Midnight\\Raid\\TheVoidspire\\",  -- 灼热光辉
 	[1276243] = "Midnight\\Raid\\TheVoidspire\\",  -- 狂热之魂
 	-- Crown of the Cosmos 宇宙之冕
-	--[1233602] = "Midnight\\Raid\\TheVoidspire\\",  -- 银锋箭
 	--[1232467] = "Midnight\\Raid\\TheVoidspire\\",  -- 空虚之握
-	[1255368] = "Midnight\\Raid\\TheVoidspire\\",  -- 虚空斥力
-	--[1233865] = "Midnight\\Raid\\TheVoidspire\\",  -- 空无之冕
+	--[1233602] = "Midnight\\Raid\\TheVoidspire\\",  -- 银锋箭
 	--[1233787] = "Midnight\\Raid\\TheVoidspire\\",  -- 黑暗之手
-	[1243743] = "Midnight\\Raid\\TheVoidspire\\",  -- 干扰震荡
-	--[1243753] = "Midnight\\Raid\\TheVoidspire\\",  -- 暴食深渊
+	--[1233865] = "Midnight\\Raid\\TheVoidspire\\",  -- 空无之冕
 	--[1234569] = "Midnight\\Raid\\TheVoidspire\\",  -- 星辰散射
-	--[1243982] = "Midnight\\Raid\\TheVoidspire\\",  -- 银锋弹幕射击
 	--[1235622] = "Midnight\\Raid\\TheVoidspire\\",  -- 奇点喷发
-	--[1238206] = "Midnight\\Raid\\TheVoidspire\\",  -- 无常裂隙
-	--[1237614] = "Midnight\\Raid\\TheVoidspire\\",  -- 游侠队长印记
 	--[1237038] = "Midnight\\Raid\\TheVoidspire\\",  -- 虚空追猎者钉刺
-	[1237837] = "Midnight\\Raid\\TheVoidspire\\",  -- 虚空召唤
-	--[1246918] = "Midnight\\Raid\\TheVoidspire\\",  -- 宇宙屏障
-	--[1246461] = "Midnight\\Raid\\TheVoidspire\\",  -- 裂隙挥砍
-	--[1245874] = "Midnight\\Raid\\TheVoidspire\\",  -- 环绕物质
-	[1238843] = "Midnight\\Raid\\TheVoidspire\\",  -- 噬灭宇宙
-	--[1239080] = "Midnight\\Raid\\TheVoidspire\\",  -- 终末守护
+	--[1237614] = "Midnight\\Raid\\TheVoidspire\\",  -- 游侠队长印记
+	--[1238206] = "Midnight\\Raid\\TheVoidspire\\",  -- 无常裂隙
 	--[1238708] = "Midnight\\Raid\\TheVoidspire\\",  -- 黑暗冲锋
+	--[1239080] = "Midnight\\Raid\\TheVoidspire\\",  -- 终末守护
+	--[1243753] = "Midnight\\Raid\\TheVoidspire\\",  -- 暴食深渊
+	--[1243982] = "Midnight\\Raid\\TheVoidspire\\",  -- 银锋弹幕射击
+	--[1245874] = "Midnight\\Raid\\TheVoidspire\\",  -- 环绕物质
+	--[1246461] = "Midnight\\Raid\\TheVoidspire\\",  -- 裂隙挥砍
+	--[1246918] = "Midnight\\Raid\\TheVoidspire\\",  -- 宇宙屏障
+	[1237837] = "Midnight\\Raid\\TheVoidspire\\",  -- 虚空召唤
+	[1238843] = "Midnight\\Raid\\TheVoidspire\\",  -- 噬灭宇宙
+	[1243743] = "Midnight\\Raid\\TheVoidspire\\",  -- 干扰震荡
+	[1255368] = "Midnight\\Raid\\TheVoidspire\\",  -- 虚空斥力
+	[1261016] = "Midnight\\Raid\\TheVoidspire\\",  -- 裂隙幻影
+	[1261339] = "Midnight\\Raid\\TheVoidspire\\",  -- 宇宙传送门
 	
 	-- 	 March on Quel'Danas 进军奎尔丹纳斯
 	-- Belo'ren, Child of Al'ar 贝洛朗，奥的子嗣
-	[1241282] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 贝洛朗的燃烬
-	[1242981] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 光耀回响
-	[1260763] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 守护者敕令
-	[1244344] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 永恒灼烧
-	[1242260] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 注能飞羽
-	[1246709] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 死亡坠落
-	[1241313] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 复生
-	[1242792] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 烈焰孵化
 	-- Midnight Falls 至暗之夜降临
+	--[1241313] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 复生
+	--[1242260] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 注能飞羽
+	--[1242792] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 烈焰孵化
+	--[1242981] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 光耀回响
+	--[1246709] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 死亡坠落
+	--[1260763] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 守护者敕令
+	[1241282] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 贝洛朗的燃烬
+	[1244344] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 永恒灼烧
 	[1249620] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 死亡挽歌
 	[1250898] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 黑暗天使长
 	[1251386] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 护卫棱镜
 	[1253915] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 天穹战刃
+	[1260763] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 守护者敕令
+	[1276525] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 虚光汇流
+	[1267049] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 天堂与地狱
 	[1266897] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 圣光虹吸
 	[1267049] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 天穹之枪
+	[1273158] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 死亡安魂曲
 	[1279420] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 黑暗类星体
 	[1282412] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 核心收割
 	[1284525] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 充电
-	
-	
+	[1284931] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 终结棱柱
+	[1284980] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 黯灭协奏
 	
 }

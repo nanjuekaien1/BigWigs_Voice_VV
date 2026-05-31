@@ -1,4 +1,3 @@
-
 local name, addon = ...
 
 --------------------------------------------------------------------------------
@@ -9,7 +8,7 @@ local tostring = tostring
 local format = format
 
 if BigWigsLoader then
-    addon.SendMessage = BigWigsLoader.SendMessage
+	addon.SendMessage = BigWigsLoader.SendMessage
 end
 
 --------------------------------------------------------------------------------
@@ -17,35 +16,39 @@ end
 --
 
 local path = "Interface\\AddOns\\BigWigs_Voice_VV\\Sounds\\%s.ogg"
-local function handler(event, module, key, sound, isOnMe)
-	local success = PlaySoundFile(format(path, (addon.FilePaths[key] or "")..tostring(key)), "Master")
-	if not success then
-		addon:SendMessage("BigWigs_Sound", module, key, sound) 
+local function handler(event, module, key, sound)
+	local fileKey = (addon.FilePaths[key] or "") .. tostring(key)
+	local success = PlaySoundFile(format(path, fileKey), "Master")
+	if not success and addon.SendMessage then
+		addon:SendMessage("BigWigs_Sound", module, key, sound)
 	end
 end
 
-
 if BigWigsLoader then
-    BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
+	BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
 end
 
 if BigWigsAPI then
-    BigWigsAPI.RegisterVoicePack("VV")
+	BigWigsAPI.RegisterVoicePack("VV")
 end
 
--- 倒数语音
-
+--------------------------------------------------------------------------------
+-- Countdown
+--
 local VoiceID = "中文语音：VV(女)"
+local VoiceKey = "vv"
 
-BigWigsAPI:RegisterCountdown(VoiceID, {
-   "Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\1.ogg",
-   "Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\2.ogg",
-   "Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\3.ogg",
-   "Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\4.ogg",
-   "Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\5.ogg",
-   "Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\6.ogg",
-   "Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\7.ogg",
-   "Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\8.ogg",
-   "Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\9.ogg",
-   "Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\10.ogg",
-})
+if BigWigsAPI and BigWigsAPI.RegisterCountdown then
+	BigWigsAPI:RegisterCountdown(VoiceKey, VoiceID, {
+		"Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\1.ogg",
+		"Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\2.ogg",
+		"Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\3.ogg",
+		"Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\4.ogg",
+		"Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\5.ogg",
+		"Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\6.ogg",
+		"Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\7.ogg",
+		"Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\8.ogg",
+		"Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\9.ogg",
+		"Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\10.ogg",
+	})
+end

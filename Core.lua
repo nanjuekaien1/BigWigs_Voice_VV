@@ -1,5 +1,7 @@
 
-local addon = BigWigs_Voice_VV or {}
+
+BigWigs_Voice_VV = BigWigs_Voice_VV or {}
+local addon = BigWigs_Voice_VV
 addon.SendMessage = BigWigsLoader.SendMessage
 
 --------------------------------------------------------------------------------
@@ -42,4 +44,3 @@ BigWigsAPI:RegisterCountdown(VoiceKey, VoiceID, {
 	"Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\9.ogg",
 	"Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\10.ogg",
 })
-

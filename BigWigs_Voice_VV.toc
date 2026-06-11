@@ -28,6 +28,6 @@ Libs\LibStub\LibStub.lua
 Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
 Embeds.xml
 
-Core.lua
 FilePaths.lua
+Core.lua
 VVSharedMedia.lua

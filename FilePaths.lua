@@ -3,9 +3,9 @@
 -- 备注：有备注技能名称的是我手里还有保留的资料。
 -- v 11.2
 
-local _, addon = ...
+BigWigs_Voice_VV = BigWigs_Voice_VV or {}
 
-addon.FilePaths = {
+BigWigs_Voice_VV.FilePaths = {
 
 	-- Added 其他
 	-- ["activate_plant"] = "Added\\",  --活化植物

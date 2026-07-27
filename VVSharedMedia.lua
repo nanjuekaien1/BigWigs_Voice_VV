@@ -117,6 +117,14 @@ LSM:Register("sound", "|cff3c8cff靠近蛛网|r", [[Interface\Addons\BigWigs_Voi
 LSM:Register("sound", "|cff3c8cff靠近裂隙驱散|r", [[Interface\Addons\BigWigs_Voice_VV\Media\riftdispel.ogg]])
 LSM:Register("sound", "|cff3c8cff靠近雕像|r", [[Interface\Addons\BigWigs_Voice_VV\Media\movetostatue.ogg]])
 LSM:Register("sound", "|cff3c8cff靠近冰块|r", [[Interface\Addons\BigWigs_Voice_VV\Media\movetoice.ogg]])
+
+--颜色
+LSM:Register("sound", "|cffffff00你是橙色|r", [[Interface\Addons\BigWigs_Voice_VV\Media\YouOrange.ogg]])
+LSM:Register("sound", "|cffffff00你是红色|r", [[Interface\Addons\BigWigs_Voice_VV\Media\YouRed.ogg]])
+LSM:Register("sound", "|cffffff00你是黄色|r", [[Interface\Addons\BigWigs_Voice_VV\Media\YouYellow.ogg]])
+LSM:Register("sound", "|cffffff00你是蓝色|r", [[Interface\Addons\BigWigs_Voice_VV\Media\YouBlue.ogg]])
+LSM:Register("sound", "|cffffff00你是绿色|r", [[Interface\Addons\BigWigs_Voice_VV\Media\YouGreen.ogg]])
+LSM:Register("sound", "|cffffff00你是紫色|r", [[Interface\Addons\BigWigs_Voice_VV\Media\YouPurple.ogg]])
 -- -----
 --   STATUSBAR
 -- -----

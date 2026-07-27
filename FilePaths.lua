@@ -23,14 +23,16 @@ BigWigs_Voice_VV.FilePaths = {
 	["healing_tide_totem"] = "Added\\",  -- 治疗潮汐图腾
 	-- ["soporific_shimmerdust"] = "Added\\",  -- 催眠光粉 -- 彼界
 	["stages"] = "Added\\",  -- 转阶段
+	["snitches_interrogated"] = "Added\\",  -- 讯问完毕 --  密谋小径
 	["minecart"] = "Added\\",  -- 矿车启动暗焰裂口
 	["trading_game"] = "Added\\",  -- 交易游戏 -- 集市
-	["warmup"] = "Added\\",  -- 卖品会激活战斗-- 集市
+	["warmup"] = "Added\\",  -- 激活战斗
 	["weapons_stockpiles_pilfered"] = "Added\\",  -- 掠夺武器“激活道具” --水闸
 	["vault_purifier"] = "Added\\",  -- 宝库增援 -- 宏图
 	["rift_stability"] = "Added\\",  -- 传送门出现
 	["prisoners_freed"] = "Added\\",  -- 解救囚犯 -- 迈萨拉洞窟
 	["quarry_camps_liberated"] = "Added\\",  -- 解放营地 -- 萨隆矿坑
+	["offerings_acquired"] = "Added\\",  -- 获得供品 -- 纳洛拉克的洞穴
 	
 	-- 技能列表[查询可以按照副本名称搜索]
 	-- [Wrath of the Lich King 巫妖王之怒]
@@ -66,25 +68,25 @@ BigWigs_Voice_VV.FilePaths = {
 	[447261] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 碎颅打击
 	[448847] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 命令咆哮
 	[448877] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 突岩尖刺
-	-- Forgemaster Throngus	 铸炉之主索朗格斯
+	--Forgemaster Throngus 铸炉之主索朗格斯
 	[447395] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 烈火斩 
 	[449444] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 熔火乱舞 
 	[449474] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 熔浆火花 
 	[449687] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 熔岩重锤 
 	[457664] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 锻造武器 
-	-- Drahga Shadowburner	达加·燃影者
+	--Drahga Shadowburner 达加·燃影者
 	[82850] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 烈焰凝视
 	[448013] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 暗影烈焰祈祷 
 	[448105] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 噬体烈焰 
 	[450095] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 熵能诅咒 
 	[456751] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 暮光打击 
-	-- Erudax	地狱公爵埃鲁达克
+	--Erudax 地狱公爵埃鲁达克
 	[448057] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 深渊腐蚀
 	[449939] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 暗影飓风 
 	[450077] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 虚空涌动 
 	[450088] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 虚空灌输 
 	[450100] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 碾碎 
-	-- Grim Batol Trash	 小怪
+	--Grim Batol Trash	 小怪
 	[76711] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 灼烧心智
 	[451224] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 暗影烈焰笼罩 
 	[451241] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 暗影烈焰斩
@@ -102,7 +104,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[456696] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 黑曜践踏
 	[456711] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 暗影熔岩冲击
 	[456713] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 黑暗喷发
-	[462216] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 炽燃暗影烈焰	
+	[462216] = "Cataclysm\\Dungeon\\GrimBatol\\",  -- 炽燃暗影烈焰
+	
 	-- Throne Tides  潮汐王座	
 	[75683] = "Cataclysm\\Dungeon\\ThroneTides\\",  -- 浪潮汹涌
 	[75992] = "Cataclysm\\Dungeon\\ThroneTides\\",  -- 闪电澎湃
@@ -139,6 +142,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[429048] = "Cataclysm\\Dungeon\\ThroneTides\\",  -- 烈焰震击
 	[429051] = "Cataclysm\\Dungeon\\ThroneTides\\",  -- 大地之怒
 	[429172] = "Cataclysm\\Dungeon\\ThroneTides\\",  -- 惊魂幻视
+	
 	-- The Vortex Pinnacle 旋云之巅
 	[-2425] = "Cataclysm\\Dungeon\\TheVortexPinnacle\\",  -- 召唤风
 	[86292] = "Cataclysm\\Dungeon\\TheVortexPinnacle\\",  -- 旋风之盾
@@ -210,6 +214,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[397914] = "MistsOfPandaria\\Dungeon\\TempleOfTheJadeSerpent\\",  -- 污染迷雾
 	[397931] = "MistsOfPandaria\\Dungeon\\TempleOfTheJadeSerpent\\",  -- 黑暗之爪
 	[398300] = "MistsOfPandaria\\Dungeon\\TempleOfTheJadeSerpent\\",  -- 疑之焰	
+	
 	-- Scarlet Monastery  血色修道院 
 	[414844] = "MistsOfPandaria\\Dungeon\\ScarletMonastery\\",  -- 南瓜吐息
 	[415047] = "MistsOfPandaria\\Dungeon\\ScarletMonastery\\",  -- 藤蔓行军
@@ -221,23 +226,24 @@ BigWigs_Voice_VV.FilePaths = {
 	-- [Warlords of Draenor 德拉诺之王]
 		-- Dungeon 地下城
 	-- Skyreach 通天峰
-	-- Ranjit 兰吉特
+	--Ranjit 兰吉特
 	[153757] = "WarlordsOfDraenor\\Dungeon\\Skyreach\\",  -- 散刃
 	[156793] = "WarlordsOfDraenor\\Dungeon\\Skyreach\\",  -- 战轮旋风
 	[165731] = "WarlordsOfDraenor\\Dungeon\\Skyreach\\",  -- 穿刺突击
 	[1258152] = "WarlordsOfDraenor\\Dungeon\\Skyreach\\",  -- 风轮
-    -- Araknath 阿拉卡纳斯
+    --Araknath 阿拉卡纳斯
 	[154110] = "WarlordsOfDraenor\\Dungeon\\Skyreach\\",  -- 灼热重击
 	[154135] = "WarlordsOfDraenor\\Dungeon\\Skyreach\\",  -- 超级新星
 	[154159] = "WarlordsOfDraenor\\Dungeon\\Skyreach\\",  -- 充能
-    -- Rukhran 鲁克兰
+    --Rukhran 鲁克兰
 	[159382] = "WarlordsOfDraenor\\Dungeon\\Skyreach\\",  -- 灼热飞羽
 	[1253510] = "WarlordsOfDraenor\\Dungeon\\Skyreach\\",  -- 曙光
 	[1253519] = "WarlordsOfDraenor\\Dungeon\\Skyreach\\",  -- 燃烧之爪
-    -- High Sage Viryx 高阶贤者维里克斯
+    --High Sage Viryx 高阶贤者维里克斯
 	[153954] = "WarlordsOfDraenor\\Dungeon\\Skyreach\\",  -- 扔下
 	[154396] = "WarlordsOfDraenor\\Dungeon\\Skyreach\\",  -- 日光冲击
 	[1253840] = "WarlordsOfDraenor\\Dungeon\\Skyreach\\",  -- 眩光
+	
 	-- Grimrail Depot 恐轨车站
 	[156301] = "WarlordsOfDraenor\\Dungeon\\GrimrailDepot\\",  -- 黑石迫击炮
 	[156357] = "WarlordsOfDraenor\\Dungeon\\GrimrailDepot\\",  -- 黑石榴弹
@@ -269,7 +275,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[166675] = "WarlordsOfDraenor\\Dungeon\\GrimrailDepot\\",  -- 榴弹爆破
 	[176023] = "WarlordsOfDraenor\\Dungeon\\GrimrailDepot\\",  -- 愤怒
 	[176032] = "WarlordsOfDraenor\\Dungeon\\GrimrailDepot\\",  -- 火舌
-	[176127] = "WarlordsOfDraenor\\Dungeon\\GrimrailDepot\\",  -- 火炮弹幕	
+	[176127] = "WarlordsOfDraenor\\Dungeon\\GrimrailDepot\\",  -- 火炮弹幕
+	
 	-- Iron Docks 钢铁码头	
 	[158337] = "WarlordsOfDraenor\\Dungeon\\IronDocks\\",  -- 狂暴
 	[161256] = "WarlordsOfDraenor\\Dungeon\\IronDocks\\",  -- 原始突袭
@@ -305,7 +312,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[173384] = "WarlordsOfDraenor\\Dungeon\\IronDocks\\",  -- 奔腾践踏
 	[173480] = "WarlordsOfDraenor\\Dungeon\\IronDocks\\",  -- 熔岩喷薄
 	[173514] = "WarlordsOfDraenor\\Dungeon\\IronDocks\\",  -- 熔岩爆裂
-	[178124] = "WarlordsOfDraenor\\Dungeon\\IronDocks\\",  -- 营救	
+	[178124] = "WarlordsOfDraenor\\Dungeon\\IronDocks\\",  -- 营救
+	
 	-- Shadowmoon Burial Grounds 影月墓地	
 	[152792] = "WarlordsOfDraenor\\Dungeon\\ShadowmoonBurialGrounds\\",  -- 虚空冲击
 	[152801] = "WarlordsOfDraenor\\Dungeon\\ShadowmoonBurialGrounds\\",  -- 虚空漩涡
@@ -334,7 +342,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[398150] = "WarlordsOfDraenor\\Dungeon\\ShadowmoonBurialGrounds\\",  -- 统御
 	[398151] = "WarlordsOfDraenor\\Dungeon\\ShadowmoonBurialGrounds\\",  -- 阴险聚焦
 	[398154] = "WarlordsOfDraenor\\Dungeon\\ShadowmoonBurialGrounds\\",  -- 痛苦哀嚎
-	[398206] = "WarlordsOfDraenor\\Dungeon\\ShadowmoonBurialGrounds\\",  -- 死亡冲击	
+	[398206] = "WarlordsOfDraenor\\Dungeon\\ShadowmoonBurialGrounds\\",  -- 死亡冲击
+	
 	-- The Everbloom 永茂林地
 	[-10098] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\",  -- 小怪出现
 	[-10502] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\",  -- 小怪刷新
@@ -377,6 +386,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[427899] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\",  -- 焰烬风暴
 	[428082] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\",  -- 冰川融聚
 	[428139] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\",  -- 空间压缩
+	
 	-- 团本
 	-- Draenor 德拉诺之王 (世界)	
 	[175791] = "WarlordsOfDraenor\\Raid\\Draenor\\",  -- 
@@ -394,7 +404,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[187664] = "WarlordsOfDraenor\\Raid\\Draenor\\",  -- 
 	[187471] = "WarlordsOfDraenor\\Raid\\Draenor\\",  -- 
 	[187668] = "WarlordsOfDraenor\\Raid\\Draenor\\",  -- 
-	[187702] = "WarlordsOfDraenor\\Raid\\Draenor\\",  -- 	
+	[187702] = "WarlordsOfDraenor\\Raid\\Draenor\\",  -- 
+	
 	-- Highmaul 悬槌堡	
 	[-10228] = "WarlordsOfDraenor\\Raid\\Highmaul\\",  -- 
 	[-9394] = "WarlordsOfDraenor\\Raid\\Highmaul\\",  -- 
@@ -474,7 +485,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[176533] = "WarlordsOfDraenor\\Raid\\Highmaul\\",  -- 
 	[176537] = "WarlordsOfDraenor\\Raid\\Highmaul\\",  -- 
 	[178468] = "WarlordsOfDraenor\\Raid\\Highmaul\\",  -- 
-	[178607] = "WarlordsOfDraenor\\Raid\\Highmaul\\",  -- 	
+	[178607] = "WarlordsOfDraenor\\Raid\\Highmaul\\",  --
+ 	
 	-- Blackrock Foundry 黑石铸造厂	
 	[-10324] = "WarlordsOfDraenor\\Raid\\BlackrockFoundry\\",  -- 
 	[-10325] = "WarlordsOfDraenor\\Raid\\BlackrockFoundry\\",  -- 
@@ -597,7 +609,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[176141] = "WarlordsOfDraenor\\Raid\\BlackrockFoundry\\",  -- 
 	[177744] = "WarlordsOfDraenor\\Raid\\BlackrockFoundry\\",  -- 
 	[177806] = "WarlordsOfDraenor\\Raid\\BlackrockFoundry\\",  -- 
-	[18501] = "WarlordsOfDraenor\\Raid\\BlackrockFoundry\\",  -- 	
+	[18501] = "WarlordsOfDraenor\\Raid\\BlackrockFoundry\\",  -- 
+	
 	-- Hellfire Citadel 地狱火堡垒	
 	[-11020] = "WarlordsOfDraenor\\Raid\\HellfireCitadel\\",  -- 
 	[-11155] = "WarlordsOfDraenor\\Raid\\HellfireCitadel\\",  -- 
@@ -827,7 +840,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[204876] = "Legion\\Dungeon\\AssaultOnVioletHold\\",  -- 
 	[205088] = "Legion\\Dungeon\\AssaultOnVioletHold\\",  -- 
 	[205233] = "Legion\\Dungeon\\AssaultOnVioletHold\\",  -- 
-	[210879] = "Legion\\Dungeon\\AssaultOnVioletHold\\",  -- 	
+	[210879] = "Legion\\Dungeon\\AssaultOnVioletHold\\",  -- 
+	
 	-- Black Rook Hold  黑鸦堡垒	
 	[194956] = "Legion\\Dungeon\\BlackRookHold\\",  -- 收割灵魂
 	[194966] = "Legion\\Dungeon\\BlackRookHold\\",  -- 灵魂回响
@@ -866,7 +880,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[214003] = "Legion\\Dungeon\\BlackRookHold\\",  -- 致命一击
 	[225573] = "Legion\\Dungeon\\BlackRookHold\\",  -- 黑暗愈合
 	[225908] = "Legion\\Dungeon\\BlackRookHold\\",  -- 灵魂毒液
-	[227913] = "Legion\\Dungeon\\BlackRookHold\\",  -- 邪能狂乱		
+	[227913] = "Legion\\Dungeon\\BlackRookHold\\",  -- 邪能狂乱	
+	
 	-- Cathedral of Eternal Night  永夜大教堂	
 	[-15076] = "Legion\\Dungeon\\CathedralOfEternalNight\\",  -- 
 	[233155] = "Legion\\Dungeon\\CathedralOfEternalNight\\",  -- 
@@ -899,7 +914,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[242760] = "Legion\\Dungeon\\CathedralOfEternalNight\\",  -- 
 	[242839] = "Legion\\Dungeon\\CathedralOfEternalNight\\",  -- 
 	[242841] = "Legion\\Dungeon\\CathedralOfEternalNight\\",  -- 
-	[243124] = "Legion\\Dungeon\\CathedralOfEternalNight\\",  -- 	
+	[243124] = "Legion\\Dungeon\\CathedralOfEternalNight\\",  --
+ 	
 	-- Court of Stars 群星庭院	
 	[207261] = "Legion\\Dungeon\\CourtOfStars\\",  -- 共鸣挥砍
 	[207278] = "Legion\\Dungeon\\CourtOfStars\\",  -- 奥术锁定
@@ -948,7 +964,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[225100] = "Legion\\Dungeon\\CourtOfStars\\",  -- 充能站
 	[397892] = "Legion\\Dungeon\\CourtOfStars\\",  -- 痛苦尖啸
 	[397897] = "Legion\\Dungeon\\CourtOfStars\\",  -- 重压跳跃
-	[397907] = "Legion\\Dungeon\\CourtOfStars\\",  -- 末日迫近	
+	[397907] = "Legion\\Dungeon\\CourtOfStars\\",  -- 末日迫近
+	
 	-- Darkheart Thicket  黑心林地	
 	[191325] = "Legion\\Dungeon\\DarkheartThicket\\",  -- 腐化之息
 	[196354] = "Legion\\Dungeon\\DarkheartThicket\\",  -- 痛苦之跃
@@ -986,7 +1003,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[212464] = "Legion\\Dungeon\\DarkheartThicket\\",  -- 夜幕
 	[212786] = "Legion\\Dungeon\\DarkheartThicket\\",  -- 拔根而起
 	[218759] = "Legion\\Dungeon\\DarkheartThicket\\",  -- 腐蚀之池
-	[225562] = "Legion\\Dungeon\\DarkheartThicket\\",  -- 鲜血变身	
+	[225562] = "Legion\\Dungeon\\DarkheartThicket\\",  -- 鲜血变身
+	
 	-- Eye of Azshara  艾萨拉之眼	
 	[191855] = "Legion\\Dungeon\\EyeOfAzshara\\",  -- 
 	[191873] = "Legion\\Dungeon\\EyeOfAzshara\\",  -- 
@@ -1019,7 +1037,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[197105] = "Legion\\Dungeon\\EyeOfAzshara\\",  -- 
 	[197365] = "Legion\\Dungeon\\EyeOfAzshara\\",  -- 
 	[197502] = "Legion\\Dungeon\\EyeOfAzshara\\",  -- 
-	[225089] = "Legion\\Dungeon\\EyeOfAzshara\\",  -- 	
+	[225089] = "Legion\\Dungeon\\EyeOfAzshara\\",  -- 
+	
 	-- Halls of Valor 英灵殿	
 	[191284] = "Legion\\Dungeon\\HallsOfValor\\",  -- 勇气号角
 	[191508] = "Legion\\Dungeon\\HallsOfValor\\",  -- 圣光冲击
@@ -1064,7 +1083,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[201215] = "Legion\\Dungeon\\HallsOfValor\\",  -- 召唤雷铸毁灭者
 	[210875] = "Legion\\Dungeon\\HallsOfValor\\",  -- 充能脉冲
 	[215430] = "Legion\\Dungeon\\HallsOfValor\\",  -- 雷霆打击
-	[215433] = "Legion\\Dungeon\\HallsOfValor\\",  -- 圣光普照	
+	[215433] = "Legion\\Dungeon\\HallsOfValor\\",  -- 圣光普照
+	
 	-- Maw of Souls 噬魂之喉	
 	[185539] = "Legion\\Dungeon\\MawOfSouls\\",  -- 
 	[192019] = "Legion\\Dungeon\\MawOfSouls\\",  -- 
@@ -1089,7 +1109,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[199589] = "Legion\\Dungeon\\MawOfSouls\\",  -- 
 	[202088] = "Legion\\Dungeon\\MawOfSouls\\",  -- 
 	[216197] = "Legion\\Dungeon\\MawOfSouls\\",  -- 
-	[227233] = "Legion\\Dungeon\\MawOfSouls\\",  -- 	
+	[227233] = "Legion\\Dungeon\\MawOfSouls\\",  -- 
+	
 	-- Neltharion's Lair 奈萨里奥的巢穴	
 	[-12527] = "Legion\\Dungeon\\Neltharion'sLair\\",  -- 召唤爪牙
 	[183088] = "Legion\\Dungeon\\Neltharion'sLair\\",  -- 山崩
@@ -1131,7 +1152,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[226287] = "Legion\\Dungeon\\Neltharion'sLair\\",  -- 碾碎
 	[226296] = "Legion\\Dungeon\\Neltharion'sLair\\",  -- 穿刺碎片
 	[226388] = "Legion\\Dungeon\\Neltharion'sLair\\",  -- 腐臭软泥
-	[226406] = "Legion\\Dungeon\\Neltharion'sLair\\",  -- 余烬横扫	
+	[226406] = "Legion\\Dungeon\\Neltharion'sLair\\",  -- 余烬横扫
+	
 	-- Return to Karazhan  重返卡拉赞	
 	[227254] = "Legion\\Dungeon\\ReturnToKarazhan\\",  -- 唤醒
 	[227267] = "Legion\\Dungeon\\ReturnToKarazhan\\",  -- 召唤易爆能量
@@ -1201,22 +1223,22 @@ BigWigs_Voice_VV.FilePaths = {
 	[230066] = "Legion\\Dungeon\\ReturnToKarazhan\\",  -- 暗影黏质
 	[230084] = "Legion\\Dungeon\\ReturnToKarazhan\\",  -- 稳定裂隙
 	[232153] = "Legion\\Dungeon\\ReturnToKarazhan\\",  -- 附灵术
-	[241828] = "Legion\\Dungeon\\ReturnToKarazhan\\",  -- 猛烈践踏	
+	[241828] = "Legion\\Dungeon\\ReturnToKarazhan\\",  -- 猛烈践踏
+	
 	-- Seat of the Triumvirate  执政团之座	
-	-- 至暗之夜赛季
-	-- Zuraal the Ascended 晋升者祖拉尔
+	--Zuraal the Ascended 晋升者祖拉尔
 	[244588] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 虚空挥砍
 	[1263282] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 残杀
 	[1263297] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 虚空之掌
 	[1263399] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 渗漏猛击
 	[1263440] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 崩解虚空
 	--[1268916] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 虚空淤泥
-	-- Saprish 萨普瑞什
+	--Saprish 萨普瑞什
 	[245742] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 暗影突袭
 	[1248219] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 虚空炸弹
-	[1263523] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 相位冲锋
-	[1280065] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 过载
-	-- Viceroy Nezhar 总督奈扎尔
+	[1263523] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 过载
+	[1280065] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 相位冲锋
+	--Viceroy Nezhar 总督奈扎尔
 	[244750] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 心灵震爆
 	[1263528] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 深渊之门
 	[1263538] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 群体虚空灌输
@@ -1224,7 +1246,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1277358] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 驱逐
 	--[1263532] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 虚空风暴
 	--[1268733] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 精神鞭笞
-	-- L'ura 鲁拉
+	--L'ura 鲁拉
 	[1264196] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 绝望哀歌
 	[1265421] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 裂解
 	[1265463] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 不谐射线
@@ -1259,6 +1281,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[249009] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 
 	[249078] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- 
 	[249081] = "Legion\\Dungeon\\SeatOfTheTriumvirate\\",  -- ]]
+	
 	-- The Arcway 魔法回廊	
 	[-12687] = "Legion\\Dungeon\\TheArcway\\",  -- 
 	[195804] = "Legion\\Dungeon\\TheArcway\\",  -- 
@@ -1286,6 +1309,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[220871] = "Legion\\Dungeon\\TheArcway\\",  -- 
 	[226206] = "Legion\\Dungeon\\TheArcway\\",  -- 
 	[226285] = "Legion\\Dungeon\\TheArcway\\",  -- 	
+	
 	-- Vault of the Wardens  守望者地窖	
 	[-12727] = "Legion\\Dungeon\\VaultOfTheWardens\\",  -- 
 	[190830] = "Legion\\Dungeon\\VaultOfTheWardens\\",  -- 
@@ -1326,7 +1350,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[206567] = "Legion\\Dungeon\\VaultOfTheWardens\\",  -- 
 	[210202] = "Legion\\Dungeon\\VaultOfTheWardens\\",  -- 
 	[212564] = "Legion\\Dungeon\\VaultOfTheWardens\\",  -- 
-	[213583] = "Legion\\Dungeon\\VaultOfTheWardens\\",  -- 	
+	[213583] = "Legion\\Dungeon\\VaultOfTheWardens\\",  --
+ 	
 	-- 团本
 	-- Broken Isles  破碎群岛（世界）	
 	[-13327] = "Legion\\Raid\\BrokenIsles\\",  -- 
@@ -1388,7 +1413,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[241433] = "Legion\\Raid\\BrokenIsles\\",  -- 
 	[241458] = "Legion\\Raid\\BrokenIsles\\",  -- 
 	[241498] = "Legion\\Raid\\BrokenIsles\\",  -- 
-	[241518] = "Legion\\Raid\\BrokenIsles\\",  -- 	
+	[241518] = "Legion\\Raid\\BrokenIsles\\",  -- 
+	
 	-- The Emerald Nightmare  翡翠梦魇	
 	[-12809] = "Legion\\Raid\\TheEmeraldNightmare\\",  -- 
 	[-13460] = "Legion\\Raid\\TheEmeraldNightmare\\",  -- 
@@ -1478,7 +1504,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[224649] = "Legion\\Raid\\TheEmeraldNightmare\\",  -- 
 	[225943] = "Legion\\Raid\\TheEmeraldNightmare\\",  -- 
 	[226194] = "Legion\\Raid\\TheEmeraldNightmare\\",  -- 
-	[226821] = "Legion\\Raid\\TheEmeraldNightmare\\",  -- 	
+	[226821] = "Legion\\Raid\\TheEmeraldNightmare\\",  -- 
+	
 	-- Trial of Valor  勇气试炼	
 	[-14404] = "Legion\\Raid\\TrialOfValor\\",  -- 
 	[-14495] = "Legion\\Raid\\TrialOfValor\\",  -- 
@@ -1528,6 +1555,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[231350] = "Legion\\Raid\\TrialOfValor\\",  -- 
 	[232450] = "Legion\\Raid\\TrialOfValor\\",  -- 
 	[232488] = "Legion\\Raid\\TrialOfValor\\",  -- 	
+	
 	-- The Nighthold  暗夜要塞	
 	[-13022] = "Legion\\Raid\\TheNighthold\\",  -- 
 	[-13767] = "Legion\\Raid\\TheNighthold\\",  -- 
@@ -1702,7 +1730,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[230901] = "Legion\\Raid\\TheNighthold\\",  -- 
 	[230994] = "Legion\\Raid\\TheNighthold\\",  -- 
 	[231005] = "Legion\\Raid\\TheNighthold\\",  -- 
-	[231086] = "Legion\\Raid\\TheNighthold\\",  -- 	
+	[231086] = "Legion\\Raid\\TheNighthold\\",  -- 
+	
 	-- Tomb of Sargeras  萨格拉斯之墓	
 	[-15543] = "Legion\\Raid\\TombOfSargeras\\",  -- 
 	[230139] = "Legion\\Raid\\TombOfSargeras\\",  -- 
@@ -1841,7 +1870,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[244856] = "Legion\\Raid\\TombOfSargeras\\",  -- 
 	[248671] = "Legion\\Raid\\TombOfSargeras\\",  -- 
 	[248713] = "Legion\\Raid\\TombOfSargeras\\",  -- 
-	[248812] = "Legion\\Raid\\TombOfSargeras\\",  -- 	
+	[248812] = "Legion\\Raid\\TombOfSargeras\\",  -- 
+	
 	-- Antorus, the Burning Throne  安托鲁斯，燃烧的宝座	
 	[-16350] = "Legion\\Raid\\Antorus,TheBurningThrone\\",  -- 
 	[-17077] = "Legion\\Raid\\Antorus,TheBurningThrone\\",  -- 
@@ -1994,6 +2024,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[258068] = "Legion\\Raid\\Antorus,TheBurningThrone\\",  -- 
 	[258834] = "Legion\\Raid\\Antorus,TheBurningThrone\\",  -- 
 	[258838] = "Legion\\Raid\\Antorus,TheBurningThrone\\",  -- 	
+	
 	-- Invasion Points 侵入点	
 	[247318] = "Legion\\Raid\\InvasionPoints\\",  -- 
 	[247320] = "Legion\\Raid\\InvasionPoints\\",  -- 
@@ -2018,7 +2049,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[247731] = "Legion\\Raid\\InvasionPoints\\",  -- 
 	[247733] = "Legion\\Raid\\InvasionPoints\\",  -- 
 	[247739] = "Legion\\Raid\\InvasionPoints\\",  -- 
-	[254147] = "Legion\\Raid\\InvasionPoints\\",  -- 	
+	[254147] = "Legion\\Raid\\InvasionPoints\\",  -- 
+	
 	-- Mage Tower  法师塔	
 	[202081] = "Legion\\Scenario\\MageTower\\",  -- 
 	[231443] = "Legion\\Scenario\\MageTower\\",  -- 
@@ -2064,28 +2096,28 @@ BigWigs_Voice_VV.FilePaths = {
 	
 	-- [Battle for Azeroth 争霸艾泽拉斯]
 		-- Horrific Vision of Stormwind 暴风城惊魂幻象
-	  -- Alleria Windrunner 奥蕾莉亚·风行者
+	--Alleria Windrunner 奥蕾莉亚·风行者
 	[298691] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 奴役锁链
 	[308278] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 漆黑天空
 	[308669] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 黑暗凝视
 	[309648] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 腐化变形术
 	[309819] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 虚空爆发
 	[312260] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 炸药军火
-	  -- Slavemaster Ul'rok 奴隶主奥洛克
+	--Slavemaster Ul'rok 奴隶主奥洛克
 	[298691] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 奴役锁链
 	[298866] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 鞭笞触手
-      -- Therum Deepforge 瑟鲁姆·深炉
+    --Therum Deepforge 瑟鲁姆·深炉
 	[305708] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 炸药军火
 	[309671] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 强化熔炉吐息
-	  -- Overlord Mathias Shaw 马迪亚斯·肖尔大王
+	--Overlord Mathias Shaw 马迪亚斯·肖尔大王
 	[308669] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 黑暗凝视
 	[308681] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 召唤混沌之眼
 	[311530] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 搜寻并摧毁
-	  -- Magister Umbric 魔导师乌布里克
+	--Magister Umbric 魔导师乌布里克
 	[309373] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 熵能飞弹
 	[309451] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 冰霜风暴
 	[309648] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 腐化变形术
-	  -- Trash 小怪
+	--Trash 小怪
 	[264398] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 酒潮汹涌
 	[296492] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 虚空爆发
 	[296510] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 恐怖爬行者
@@ -2123,27 +2155,28 @@ BigWigs_Voice_VV.FilePaths = {
 	[311996] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 打开幻象
 	[1223111] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 恶意切割
 	[1223112] = "BattleForAzeroth\\HorrificVision\\Stormwind\\",  -- 疯狂咆哮
+	
 	-- Horrific Vision of Orgrimmar 奥格瑞玛惊魂幻象
-	  -- Thrall 萨尔
+	--Thrall 萨尔
 	[297574] = "BattleForAzeroth\\HorrificVision\\Orgrimmar\\",  -- 绝望
 	[297746] = "BattleForAzeroth\\HorrificVision\\Orgrimmar\\",  -- 震地猛击
 	[297822] = "BattleForAzeroth\\HorrificVision\\Orgrimmar\\",  -- 翻腾黑暗
 	[304251] = "BattleForAzeroth\\HorrificVision\\Orgrimmar\\",  -- 虚空尖刺
 	[304976] = "BattleForAzeroth\\HorrificVision\\Orgrimmar\\",  -- 虚空哀嚎
 	[306828] = "BattleForAzeroth\\HorrificVision\\Orgrimmar\\",  -- 亵渎大地
-	  -- Oblivion Elemental 湮灭元素
+	--Oblivion Elemental 湮灭元素
 	[297574] = "BattleForAzeroth\\HorrificVision\\Orgrimmar\\",  -- 绝望
-      -- Inquisitor Gnshal 审判官格恩肖尔
+    --Inquisitor Gnshal 审判官格恩肖尔
 	[304976] = "BattleForAzeroth\\HorrificVision\\Orgrimmar\\",  -- 虚空哀嚎
 	[307863] = "BattleForAzeroth\\HorrificVision\\Orgrimmar\\",  -- 虚空洪流
-      -- Vez'okk the Lightless 无光者维兹奥克
+    --Vez'okk the Lightless 无光者维兹奥克
 	[306617] = "BattleForAzeroth\\HorrificVision\\Orgrimmar\\",  -- 混沌之环
 	[306656] = "BattleForAzeroth\\HorrificVision\\Orgrimmar\\",  -- 释放腐蚀
 	[306726] = "BattleForAzeroth\\HorrificVision\\Orgrimmar\\",  -- 亵渎大地
-	  -- Rexxar 雷克萨
+	--Rexxar 雷克萨
 	[304251] = "BattleForAzeroth\\HorrificVision\\Orgrimmar\\",  -- 虚空尖刺
 	[304282] = "BattleForAzeroth\\HorrificVision\\Orgrimmar\\",  -- 奔踏腐化
-	  -- Trash 小怪
+	--Trash 小怪
 	[11641] = "BattleForAzeroth\\HorrificVision\\Orgrimmar\\",  -- 妖术
 	[296492] = "BattleForAzeroth\\HorrificVision\\Orgrimmar\\",  -- 虚空爆发
 	[296510] = "BattleForAzeroth\\HorrificVision\\Orgrimmar\\",  -- 恐怖爬行者
@@ -2218,6 +2251,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[259572] = "BattleForAzeroth\\Dungeon\\Atal'Dazar\\",  -- 恶毒臭气
 	[260666] = "BattleForAzeroth\\Dungeon\\Atal'Dazar\\",  -- 鲜血灌注
 	[277072] = "BattleForAzeroth\\Dungeon\\Atal'Dazar\\",  -- 腐化的黄金
+	
 	-- Freehold  自由镇	
 	[255952] = "BattleForAzeroth\\Dungeon\\Freehold\\",  -- 冲冲冲锋
 	[256005] = "BattleForAzeroth\\Dungeon\\Freehold\\",  -- 污秽轰炸
@@ -2269,26 +2303,41 @@ BigWigs_Voice_VV.FilePaths = {
 	[274400] = "BattleForAzeroth\\Dungeon\\Freehold\\",  -- 决斗冲刺
 	[274507] = "BattleForAzeroth\\Dungeon\\Freehold\\",  -- 湿滑肥皂
 	[274555] = "BattleForAzeroth\\Dungeon\\Freehold\\",  -- 污染之咬
-	[413136] = "BattleForAzeroth\\Dungeon\\Freehold\\",  -- 回旋锋匕	
-	-- Kings' Rest  诸王之眠	
-	[265773] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
-	[265781] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
-	[265910] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
-	[265923] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
-	[266206] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
-	[266231] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
-	[266237] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
-	[266951] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
-	[267060] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
-	[267273] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
-	[267618] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
-	[267639] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
-	[267702] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
+	[413136] = "BattleForAzeroth\\Dungeon\\Freehold\\",  -- 回旋锋匕
+	
+	-- Kings' Rest  诸王之眠
+	--The Golden Serpent 黄金风蛇
+	[265773] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 吐金
+	[265781] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 蛇之风
+	[265910] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 甩尾
+	[265923] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 卢彻的召唤
+	--Mchimba the Embalmer 殓尸者姆沁巴
+	[267618] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 排干体液
+	[267639] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 燃烧腐蚀
+	[267702] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 埋葬
+	[1312146]  = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 觉醒猛击
+	--The Council of Tribes 部族议会
+	[266206] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 旋转利斧
+	[266231] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 斩首之斧
+	[266237] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 衰弱抽击
+	[267060] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 元素的召唤
+	[267273] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 毒性新星
+	[267494] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 翻滚 
+	[1305810] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 电弧 
+	--Dazar, The First King 始皇达萨
+	[268586] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 剑刃连击
+	[269230] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 狩猎跃击
+	[269369] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 致命咆哮
+	[1303115] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 凌空猛击 
+	[1303267] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 镀金毁灭 
+	[1303326] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 震地之跃 
+	[1303481] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 野蛮槌击 
+
+		--往期 
+--[[	[266951] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  --
 	[268403] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
-	[268586] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
 	[268932] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
 	[269231] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
-	[269369] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
 	[269931] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
 	[269936] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
 	[269972] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
@@ -2314,7 +2363,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[270931] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
 	[271555] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
 	[271564] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 
-	[271640] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 	
+	[271640] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- ]]--	
+	
 	-- Shrine of the Storm  风暴神殿	
 	[264101] = "BattleForAzeroth\\Dungeon\\ShrineOfTheStorm\\",  -- 
 	[264166] = "BattleForAzeroth\\Dungeon\\ShrineOfTheStorm\\",  -- 
@@ -2359,9 +2409,10 @@ BigWigs_Voice_VV.FilePaths = {
 	[276265] = "BattleForAzeroth\\Dungeon\\ShrineOfTheStorm\\",  -- 
 	[276268] = "BattleForAzeroth\\Dungeon\\ShrineOfTheStorm\\",  -- 
 	[276292] = "BattleForAzeroth\\Dungeon\\ShrineOfTheStorm\\",  -- 
-	[276297] = "BattleForAzeroth\\Dungeon\\ShrineOfTheStorm\\",  -- 	
+	[276297] = "BattleForAzeroth\\Dungeon\\ShrineOfTheStorm\\",  --
+ 	
 	-- Siege of Boralus 围攻伯拉勒斯	
-	  -- Chopper Redhook “屠夫”血钩
+	--Chopper Redhook “屠夫”血钩
 	[257288] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 沉重挥砍
 	[257326] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 血腥冲撞
 	[257348] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 肉钩
@@ -2370,13 +2421,13 @@ BigWigs_Voice_VV.FilePaths = {
 	[272662] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 铁钩
 	[273721] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 重型军火
 	[274002] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 召唤铁潮
-	  -- Sergeant Bainbridge 拜恩比吉中士
+	--Sergeant Bainbridge 拜恩比吉中士
 	[260924] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 钢铁风暴
 	[260954] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 铁之凝视
 	[261428] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 刽子手的套索
 	[277965] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 重型军火
 	[279761] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 沉重挥砍
-	  -- Dread Captain Lockwood 恐怖船长洛克伍德
+	--Dread Captain Lockwood 恐怖船长洛克伍德
 	[268230] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 腥红横扫
 	[268260] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 舷侧攻击
 	[268752] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 紧急回避
@@ -2385,18 +2436,18 @@ BigWigs_Voice_VV.FilePaths = {
 	[273470] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 一枪毙命
 	[463182] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 炽烈弹射
 	[463185] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 大规模轰炸
-	  -- Hadal Darkfathom 哈达尔·黑渊
+	--Hadal Darkfathom 哈达尔·黑渊
 	[257882] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 激流破奔
 	[261563] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 毁灭之潮
 	[276068] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 海潮涌动
-	  -- Viq'Goth 维克戈斯
+	--Viq'Goth 维克戈斯
 	[269266] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 猛击
 	[269366] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 修理
 	[269456] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 灭杀
 	[270185] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 深渊的呼唤
 	[270590] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 甲板破碎者
 	[275014] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 腐败之水
-	  -- Siege of Boralus Trash 小怪
+	--Siege of Boralus Trash 小怪
 	[256616] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 碎牙者
 	[256627] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 抽脸者
 	[256640] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 燃烧沥青
@@ -2418,8 +2469,28 @@ BigWigs_Voice_VV.FilePaths = {
 	[275835] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 钉刺之毒覆膜
 	[454437] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 艾泽里特炸药
     [454440] = "BattleForAzeroth\\Dungeon\\SiegeOfBoralus\\",  -- 恶臭喷吐
-	-- Temple of Sethraliss  塞塔里斯神庙	
-	[258908] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 
+	
+	-- Temple of Sethraliss  塞塔里斯神庙
+	--Adderis and Aspix 阿德里斯和阿斯匹克斯
+	[1288049] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 电闪雷鸣
+	[1288428] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 过载
+	[1288864] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 暴风 
+	[1289059] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 狂风之力 
+	--Merektha 米利克萨
+	[264172] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 钻地
+	[1289109] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 雷霆喷吐 
+	[1289205] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 孵化 
+	[1290029] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 缠绕蛇群 
+	[1290797] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 闪电撕咬 
+	[1293048] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 毒蛇风暴 
+	--Galvazzt 加瓦兹特
+	[1291618] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 闪电尖塔 
+	[1309525] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 诱导 
+	--Avatar of Sethraliss 塞塔里斯的化身
+	[1273408] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 第一阶段 
+	[1301202] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 污染之秽 
+
+	--[[[258908] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 
 	[263246] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 
 	[263257] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 
 	[263309] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 
@@ -2447,9 +2518,10 @@ BigWigs_Voice_VV.FilePaths = {
 	[272700] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 
 	[273563] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 
 	[273995] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 
-	[274149] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 	
+	[274149] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- ]]--	
+	
 	-- The MOTHERLODE!!  暴富矿区
-      -- Coin-Operated Crowd Pummeler 	 投币式群体打击者
+    --Coin-Operated Crowd Pummeler 	 投币式群体打击者
 	[256493] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 炽燃的艾泽里特
 	[262347] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 静电脉冲
 	[269493] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 足球炸弹发射器
@@ -2457,23 +2529,23 @@ BigWigs_Voice_VV.FilePaths = {
 	[271867] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 氪金致胜
 	[271903] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 硬币磁铁
 	[1217294] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 电击之爪
-	  -- Azerokk  艾泽洛克
+	--Azerokk  艾泽洛克
 	[257582] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 愤怒凝视
 	[257593] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 召唤地怒者
 	[258622] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 地震回荡
 	[271698] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 艾泽里特灌注
 	[275907] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 地质冲击
-	  -- Rixxa Fluxflame  瑞克莎·流火
+	--Rixxa Fluxflame  瑞克莎·流火
 	[259856] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 化学灼烧
 	[259940] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 推进器冲击
 	[270042] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 艾泽里特催化剂
 	[275992] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 催化剂溢出
-	  -- Mogul Razdunk  商业大亨拉兹敦克
+	--Mogul Razdunk  商业大亨拉兹敦克
 	[260280] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 加特林机枪
 	[260813] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 自控导弹
 	[271456] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 钻地猛砸
 	[276229] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 微型飞弹
-	  -- Trash
+	--Trash
 	[262092] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 吸入气雾
 	--[262268] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 腐蚀性化合物
 	[262377] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 搜寻并摧毁
@@ -2500,8 +2572,9 @@ BigWigs_Voice_VV.FilePaths = {
 	[1214754] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 野蛮猛击
 	[1215411] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 刺破
 	[1217279] = "BattleForAzeroth\\Dungeon\\TheMOTHERLODE\\",  -- 上勾拳
+	
     -- Operation Mechagon: Workshop  麦卡贡行动-车间
-	  -- Tussle Tonks
+	--Tussle Tonks
 	[282801] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 白金外壳
 	[283422] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 全速前进
 	[285152] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 索敌击飞
@@ -2509,17 +2582,17 @@ BigWigs_Voice_VV.FilePaths = {
 	[1215102] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 震地
 	[1216431] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- B.4.T.T.L.3.地雷
 	[1216443] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 电能风暴
-	  -- K.U.-J.0.
+	--K.U.-J.0.
 	[291930] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 空投
 	[291946] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 喷射烈焰
 	[291973] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 爆燃之跃
 	[294929] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 烈焰撕咬
-	  -- Machinist's Garden
+	--Machinist's Garden
 	[285440] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- “隐秘”烈焰火炮
 	[285454] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 脉冲榴弹
 	[294853] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 激活盆栽
 	[294855] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 电荷绽放
-	  -- King Mechagon
+	--King Mechagon
 	[283551] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 万磁臂
 	[291613] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 发射升空！
 	[291626] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 切割光线
@@ -2527,7 +2600,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[291928] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 巨力震击
 	[292264] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 巨力震击
 	[292290] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 第九十九号协议
-	  -- Trash
+	--Trash
 	--[293670] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 链刃
 	[293683] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 护盾发生器
 	[293729] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 调校
@@ -2549,6 +2622,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1215411] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 刺破
 	[1215412] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 腐蚀泥胶
 	[1217819] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 灼热巨颚
+	
 	-- Operation Mechagon  麦卡贡行动	
 	[284219] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 缩小
 	[294180] = "BattleForAzeroth\\Dungeon\\OperationMechagon\\",  -- 反抗烈焰
@@ -2638,7 +2712,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[273285] = "BattleForAzeroth\\Dungeon\\TheUnderrot\\",  -- 不稳定的种荚
 	[278755] = "BattleForAzeroth\\Dungeon\\TheUnderrot\\",  -- 哀嚎绝望
 	[278961] = "BattleForAzeroth\\Dungeon\\TheUnderrot\\",  -- 哀落意志
-	[413044] = "BattleForAzeroth\\Dungeon\\TheUnderrot\\",  -- 深暗回响	
+	[413044] = "BattleForAzeroth\\Dungeon\\TheUnderrot\\",  -- 深暗回响
+	
 	-- Tol Dagor  托尔达戈	
 	[256038] = "BattleForAzeroth\\Dungeon\\TolDagor\\",  -- 
 	[256083] = "BattleForAzeroth\\Dungeon\\TolDagor\\",  -- 
@@ -2666,7 +2741,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[258917] = "BattleForAzeroth\\Dungeon\\TolDagor\\",  -- 
 	[258935] = "BattleForAzeroth\\Dungeon\\TolDagor\\",  -- 
 	[260067] = "BattleForAzeroth\\Dungeon\\TolDagor\\",  -- 
-	[263345] = "BattleForAzeroth\\Dungeon\\TolDagor\\",  -- 	
+	[263345] = "BattleForAzeroth\\Dungeon\\TolDagor\\",  --
+ 	
 	-- Waycrest Manor  维克雷斯庄园
 	[260508] = "BattleForAzeroth\\Dungeon\\WaycrestManor\\",  -- 碾压
 	[260512] = "BattleForAzeroth\\Dungeon\\WaycrestManor\\",  -- 灵魂收割
@@ -2724,7 +2800,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[268306] = "BattleForAzeroth\\Dungeon\\WaycrestManor\\",  -- 不谐乐段
 	[271174] = "BattleForAzeroth\\Dungeon\\WaycrestManor\\",  -- 呕吐
 	[278444] = "BattleForAzeroth\\Dungeon\\WaycrestManor\\",  -- 感染
-	[278474] = "BattleForAzeroth\\Dungeon\\WaycrestManor\\",  -- 雕像重筑	
+	[278474] = "BattleForAzeroth\\Dungeon\\WaycrestManor\\",  -- 雕像重筑
+	
 	--  团本
 	-- 争霸艾泽拉斯（世界）
 	[262004] = "BattleForAzeroth\\Raid\\Azeroth\\",  -- 
@@ -2743,7 +2820,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[274829] = "BattleForAzeroth\\Raid\\Azeroth\\",  -- 
 	[274839] = "BattleForAzeroth\\Raid\\Azeroth\\",  -- 
 	[276046] = "BattleForAzeroth\\Raid\\Azeroth\\",  -- 
-	[275200] = "BattleForAzeroth\\Raid\\Azeroth\\",  -- 	
+	[275200] = "BattleForAzeroth\\Raid\\Azeroth\\",  --
+ 	
 	-- Uldir  奥迪尔	
 	[-18109] = "BattleForAzeroth\\Raid\\Uldir\\",  -- 
 	[-18390] = "BattleForAzeroth\\Raid\\Uldir\\",  -- 
@@ -2829,7 +2907,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[278990] = "BattleForAzeroth\\Raid\\Uldir\\",  -- 
 	[279013] = "BattleForAzeroth\\Raid\\Uldir\\",  -- 
 	[279157] = "BattleForAzeroth\\Raid\\Uldir\\",  -- 
-	[279662] = "BattleForAzeroth\\Raid\\Uldir\\",  -- 	
+	[279662] = "BattleForAzeroth\\Raid\\Uldir\\",  -- 
+	
 	-- Battle of Dazar'alor 达萨罗之战	
 	[-19494] = "BattleForAzeroth\\Raid\\BattleOfDazar'alor\\",  -- 
 	[-19690] = "BattleForAzeroth\\Raid\\BattleOfDazar'alor\\",  -- 
@@ -2934,7 +3013,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[289940] = "BattleForAzeroth\\Raid\\BattleOfDazar'alor\\",  -- 
 	[290084] = "BattleForAzeroth\\Raid\\BattleOfDazar'alor\\",  -- 
 	[290450] = "BattleForAzeroth\\Raid\\BattleOfDazar'alor\\",  -- 
-	[290578] = "BattleForAzeroth\\Raid\\BattleOfDazar'alor\\",  -- 	
+	[290578] = "BattleForAzeroth\\Raid\\BattleOfDazar'alor\\",  --
+ 	
 	-- Crucible of Storms  风暴熔炉	
 	[-18970] = "BattleForAzeroth\\Raid\\CrucibleOfStorms\\",  -- 
 	[-19055] = "BattleForAzeroth\\Raid\\CrucibleOfStorms\\",  -- 
@@ -2972,7 +3052,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[285685] = "BattleForAzeroth\\Raid\\CrucibleOfStorms\\",  -- 
 	[285820] = "BattleForAzeroth\\Raid\\CrucibleOfStorms\\",  -- 
 	[287876] = "BattleForAzeroth\\Raid\\CrucibleOfStorms\\",  -- 
-	[293653] = "BattleForAzeroth\\Raid\\CrucibleOfStorms\\",  -- 	
+	[293653] = "BattleForAzeroth\\Raid\\CrucibleOfStorms\\",  --
+ 	
 	-- The Eternal Palace  永恒王宫	
 	[-20006] = "BattleForAzeroth\\Raid\\TheEternalPalace\\",  -- 
 	[-20096] = "BattleForAzeroth\\Raid\\TheEternalPalace\\",  -- 
@@ -3078,7 +3159,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[304475] = "BattleForAzeroth\\Raid\\TheEternalPalace\\",  -- 
 	[304733] = "BattleForAzeroth\\Raid\\TheEternalPalace\\",  -- 
 	[305048] = "BattleForAzeroth\\Raid\\TheEternalPalace\\",  -- 
-	[305057] = "BattleForAzeroth\\Raid\\TheEternalPalace\\",  -- 	
+	[305057] = "BattleForAzeroth\\Raid\\TheEternalPalace\\",  --
+ 	
 	-- Ny'alotha, the Waking City  尼奥洛萨，觉醒之城	
 	[-20560] = "BattleForAzeroth\\Raid\\Ny'alotha,TheWakingCity\\",  -- 
 	[-20565] = "BattleForAzeroth\\Raid\\Ny'alotha,TheWakingCity\\",  -- 
@@ -3252,27 +3334,28 @@ BigWigs_Voice_VV.FilePaths = {
 	[333787] = "Shadowlands\\Dungeon\\DeOtherSide\\",  -- 狂怒
 	[334051] = "Shadowlands\\Dungeon\\DeOtherSide\\",  -- 喷涌黑暗
 	[334970] = "Shadowlands\\Dungeon\\DeOtherSide\\",  -- 凝结
-	[340026] = "Shadowlands\\Dungeon\\DeOtherSide\\",  -- 哀嚎之痛	
+	[340026] = "Shadowlands\\Dungeon\\DeOtherSide\\",  -- 哀嚎之痛
+	
 	-- Halls of Atonement  赎罪大厅
-	  -- Halkias  哈尔吉亚斯
+	--Halkias  哈尔吉亚斯
 	[322711] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 折射罪光
 	[322936] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 粉碎砸击
 	[322943] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 举起残骸
 	[323001] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 玻璃裂片
 	[339237] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 罪光幻象
-      -- Echelon  艾谢朗
+    --Echelon  艾谢朗
 	[319733] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 唤石
 	[319941] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 碎石之跃
 	[326389] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 鲜血洪流
 	[328206] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 羁石诅咒
-	  -- High Adjudicator Aleez  高阶裁决官阿丽兹
+	--High Adjudicator Aleez  高阶裁决官阿丽兹
 	[323538] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 能量箭
 	[323552] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 能量箭雨
 	[323597] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 幽灵附身
 	[323650] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 萦绕锁定
 	[329340] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 心能喷泉
 	[1236512] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 不稳定的心能
-	  -- Lord Chamberlain  宫务大臣
+	--Lord Chamberlain  宫务大臣
 	[323142] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 念力投掷
 	[323236] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 释放苦痛
 	[323437] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 傲慢罪印
@@ -3280,7 +3363,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[328791] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 哀伤仪式
 	[329104] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 暗影之门
 	[1236973] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 痛苦爆发
-	  -- 小怪
+	--小怪
 	[325523] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 致命推刺
 	[325700] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 收集罪恶
 	[325701] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 生命虹吸
@@ -3308,7 +3391,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1237602] = "Shadowlands\\Dungeon\\HallsOfAtonement\\",  -- 龟裂创伤 
 
 	-- Mists of Tirna Scithe  塞兹仙林的迷雾	
-	  -- Ingra Maloch	 英格拉·马洛克
+	--Ingra Maloch	 英格拉·马洛克
 	[323057] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 灵魂之箭
 	[323059] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 宗主之怒
 	[323137] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 迷乱花粉
@@ -3316,13 +3399,13 @@ BigWigs_Voice_VV.FilePaths = {
 	[323177] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 森林之泪
 	[323250] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 心能泥浆
 	[328756] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 憎恨之容
-	   -- Mistcaller	唤雾者
+	--Mistcaller	唤雾者
 	[321828] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 拍手手
 	[321834] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 闪避球
 	[321891] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 鬼抓人锁定
 	[336499] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 猜谜游戏
 	[341709] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 鬼抓人
-	-- Tred'ova	  特雷德奥瓦
+	--Tred'ova	  特雷德奥瓦
 	[322450] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 吞噬
 	[322527] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 暴食护盾
 	[322550] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 加速孵化
@@ -3334,7 +3417,7 @@ BigWigs_Voice_VV.FilePaths = {
 	--[337249] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 寄生瘫痪
 	--[337255] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 寄生占据
 	[463602] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 凝结毒素
-	-- Mists of Tirna Scithe Trash	
+	--Mists of Tirna Scithe Trash	
 	[321968] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 迷乱花粉
 	[322486] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 过度生长
 	[322557] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 灵魂分裂
@@ -3363,7 +3446,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[340544] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 再生鼓舞
 	[463217] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 心能挥砍
 	[463248] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 排斥
-	[463256] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 迷雾结界	
+	[463256] = "Shadowlands\\Dungeon\\MistsOfTirnaScithe\\",  -- 迷雾结界
+	
 	-- Plaguefall  凋魂之殇	
 	[67382] = "Shadowlands\\Dungeon\\Plaguefall\\",  -- 跳跃
 	[318949] = "Shadowlands\\Dungeon\\Plaguefall\\",  -- 脓液喷凃
@@ -3406,7 +3490,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[335882] = "Shadowlands\\Dungeon\\Plaguefall\\",  -- 附身感染
 	[336258] = "Shadowlands\\Dungeon\\Plaguefall\\",  -- 落单狩猎
 	[336301] = "Shadowlands\\Dungeon\\Plaguefall\\",  -- 裹体之网
-	[336451] = "Shadowlands\\Dungeon\\Plaguefall\\",  -- 玛卓克萨斯之壁	
+	[336451] = "Shadowlands\\Dungeon\\Plaguefall\\",  -- 玛卓克萨斯之壁
+	
 	-- Sanguine Depths  赤红深渊	
 	[319650] = "Shadowlands\\Dungeon\\SanguineDepths\\",  -- 恶意头槌
 	[319654] = "Shadowlands\\Dungeon\\SanguineDepths\\",  -- 饥苦吸取
@@ -3440,7 +3525,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[334918] = "Shadowlands\\Dungeon\\SanguineDepths\\",  -- 暗影粉碎
 	[335305] = "Shadowlands\\Dungeon\\SanguineDepths\\",  -- 尖刺镣铐
 	[335308] = "Shadowlands\\Dungeon\\SanguineDepths\\",  -- 碎裂打击
-	[341331] = "Shadowlands\\Dungeon\\SanguineDepths\\",  -- 心能吸取	
+	[341331] = "Shadowlands\\Dungeon\\SanguineDepths\\",  -- 心能吸取
+	
 	-- Spires of Ascension  晋升高塔	
 	[317661] = "Shadowlands\\Dungeon\\SpiresOfAscension\\",  -- 险恶毒液
 	[317936] = "Shadowlands\\Dungeon\\SpiresOfAscension\\",  -- 弃誓信条
@@ -3468,9 +3554,10 @@ BigWigs_Voice_VV.FilePaths = {
 	[331251] = "Shadowlands\\Dungeon\\SpiresOfAscension\\",  -- 深度联结
 	[334053] = "Shadowlands\\Dungeon\\SpiresOfAscension\\",  -- 净化冲击波
 	[334485] = "Shadowlands\\Dungeon\\SpiresOfAscension\\",  -- 充能
-	[334625] = "Shadowlands\\Dungeon\\SpiresOfAscension\\",  -- 深渊爆炸	
+	[334625] = "Shadowlands\\Dungeon\\SpiresOfAscension\\",  -- 深渊爆炸
+	
 	-- Tazavesh, the Veiled Market  塔扎维什，帷纱集市	
-	  -- Zo'phex the Sentinel  哨卫佐·菲克斯
+	--Zo'phex the Sentinel  哨卫佐·菲克斯
 	[345770] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 扣押违禁品
 	[345990] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 监禁室
 	[346204] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 武装安保
@@ -3478,7 +3565,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[348128] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 全副武装
 	[348350] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 审讯
 	[1236348] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 充能劈斩
-	  -- The Grand Menagerie  卖品会
+	--The Grand Menagerie  卖品会
 	[349627] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 暴食
 	[349663] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 饥饿之握
 	[349797] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 饕餮吞噬
@@ -3490,14 +3577,14 @@ BigWigs_Voice_VV.FilePaths = {
 	[350045] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 腐蚀心能
 	[350086] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 歼灭螺旋
 	[350101] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 诅咒锁链
-	  -- Mailroom Mayhem  收发室乱战
+	--Mailroom Mayhem  收发室乱战
 	[346286] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 有害液体
 	[346296] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 易燃
 	[346329] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 四溅液体
 	[346742] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 邮件旋风
 	[346947] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 不稳定的货物
 	[346962] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 现金汇款
-	  -- Myza's Oasis  麦扎的绿洲
+	--Myza's Oasis  麦扎的绿洲
 	[350916] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 安保猛击
 	[350919] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 群体控制
 	[350922] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 威吓怒吼
@@ -3508,7 +3595,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[356482] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 腐败的食品
 	[359028] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 安保猛击
 	[1241032] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 最终警告
-	  -- So'azmi  索·阿兹密
+	--So'azmi  索·阿兹密
 	[347249] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 分隔术
 	[347610] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 奥能手里波
 	[347623] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 迅斩
@@ -3517,7 +3604,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1245634] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 分隔术
 	[1245669] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 双重秘术
 	[1248209] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 相位斩
-	  -- Hylbrande  希尔布兰德 
+	--Hylbrande  希尔布兰德 
 	[346116] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 剪切挥舞
 	[346766] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 定期消毒
 	[346957] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 火焰净除
@@ -3525,7 +3612,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[346961] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 净化之地
 	[347094] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 泰坦粉碎
 	[353312] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 净化爆发
-	  -- Timecap'n Hooktail  时空船长钩尾
+	--Timecap'n Hooktail  时空船长钩尾
 	[347149] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 永恒吐息
 	[347151] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 屠钩横扫
 	[347371] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 葡萄弹
@@ -3534,7 +3621,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[354334] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 被钩住！
 	[358947] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 燃烧沥青
 	[1240102] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 定时炸弹
-	  -- So'leah  索·莉亚
+	--So'leah  索·莉亚
 	[350796] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 凌光火花
 	[350804] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 坍缩能量
 	[350875] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 凌光震荡
@@ -3544,7 +3631,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[351124] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 召唤刺客
 	[351646] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 凌光新星
 	[353635] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 坍缩之星
-	  -- Tazavesh Trash
+	--Tazavesh Trash
 	[347716] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 开信刀  
 	[347721] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 打开牢笼
 	[347775] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 垃圾信息过滤
@@ -3599,20 +3686,20 @@ BigWigs_Voice_VV.FilePaths = {
 	[1244650] = "Shadowlands\\Dungeon\\Tazavesh\\",  -- 海潮爆发
 
 	-- The Necrotic Wake  通灵战潮
-	-- Blightbone	凋骨
+	--Blightbone	凋骨
 	[320596] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 深重呕吐
 	[320630] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 血肉饕餮
 	[320631] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 腐肉爆发
 	[320637] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 恶臭气体
 	[320655] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 嚼碎
-	-- Amarth, The Reanimator	收割者阿玛厄斯
+	--Amarth, The Reanimator	收割者阿玛厄斯
 	[320012] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 邪恶狂乱
 	[320171] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 通灵箭
 	[321226] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 亡者领域
 	[321247] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 最终收割
 	[328667] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 寒冰箭雨
 	[333488] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 通灵吐息
-	-- Surgeon Stitchflesh	 外科医生缝肉
+	--Surgeon Stitchflesh	 外科医生缝肉
 	[320200] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 缝针
 	[320358] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 唤醒造物
 	[320359] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 逃脱
@@ -3622,12 +3709,12 @@ BigWigs_Voice_VV.FilePaths = {
 	[334476] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 防腐剂
 	[334488] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 劈肉
 	[343556] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 病态凝视
-	-- Nalthor the Rimebinder	缚霜者纳尔佐
+	--Nalthor the Rimebinder	缚霜者纳尔佐
 	[320772] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 彗星风暴
 	[320788] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 冻结之缚
 	[321368] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 冰缚之盾
 	[321894] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 黑暗放逐
-	-- The Necrotic Wake Trash	 小怪
+	--The Necrotic Wake Trash	 小怪
 	[320464] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 暗影之井
 	[320696] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 白骨爪击
 	[320822] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 最终交易
@@ -3658,7 +3745,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[345623] = "Shadowlands\\Dungeon\\TheNecroticWake\\",  -- 死亡爆发
 	
 	-- Theater of Pain 伤逝剧场
-	  -- An Affront of Challengers 狭路相逢
+	--An Affront of Challengers 狭路相逢
 	[320063] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 猛击
 	--[320069] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 致死打击
 	[320182] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 剧毒孢子
@@ -3666,13 +3753,13 @@ BigWigs_Voice_VV.FilePaths = {
 	[1215600] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 枯萎之触
 	[1215738] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 腐朽之息
 	[1215741] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 强力碾压
-	  -- Gorechop  斩血
+	--Gorechop  斩血
 	[318406] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 软肉碎击
 	[321447] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 凝固淤泥
 	[322795] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 肉钩
 	[323515] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 仇恨打击
 	[323750] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 邪恶毒气
-	  -- Xav the Unfallen  无堕者哈夫
+	--Xav the Unfallen  无堕者哈夫
 	[317231] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 碾压重击
 	--[320050] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 玛卓克萨斯之力
 	[320114] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 鲜血与荣耀
@@ -3680,13 +3767,13 @@ BigWigs_Voice_VV.FilePaths = {
 	[320729] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 群体顺劈
 	[331618] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 压制战旗
 	[339415] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 雷音贯耳
-      -- Kul'tharok  库尔萨洛克
+    --Kul'tharok  库尔萨洛克
 	[473513] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 诅咒者的盛宴
 	[474087] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 通灵喷发
 	[474298] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 抽取灵魂
 	[1215787] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 死亡螺旋
 	[1223803] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 黑暗之井
-      -- Mordretha, the Endless Empress  无尽女皇莫德蕾莎
+    --Mordretha, the Endless Empress  无尽女皇莫德蕾莎
 	[323608] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 黑暗毁灭
 	[323825] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 攫取裂隙
 	[323831] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 死亡之攫
@@ -3695,7 +3782,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[339550] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 战斗回响
 	[339573] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 屠戮回响
 	[339706] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 幽灵冲锋
-      -- Trash
+    --Trash
 	[317605] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 旋风斩
 	[321039] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 嫌恶爆发
 	[330562] = "Shadowlands\\Dungeon\\TheaterOfPain\\",  -- 挫志怒吼
@@ -3751,6 +3838,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[338864] = "Shadowlands\\Raid\\Shadowlands\\",  -- 
 	[338867] = "Shadowlands\\Raid\\Shadowlands\\",  -- 
 	[338868] = "Shadowlands\\Raid\\Shadowlands\\",  -- 	
+	
 	-- Castle Nathria  纳斯利亚堡	
 	[-21952] = "Shadowlands\\Raid\\CastleNathria\\",  -- 
 	[-21953] = "Shadowlands\\Raid\\CastleNathria\\",  -- 
@@ -3924,7 +4012,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[346790] = "Shadowlands\\Raid\\CastleNathria\\",  -- 
 	[346800] = "Shadowlands\\Raid\\CastleNathria\\",  -- 
 	[346945] = "Shadowlands\\Raid\\CastleNathria\\",  -- 
-	[347350] = "Shadowlands\\Raid\\CastleNathria\\",  -- 	
+	[347350] = "Shadowlands\\Raid\\CastleNathria\\",  --
+	
 	-- Sanctum of Domination  统御圣所
 	[-23517] = "Shadowlands\\Raid\\SanctumOfDomination\\",  -- 
 	[346459] = "Shadowlands\\Raid\\SanctumOfDomination\\",  -- 
@@ -4081,8 +4170,9 @@ BigWigs_Voice_VV.FilePaths = {
 	[358434] = "Shadowlands\\Raid\\SanctumOfDomination\\",  -- 
 	[358588] = "Shadowlands\\Raid\\SanctumOfDomination\\",  -- 
 	[358704] = "Shadowlands\\Raid\\SanctumOfDomination\\",  -- 
-	[358711] = "Shadowlands\\Raid\\SanctumOfDomination\\",  -- 	
-	-- Sepulcher of the First Ones  初诞者圣墓	
+	[358711] = "Shadowlands\\Raid\\SanctumOfDomination\\",  -- 
+	
+	--Sepulcher of the First Ones  初诞者圣墓	
 	[359483] = "Shadowlands\\Raid\\SepulcherOfTheFirstOnes\\",  -- 
 	[359610] = "Shadowlands\\Raid\\SepulcherOfTheFirstOnes\\",  -- 
 	[359770] = "Shadowlands\\Raid\\SepulcherOfTheFirstOnes\\",  -- 
@@ -4227,8 +4317,7 @@ BigWigs_Voice_VV.FilePaths = {
 	-- [Dragonflight 巨龙时代]
 		-- Dungeon 地下城	
 	-- Algeth'ar Academy  艾杰斯亚学院
-	--至暗之夜赛季1
-	-- Vexamus 维克萨姆斯
+	--Vexamus 维克萨姆斯
 	[385958] = "Dragonflight\\Dungeon\\Algeth'arAcademy\\",  -- 奥术驱除
     [386173] = "Dragonflight\\Dungeon\\Algeth'arAcademy\\",  -- 法力炸弹
 	[386544] = "Dragonflight\\Dungeon\\Algeth'arAcademy\\",  -- 奥术宝珠
@@ -4291,7 +4380,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[391977] = "Dragonflight\\Dungeon\\Algeth'arAcademy\\",  -- 涌动超载
 	[396812] = "Dragonflight\\Dungeon\\Algeth'arAcademy\\",  -- 秘法冲击
 	[439488] = "Dragonflight\\Dungeon\\Algeth'arAcademy\\",  -- 释放能量
-	-- Brackenhide Hollow  蕨皮山谷	
+	
+	--Brackenhide Hollow  蕨皮山谷	
 	[367484] = "Dragonflight\\Dungeon\\BrackenhideHollow\\",  -- 恶毒爪击
 	[367500] = "Dragonflight\\Dungeon\\BrackenhideHollow\\",  -- 狰狞蔑笑
 	[367503] = "Dragonflight\\Dungeon\\BrackenhideHollow\\",  -- 恶臭吐息
@@ -4345,8 +4435,9 @@ BigWigs_Voice_VV.FilePaths = {
 	[385832] = "Dragonflight\\Dungeon\\BrackenhideHollow\\",  -- 嗜血冲锋
 	[388046] = "Dragonflight\\Dungeon\\BrackenhideHollow\\",  -- 猛烈旋风
 	[388060] = "Dragonflight\\Dungeon\\BrackenhideHollow\\",  -- 恶臭吐息
-	[390968] = "Dragonflight\\Dungeon\\BrackenhideHollow\\",  -- 饥饿狂乱	
-	-- Dawn of The Infinite  永恒黎明
+	[390968] = "Dragonflight\\Dungeon\\BrackenhideHollow\\",  -- 饥饿狂乱
+	
+	--Dawn of The Infinite  永恒黎明
 	[400641] = "Dragonflight\\Dungeon\\DawnOfTheInfinite\\",  -- 裂地打击
 	[400642] = "Dragonflight\\Dungeon\\DawnOfTheInfinite\\",  -- 虹吸誓言石
 	[400681] = "Dragonflight\\Dungeon\\DawnOfTheInfinite\\",  -- 提尔之火
@@ -4430,8 +4521,9 @@ BigWigs_Voice_VV.FilePaths = {
 	[418684] = "Dragonflight\\Dungeon\\DawnOfTheInfinite\\",  -- 部署矮人轰炸者
 	[419351] = "Dragonflight\\Dungeon\\DawnOfTheInfinite\\",  -- 青铜急息
 	[419511] = "Dragonflight\\Dungeon\\DawnOfTheInfinite\\",  -- 时光联结
-	[419516] = "Dragonflight\\Dungeon\\DawnOfTheInfinite\\",  -- 时序喷发	
-	-- Halls of Infusion  注能大厅	
+	[419516] = "Dragonflight\\Dungeon\\DawnOfTheInfinite\\",  -- 时序喷发
+	
+	--Halls of Infusion  注能大厅	
 	[374045] = "Dragonflight\\Dungeon\\HallsOfInfusion\\",  -- 驱逐
 	[374073] = "Dragonflight\\Dungeon\\HallsOfInfusion\\",  -- 震地猛击
 	[374339] = "Dragonflight\\Dungeon\\HallsOfInfusion\\",  -- 挫志怒吼
@@ -4475,7 +4567,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[393432] = "Dragonflight\\Dungeon\\HallsOfInfusion\\",  -- 长矛乱舞
 	[395694] = "Dragonflight\\Dungeon\\HallsOfInfusion\\",  -- 元素集中
 	[437719] = "Dragonflight\\Dungeon\\HallsOfInfusion\\",  -- 雷霆打击	
-	-- Neltharus  奈萨鲁斯	
+	
+	--Neltharus  奈萨鲁斯	
 	[372201] = "Dragonflight\\Dungeon\\Neltharus\\",  -- 灼热吐息
 	[372223] = "Dragonflight\\Dungeon\\Neltharus\\",  -- 愈合泥土
 	[372225] = "Dragonflight\\Dungeon\\Neltharus\\",  -- 龙骨之斧
@@ -4520,8 +4613,25 @@ BigWigs_Voice_VV.FilePaths = {
 	[388523] = "Dragonflight\\Dungeon\\Neltharus\\",  -- 拘禁
 	[391457] = "Dragonflight\\Dungeon\\Neltharus\\",  -- 熔岩增效
 	[391762] = "Dragonflight\\Dungeon\\Neltharus\\",  -- 巨龙宝藏诅咒
-	[395427] = "Dragonflight\\Dungeon\\Neltharus\\",  -- 燃烧咆哮	
-	-- Ruby Life Pools  红玉新生法地	
+	[395427] = "Dragonflight\\Dungeon\\Neltharus\\",  -- 燃烧咆哮
+	
+	-- Ruby Life Pools  红玉新生法地
+	--Melidrussa Chillworn 梅莉杜莎·寒妆
+	[373046] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 唤醒雏龙
+	[373686] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 冰霜过载
+	[1307297] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 冰雹爆裂
+	[1307308] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 霜风
+	--Kokia Blazehoof 柯姬雅·焰蹄
+	[372110] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 熔火巨石
+	[372858] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 灼热打击
+	[372864] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 缚焰仪式
+	--Kyrakka 基拉卡
+	[381512] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 风暴猛击
+	[381516] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 阻断暴雨
+	[381517] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 变迁之风
+	[381525] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 怒吼火息
+	[381862] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 烈焰喷吐
+	--[[
 	[372047] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 钢铁弹幕
 	[372087] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 炽焰冲刺
 	[372107] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 熔火巨石
@@ -4529,24 +4639,17 @@ BigWigs_Voice_VV.FilePaths = {
 	[372696] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 采掘冲击
 	[372735] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 大地裂击
 	[372743] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 寒冰壁垒
-	[372851] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 霜风
-	[372858] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 灼热打击
+	[372851] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 霜风	
 	[372863] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 缚焰仪式
 	[372988] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 寒冰壁垒
 	[373017] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 咆哮烈焰
-	[373046] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 唤醒雏龙
 	[373087] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 燃尽
 	[373614] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 燃尽
 	[373680] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 冰霜过载
 	[373692] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 地狱烈火
 	[373693] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 活动炸弹
-	[373972] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 荣耀烈焰
-	[381512] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 风暴猛击
-	[381516] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 阻断暴雨
-	[381517] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 变迁之风
-	[381525] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 怒吼火
-	[381602] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 烈焰喷溅
-	[381862] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 地狱火之核
+	[373972] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 荣耀烈焰	
+	[381602] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 烈焰喷溅	
 	[385313] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 霉运打击
 	[385536] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 烈焰之舞
 	[391723] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 烈焰吐息
@@ -4557,8 +4660,9 @@ BigWigs_Voice_VV.FilePaths = {
 	[392486] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 闪电风暴
 	[392569] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 熔火血脉
 	[392640] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 滚雷
-	[396044] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 冰雹炸弹	
-	-- The Azure Vault  碧蓝魔馆	
+	[396044] = "Dragonflight\\Dungeon\\RubyLifePools\\",  -- 冰雹炸弹]]
+	
+	--The Azure Vault  碧蓝魔馆	
 	[370764] = "Dragonflight\\Dungeon\\TheAzureVault\\",  -- 穿刺碎片
 	[370766] = "Dragonflight\\Dungeon\\TheAzureVault\\",  -- 晶化裂口
 	[371358] = "Dragonflight\\Dungeon\\TheAzureVault\\",  -- 禁断知识
@@ -4588,8 +4692,9 @@ BigWigs_Voice_VV.FilePaths = {
 	[388008] = "Dragonflight\\Dungeon\\TheAzureVault\\",  -- 绝对零度
 	[391118] = "Dragonflight\\Dungeon\\TheAzureVault\\",  -- 法术冰霜吐息
 	[396991] = "Dragonflight\\Dungeon\\TheAzureVault\\",  -- 兽性怒吼
-	[397726] = "Dragonflight\\Dungeon\\TheAzureVault\\",  -- 尖鸣	
-	-- The Nokhud Offensive  诺库德阻击战	
+	[397726] = "Dragonflight\\Dungeon\\TheAzureVault\\",  -- 尖鸣
+	
+	--The Nokhud Offensive  诺库德阻击战	
 	[334610] = "Dragonflight\\Dungeon\\TheNokhudOffensive\\",  -- 寻找猎物
 	[372147] = "Dragonflight\\Dungeon\\TheNokhudOffensive\\",  -- 灾灭之矛
 	[373395] = "Dragonflight\\Dungeon\\TheNokhudOffensive\\",  -- 恐怖威吓
@@ -4640,8 +4745,9 @@ BigWigs_Voice_VV.FilePaths = {
 	[395035] = "Dragonflight\\Dungeon\\TheNokhudOffensive\\",  -- 粉碎灵魂
 	[395669] = "Dragonflight\\Dungeon\\TheNokhudOffensive\\",  -- 余震
 	[397394] = "Dragonflight\\Dungeon\\TheNokhudOffensive\\",  -- 致命雷霆
-	[436841] = "Dragonflight\\Dungeon\\TheNokhudOffensive\\",  -- 腐烂之风	
-	-- Uldaman Legacy of Tyr 奥达曼：提尔的遗产	
+	[436841] = "Dragonflight\\Dungeon\\TheNokhudOffensive\\",  -- 腐烂之风
+	
+	--Uldaman Legacy of Tyr 奥达曼：提尔的遗产	
 	[368990] = "Dragonflight\\Dungeon\\UldamanLegacyOfTyr\\",  -- 净化烈焰
 	[369038] = "Dragonflight\\Dungeon\\UldamanLegacyOfTyr\\",  -- 泰坦结界
 	[369043] = "Dragonflight\\Dungeon\\UldamanLegacyOfTyr\\",  -- 灌注
@@ -4687,9 +4793,10 @@ BigWigs_Voice_VV.FilePaths = {
 	[377738] = "Dragonflight\\Dungeon\\UldamanLegacyOfTyr\\",  -- 远古能量
 	[381593] = "Dragonflight\\Dungeon\\UldamanLegacyOfTyr\\",  -- 雷霆拍击
 	[382578] = "Dragonflight\\Dungeon\\UldamanLegacyOfTyr\\",  -- 提尔的祝福
-	[386104] = "Dragonflight\\Dungeon\\UldamanLegacyOfTyr\\",  -- 失落的提尔之书	
+	[386104] = "Dragonflight\\Dungeon\\UldamanLegacyOfTyr\\",  -- 失落的提尔之书
+	
 	-- 团本
-	-- Dragon Isles  巨龙群岛（世界）	
+	--Dragon Isles  巨龙群岛（世界）	
 	[383496] = "Dragonflight\\Raid\\DragonIsles\\",  -- 
 	[387199] = "Dragonflight\\Raid\\DragonIsles\\",  -- 
 	[387265] = "Dragonflight\\Raid\\DragonIsles\\",  -- 
@@ -4706,8 +4813,9 @@ BigWigs_Voice_VV.FilePaths = {
 	[391247] = "Dragonflight\\Raid\\DragonIsles\\",  -- 
 	[390635] = "Dragonflight\\Raid\\DragonIsles\\",  -- 
 	[391026] = "Dragonflight\\Raid\\DragonIsles\\",  -- 
-	[389960] = "Dragonflight\\Raid\\DragonIsles\\",  -- 	
-	-- Vault of the Incarnates 化身巨龙牢窟	
+	[389960] = "Dragonflight\\Raid\\DragonIsles\\",  -- 
+	
+	--Vault of the Incarnates 化身巨龙牢窟	
 	[-24899] = "Dragonflight\\Raid\\VaultOfTheIncarnates\\",  -- 霜息蜘蛛
 	[-25129] = "Dragonflight\\Raid\\VaultOfTheIncarnates\\",  -- 拜荒者的增援
 	[370307] = "Dragonflight\\Raid\\VaultOfTheIncarnates\\",  -- 烈焰军团
@@ -4847,8 +4955,9 @@ BigWigs_Voice_VV.FilePaths = {
 	[397387] = "Dragonflight\\Raid\\VaultOfTheIncarnates\\",  -- 火焰护盾
 	[397431] = "Dragonflight\\Raid\\VaultOfTheIncarnates\\",  -- 转移精华
 	[399713] = "Dragonflight\\Raid\\VaultOfTheIncarnates\\",  -- 磁力充能
-	[400473] = "Dragonflight\\Raid\\VaultOfTheIncarnates\\",  -- 元素之怒	
-	-- Aberrus, the Shadowed Crucible  亚贝鲁斯，焰影熔炉	
+	[400473] = "Dragonflight\\Raid\\VaultOfTheIncarnates\\",  -- 元素之怒
+	
+	--Aberrus, the Shadowed Crucible  亚贝鲁斯，焰影熔炉
 	[397383] = "Dragonflight\\Raid\\Aberrus,TheShadowedCrucible\\",  -- 熔火屏障
 	[397386] = "Dragonflight\\Raid\\Aberrus,TheShadowedCrucible\\",  -- 熔岩箭
 	[400430] = "Dragonflight\\Raid\\Aberrus,TheShadowedCrucible\\",  -- 地狱射线
@@ -4982,9 +5091,10 @@ BigWigs_Voice_VV.FilePaths = {
 	[411900] = "Dragonflight\\Raid\\Aberrus,TheShadowedCrucible\\",  -- 阴暗液体
 	[411905] = "Dragonflight\\Raid\\Aberrus,TheShadowedCrucible\\",  -- 烈焰沸腾
 	[412498] = "Dragonflight\\Raid\\Aberrus,TheShadowedCrucible\\",  -- 停滞之地
-	[418113] = "Dragonflight\\Raid\\Aberrus,TheShadowedCrucible\\",  -- 梦境爆发	
+	[418113] = "Dragonflight\\Raid\\Aberrus,TheShadowedCrucible\\",  -- 梦境爆发
+	
 	-- Amirdrassil, the Dream’s Hope  阿梅达希尔，梦境之愿	
-	  -- 	Gnarlroot  瘤根 
+	--Gnarlroot  瘤根 
 	[421038] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 灰烬灼体
 	[421840] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 刨根痛楚
 	[421898] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 烈焰痼疾
@@ -4997,7 +5107,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[424970] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 剧毒壤土
 	[425816] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 炽炎花粉
 	[425820] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 烈焰树脂
-	  -- Igira the Cruel  残虐者艾姬拉
+	--Igira the Cruel  残虐者艾姬拉
 	[414340] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 沐焰之刃
 	[414367] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 折磨收束
 	[414770] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 酷热折磨
@@ -5010,7 +5120,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[422776] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 折磨标记
 	[424456] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 碾压脏腑
 	[426056] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 催命割裂
-	  -- Volcoross  沃尔科罗斯 
+	--Volcoross  沃尔科罗斯 
 	[420415] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 焦尾碾压
 	[420933] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 火焰之地洪焰
 	[421082] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 地狱蒸腾
@@ -5022,7 +5132,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[423494] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 潮汐热浪
 	[424218] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 燃烧之怒
 	[427201] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 
-	  -- Council of Dreams  梦境议会
+	--Council of Dreams  梦境议会
 	[418187] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 重生
 	[418720] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 变形术炸弹
 	[420858] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 剧毒投枪
@@ -5035,7 +5145,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[423551] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 无常劲风
 	[425114] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 巨熊之怒
 	[426390] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 腐蚀花粉
-	  -- Larodar, Keeper of the Flame  拉罗达尔，烈焰守护者 
+	--Larodar, Keeper of the Flame  拉罗达尔，烈焰守护者 
 	[417653] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 火焰自然之力
 	[417632] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 爆燃之地
 	[417634] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 地狱怒火
@@ -5061,7 +5171,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[428946] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 灰烬绝息
 	[429032] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 焰光不熄
 	[429973] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 焖焰爆燃
-	  -- Nymue, Weaver of the Cycle  尼穆威，轮回编织者
+	--Nymue, Weaver of the Cycle  尼穆威，轮回编织者
 	[-28482] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 
 	[413443] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 生命结界
 	[420554] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 茏葱矩阵
@@ -5075,7 +5185,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[429615] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 织机迫近
 	[429798] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 笼葱撕裂
 	[430563] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 幻灭植物
-	  -- Smolderon  斯莫德隆 
+	--Smolderon  斯莫德隆 
 	[421343] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 诅咒烙印
 	[421455] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 过热
 	[421532] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 闷燃之地
@@ -5090,7 +5200,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[423896] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 热力迸发
 	[425885] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 索敌的地狱火
 	[426725] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 末日渐至
-	  -- Tindral Sageswift, Seer of the Flame  丁达尔·迅贤，烈焰预言者
+	--Tindral Sageswift, Seer of the Flame  丁达尔·迅贤，烈焰预言者
 	[420236] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 坠星
 	[421398] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 火焰光束
 	[421636] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 台风
@@ -5111,7 +5221,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[425606] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 强化之焰
 	[427297] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 焰浪涌动
 	[430583] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- Germinating Aura烈焰之种的DEBUFF
-      -- Fyrakk the Blazing  火光之龙菲莱克
+    --Fyrakk the Blazing  火光之龙菲莱克
 	[410223] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 暗影烈焰吐息
 	[412761] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 化身
 	[414186] = "Dragonflight\\Raid\\Amirdrassil,TheDream’sHope\\",  -- 爆焰
@@ -5147,7 +5257,7 @@ BigWigs_Voice_VV.FilePaths = {
 	
 	-- [The War Within 地心之战]
 	-- Scenarios  场景
-	  -- AwakeningTheMachine  主机觉醒
+	--AwakeningTheMachine  主机觉醒
 	[462802] = "TheWarWithin\\Scenarios\\AwakeningTheMachine\\",  -- 净化烈焰
 	[462826] = "TheWarWithin\\Scenarios\\AwakeningTheMachine\\",  -- 自毁
 	[462856] = "TheWarWithin\\Scenarios\\AwakeningTheMachine\\",  -- 废灵壁垒
@@ -5157,7 +5267,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[463052] = "TheWarWithin\\Scenarios\\AwakeningTheMachine\\",  -- 地鸣猛击
 	[463081] = "TheWarWithin\\Scenarios\\AwakeningTheMachine\\",  -- 撼地冲撞
 	
-	-- Brawler's Guild 搏击俱乐部
+	--Brawler's Guild 搏击俱乐部
 	[133157] = "TheWarWithin\\Brawler'sGuild\\",  -- 麻风喷吐 
 	[133162] = "TheWarWithin\\Brawler'sGuild\\",  -- 紧急传送 
 	[133212] = "TheWarWithin\\Brawler'sGuild\\",  -- 地精火箭弹幕 
@@ -5207,7 +5317,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1263281] = "TheWarWithin\\Brawler'sGuild\\",  -- 划水 
 	[1267024] = "TheWarWithin\\Brawler'sGuild\\",  -- 噬咬 
 	
-	-- Delves 地下堡
+	--Delves 地下堡
 	[359016] = "TheWarWithin\\Delves\\",  -- 身手矫健		
 	[372529] = "TheWarWithin\\Delves\\",  -- 狰狞笑声
 	[462686] = "TheWarWithin\\Delves\\",  -- 碎颅者
@@ -5326,7 +5436,7 @@ BigWigs_Voice_VV.FilePaths = {
 	--[463408] = "TheWarWithin\\Delves\\",  -- 冰霜灌注
 	[470582] = "TheWarWithin\\Delves\\",  -- 沼泽箭
 	[470612] = "TheWarWithin\\Delves\\",  -- 腐蚀胆汁
-    --	第二赛季 安德麦
+    --第二赛季 安德麦
 	[457448] = "TheWarWithin\\Delves\\",  -- 暗影爆发
 	[470592] = "TheWarWithin\\Delves\\",  -- 黄昏祝福
 	[470593] = "TheWarWithin\\Delves\\",  -- 死亡磨难
@@ -5404,7 +5514,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1218153] = "TheWarWithin\\Delves\\",  -- 燃烧的残骸
 	[472842] = "TheWarWithin\\Delves\\",  -- 摧毁
 	[473541] = "TheWarWithin\\Delves\\",  -- 拳击连打
-	-- 过载地下堡
+	--过载地下堡
 	[455380] = "TheWarWithin\\Delves\\",  -- 链齿重拳
 	[455613] = "TheWarWithin\\Delves\\",  -- 机轴突袭
 	[1220472] = "TheWarWithin\\Delves\\",  -- 过载
@@ -5413,21 +5523,21 @@ BigWigs_Voice_VV.FilePaths = {
 	[1227345] = "TheWarWithin\\Delves\\",  -- 坚钢防御
 	[1239731] = "TheWarWithin\\Delves\\",  -- 魔像重击
 	--  第三赛季
-	  --  尼尔西坦船长<Captain Nil'hitan>
+	--尼尔西坦船长<Captain Nil'hitan>
 	[1239350] = "TheWarWithin\\Delves\\",  -- 全体听令！
 	[1239407] = "TheWarWithin\\Delves\\",  -- 冲刺
 	[1239427] = "TheWarWithin\\Delves\\",  -- 击沉它！
 	[1239445] = "TheWarWithin\\Delves\\",  -- 舷侧攻击
-	  --  传送门主管哈尔桑<Portalmaster Halsan>
+	--传送门主管哈尔桑<Portalmaster Halsan>
 	[1241753] = "TheWarWithin\\Delves\\",  -- 传送门注能
 	[1241991] = "TheWarWithin\\Delves\\",  -- 卡雷什定时炸弹
 	[1242142] = "TheWarWithin\\Delves\\",  -- 内爆
-	  --  虚空骑手查尔纳克斯<Voidrider Challnax>
+	--虚空骑手查尔纳克斯<Voidrider Challnax>
 	[1238892] = "TheWarWithin\\Delves\\",  -- 虚无之息
 	[1238909] = "TheWarWithin\\Delves\\",  -- 晦暗毁灭
 	[1238930] = "TheWarWithin\\Delves\\",  -- 穿刺
 	[1239134] = "TheWarWithin\\Delves\\",  -- 宇宙宁静
-	  --  节点女亲王凯威扎<Nexus-Princess Ky'veza>
+	--节点女亲王凯威扎<Nexus-Princess Ky'veza>
 	--[1225642] = "TheWarWithin\\Delves\\",  -- 君威暗世 
 	[1244462] = "TheWarWithin\\Delves\\",  -- 祈唤暗影 
 	--[1244473] = "TheWarWithin\\Delves\\",  -- 遁入暗影 
@@ -5438,7 +5548,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1245240] = "TheWarWithin\\Delves\\",  -- 节点匕首 
 	[1245582] = "TheWarWithin\\Delves\\",  -- 虚空裂隙 
 	[1250050] = "TheWarWithin\\Delves\\",  -- 充能 
-	  --  凯威扎精英（稀有）<Ky'veza Rares>
+	--凯威扎精英（稀有）<Ky'veza Rares>
 	[1237258] = "TheWarWithin\\Delves\\",  -- 衰腐之池 
 	[1237671] = "TheWarWithin\\Delves\\",  -- 沙尘暴 
 	[1238713] = "TheWarWithin\\Delves\\",  -- 重力粉碎 
@@ -5456,7 +5566,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1245156] = "TheWarWithin\\Delves\\",  -- 凯威扎保宏伟登场 
 	[1245203] = "TheWarWithin\\Delves\\",  -- 黑暗狂戮 
 	[1245240] = "TheWarWithin\\Delves\\",  -- 节点匕首 
-	  --  虚灵部队<Ethereal Trash>
+	--虚灵部队<Ethereal Trash>
 	[1231144] = "TheWarWithin\\Delves\\",  -- 虚无之息 
 	[1236229] = "TheWarWithin\\Delves\\",  -- 奥能反斥器 
 	[1236256] = "TheWarWithin\\Delves\\",  -- 锐锋顺劈 
@@ -5464,35 +5574,36 @@ BigWigs_Voice_VV.FilePaths = {
 	[1236428] = "TheWarWithin\\Delves\\",  -- 见证吧！ 
 	[1236770] = "TheWarWithin\\Delves\\",  -- 奥术喷流
 	[1237160] = "TheWarWithin\\Delves\\",  -- 辐射之池
-	  -- 绝凶邪兽<Beste Glatisant>
+	--绝凶邪兽<Beste Glatisant>
 	[1245667] = "TheWarWithin\\Delves\\",  -- 反刍狗头人
 	[1245746] = "TheWarWithin\\Delves\\",  -- 湿泞肉体
 	[1245765] = "TheWarWithin\\Delves\\",  -- 恐惧咆哮
 	[1245784] = "TheWarWithin\\Delves\\",  -- 粉碎砸击	
-	  -- 钢魂奥能守卫<Steelsoul Arcanoward>
+	--钢魂奥能守卫<Steelsoul Arcanoward>
 	[1230608] = "TheWarWithin\\Delves\\",  -- 晕眩试炼
 	[1231893] = "TheWarWithin\\Delves\\",  -- 毁灭践踏
 	[1231919] = "TheWarWithin\\Delves\\",  -- 核闪穿刺	
+	
 		-- Dungeon 地下城
 	-- Ara-Kara, City of Echoes   艾拉-卡拉，回响之城
-	  -- Avanoxx  阿瓦诺克斯
+	--Avanoxx  阿瓦诺克斯
 	[438471] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 贪食撕咬
 	[438473] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 蛛纱强袭
 	[438476] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 警示尖鸣
 	[446794] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 贪得无厌
-	  -- Anub'zekt  阿努布泽克特
+	--Anub'zekt  阿努布泽克特
 	[433740] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 感染
 	[433766] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 虫群之眼
 	[435012] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 穿刺
 	[439506] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 钻地冲击
 	[442210] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 裹体之网
-	  -- Ki'katal the Harvester  收割者吉卡塔尔
+	--Ki'katal the Harvester  收割者吉卡塔尔
 	[432031] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 抓握之血
 	[432117] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 宇宙奇点
 	[432130] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 爆发蛛网
 	[432227] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 毒液箭雨
 	[461487] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 培植毒药
-	  -- Trash 小怪
+	 --Trash 小怪
 	[432967] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 预警尖鸣
 	[433002] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 深掘打击
 	[433821] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 冲刺打击
@@ -5514,14 +5625,15 @@ BigWigs_Voice_VV.FilePaths = {
 	[465012] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 猛击
 	[1241693] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 虫群风暴
 	[1241785] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\",  -- 污血	
+	
 	-- City of Threads    千丝之城
-	  -- Orator Krix'vizk  演说者基克斯威兹克
+	--Orator Krix'vizk  演说者基克斯威兹克
 	[434722] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 压制
 	[434779] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 惊魂恫吓
 	[434829] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 喧神教化
 	[434926] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 残存影响
 	[448561] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 疑之影
-	  -- Fangs of the Queen  女王之牙
+	--Fangs of the Queen  女王之牙
 	[439621] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 邃影斩
 	[439692] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 暮落
 	[440218] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 寒冰镰刀
@@ -5529,19 +5641,19 @@ BigWigs_Voice_VV.FilePaths = {
 	[441298] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 冰冻之血
 	[441384] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 协同步法
 	[458741] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 冻成冰块
-	  -- The Coaglamation  凝结聚合体
+	--The Coaglamation  凝结聚合体
 	[441289] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 黏稠黑暗
 	[441395] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 黑暗脉动
 	[461825] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 黑血
 	[461842] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 溢流猛击
 	[461880] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 血之激涌
-	  -- Izo, the Grand Splicer  大捻接师艾佐
+	--Izo, the Grand Splicer  大捻接师艾佐
 	[437700] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 震颤猛击
 	[438860] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 晦幽纺纱
 	[439341] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 捻接
 	[439401] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 变易异常
 	[439646] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 汰劣程序
-	  -- Trash  小怪
+	--Trash  小怪
 	[434137] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 毒性喷吐
 	[436205] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 凶暴践踏
 	[443430] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 流丝缠缚
@@ -5560,20 +5672,21 @@ BigWigs_Voice_VV.FilePaths = {
 	[451543] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 虚无猛击
 	[452151] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 严酷戳刺	
 	[452162] = "TheWarWithin\\Dungeon\\CityOfThreads\\",  -- 愈合之网
+	
 	-- The Stonevault   矶石宝库
-	  -- E.D.N.A.  E.D.N.A. 
+	--E.D.N.A.  E.D.N.A. 
 	[424795] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 折光射线
 	[424879] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 大地破裂
 	[424888] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 震地猛击
 	[424889] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 震地回响
 	[424903] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 不稳定尖刺
-	  -- Skarmorak  斯卡莫拉克
+	--Skarmorak  斯卡莫拉克
 	[422233] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 结晶猛击
 	[423200] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 加固壳壁
 	--[423228] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 加固壳壁
 	[423538] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 无常碾压
 	[423572] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 不稳定的碎片
-	  -- Forge Speakers  机械大师
+	--Forge Speakers  机械大师
 	[428202] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 废料颂
 	[428508] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 炽焰波峰
 	[428711] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 火成岩锤
@@ -5581,11 +5694,11 @@ BigWigs_Voice_VV.FilePaths = {
 	[439577] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 沉默代言人
 	[445541] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 排放口
 	[449167] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 熔岩重炮
-	  -- High Speaker Eirich 虚空代言人艾里克
+	--High Speaker Eirich 虚空代言人艾里克
 	[427461] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 虚空腐蚀
 	[427852] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 熵能清算
 	[427869] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 无拘虚空
-	  -- Trash 
+	--Trash 
 	[425027] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 地震波
 	[425974] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 震地	
 	[426308] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 虚空感染
@@ -5605,8 +5718,9 @@ BigWigs_Voice_VV.FilePaths = {
 	[449455] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 咆哮恐惧
 	[459210] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 暗影爪击
 	[462500] = "TheWarWithin\\Dungeon\\TheStonevault\\",  -- 灌魔铁之能
+	
 	-- The Dawnbreaker   破晨号 
-	  -- Shadowcrown  夏多克朗
+	--Shadowcrown  夏多克朗
 	[425264] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 黑曜冲击
 	[426735] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 燃烧之影
 	[428086] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 暗影箭
@@ -5614,13 +5728,13 @@ BigWigs_Voice_VV.FilePaths = {
 	[451026] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 黑暗降临
 	[453140] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 塌缩之夜
 	[453212] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 黑曜光束
-	  -- Anub'ikkaj  阿努布伊卡基
+	--Anub'ikkaj  阿努布伊卡基
 	[426787] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 晦影腐朽
 	--[426860] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 暗黑法球（私有）
 	[427001] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 恐惧猛击
 	[427378] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 黑暗伤痕
 	[452127] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 活化暗影
-	  -- Rasha'nan Dawnbreaker  拉夏南
+	--Rasha'nan Dawnbreaker  拉夏南
 	--[434089] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 喷射丝线（私有）
 	--[434407] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 酸液翻腾（私有）
 	[434655] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 阿拉希炸弹
@@ -5629,7 +5743,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[448888] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 侵蚀喷涌
 	[449528] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 光芒四射
 	[449734] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 酸蚀喷发
-	  -- Trash 
+	--Trash 
 	[431304] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 黑暗潮涌
 	[431309] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 诱捕暗影
 	[431349] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 折磨喷发
@@ -5653,31 +5767,32 @@ BigWigs_Voice_VV.FilePaths = {
 	[451117] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 恐惧猛击
 	[451119] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 深渊轰击
 	[460135] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 黑暗伤痕
-	[1242074] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 激化侵袭	
+	[1242074] = "TheWarWithin\\Dungeon\\TheDawnbreaker\\",  -- 激化侵袭
+	
     -- Cinderbrew Meadery   燧酿酒庄
-	  -- Brew Master Aldryr  酿造大师阿德里尔
+	--Brew Master Aldryr  酿造大师阿德里尔
 	[431895] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 携带燧酿
 	[432179] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 投掷燧酿
 	[432196] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 滚烫蜜糖
 	[432198] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 炽热响嗝
 	[432229] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 醉酿投
 	[442525] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 欢乐时光
-	  -- I'pa 艾帕
+	--I'pa 艾帕
 	[439031] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 干杯勾拳
 	[439202] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 燃烧发酵
 	[439365] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 喷涌佳酿
 	[440147] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 满上
 	[441179] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 泛涌蜂蜜
-	  -- Benk Buzzbee  本克·鸣蜂
+	--Benk Buzzbee  本克·鸣蜂
 	[438025] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 点心时间
 	[439524] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 振翼之风
 	[440134] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 蜂蜜料汁
-	  -- Goldie Baronbottom  戈尔迪·底爵
+	--Goldie Baronbottom  戈尔迪·底爵
 	[435560] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 有酿同享！
 	[435622] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 遮天蔽日！
 	[436592] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 点钞大炮
 	[436644] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 燃焰弹射
-	   -- Trash  小怪
+	--Trash  小怪
 	[434706] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 燧酿飞掷
 	[434998] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 飞肉直下
 	[437721] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 沸燃烈焰
@@ -5697,34 +5812,35 @@ BigWigs_Voice_VV.FilePaths = {
 	[448619] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 鲁莽搬运
 	[463206] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 爆捶
 	[463218] = "TheWarWithin\\Dungeon\\CinderbrewMeadery\\",  -- 烈性酒桶
+	
 	-- Darkflame Cleft   暗焰裂口 
-	  -- Ol' Waxbeard  老蜡须
+	--Ol' Waxbeard  老蜡须
 	[422116] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 鲁莽冲锋
 	[422245] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 穿岩凿
 	[422163] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 诱引烛焰
 	[429093] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 卑鄙“轨”术
-	  -- Blazikon  布雷炙(zhi)孔
+	--Blazikon  布雷炙(zhi)孔
 	[421817] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 点芯弹幕
 	[421910] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 灭火强风
 	[423109] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 燃焰地狱火
 	[424212] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 点燃
 	[425394] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 吹灭之息
 	[443835] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 炽烈风暴
-	  -- The Candle King  蜡烛之王
+	--The Candle King  蜡烛之王
 	[420659] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 诡谀铸模
 	[421067] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 熔化蜡油
 	[421653] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 被诅咒的蜡油
 	[422648] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 暗焰之锄
 	[420696] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 投掷暗焰
 	[426145] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 偏执失心
-	  -- The Darkness  黑暗之主
+	--The Darkness  黑暗之主
 	[426943] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 晦幽骤兴
 	[427011] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 暗影冲击
 	[427025] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 幽影斩击
 	[427157] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 召唤暗嗣
 	[427176] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 吸取光明
 	[428166] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 永恒黑暗
-	  -- Trash
+	--Trash
 	[422393] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 窒息黑暗
 	--[422414] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 暗影碎击
 	[422541] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 吸取光明
@@ -5744,14 +5860,15 @@ BigWigs_Voice_VV.FilePaths = {
 	[469620] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 蠕行暗影
 	[1218177] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 强力践踏
 	[1218131] = "TheWarWithin\\Dungeon\\DarkflameCleft\\",  -- 燃烧的蜡烛
+	
 	-- Priory of the Sacred Flame   圣焰隐修院 
-	  -- Captain Dailcry  戴尔克莱上尉
+	--Captain Dailcry  戴尔克莱上尉
 	[424414] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 贯穿护甲
 	[424419] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 战斗狂啸
 	[447270] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 掷矛
 	[447439] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 野蛮重殴
 	[1238780] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 碎地之矛 
-	  -- Baron Braunpyke  布朗派克男爵
+	--Baron Braunpyke  布朗派克男爵
 	[422969] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 报偿之怒
 	[423015] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 谴罚者之盾
 	[423051] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 灼烧之光
@@ -5759,7 +5876,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[446368] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 献祭葬火
 	[446403] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 牺牲烈焰
 	[446525] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 无束焚焰
-	  -- Prioress Murrpray  隐修院长穆普雷
+	--Prioress Murrpray  隐修院长穆普雷
 	[423588] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 圣光屏障
 	[423664] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 拥抱圣光
 	[425556] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 神圣之地
@@ -5767,7 +5884,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[444546] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 净涤
 	[444608] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 心灵之火
 	[451605] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 神圣烈焰
-	  -- Trash  小怪
+	--Trash  小怪
 	[424420] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 余烬冲击
 	[424423] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 跃进打击
 	[424429] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 奉献
@@ -5800,21 +5917,22 @@ BigWigs_Voice_VV.FilePaths = {
 	[448791] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 神圣鸣罪
 	[453458] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 铁蒺藜
 	[462859] = "TheWarWithin\\Dungeon\\PrioryOfTheSacredFlame\\",  -- 随意射击
+	
 	-- The Rookery   驭雷栖巢
-	  -- Kyrioss  凯里欧斯 
+	--Kyrioss  凯里欧斯 
 	[419870] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 闪电疾冲
 	--[424148] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 闪电链
 	[444123] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 闪电涌流
 	[474018] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 狂野闪电
 	--[1214320] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 定身雷矢
 	[1214325] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 崩解闪电
-	  -- Stormguard Gorren  雷卫戈伦
+	--Stormguard Gorren  雷卫戈伦
 	[424737] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 混沌腐蚀
 	[424797] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 混沌脆弱
 	[424958] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 粉碎现实
 	[424966] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 徘徊虚空
 	[425048] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 黑暗引力	
-	  -- Voidstone Monstrosity  虚空石畸体
+	--Voidstone Monstrosity  虚空石畸体
 	[423305] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 虚无颠覆
 	[423393] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 熵灭
 	[424371] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 风暴复仇
@@ -5823,7 +5941,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[445262] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 虚空壳壁
 	[445457] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 湮灭波
 	[458082] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 驭雷者电荷
-	  -- Trash  小怪
+	--Trash  小怪
 	--[423979] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 内爆
 	[426893] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 束缚虚空
 	[427260] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 大鸫肝火
@@ -5847,8 +5965,9 @@ BigWigs_Voice_VV.FilePaths = {
 	[1214523] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 饕餮虚空
 	[1214546] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 晦幽波
 	[1214628] = "TheWarWithin\\Dungeon\\TheRookery\\",  -- 释放黑暗
+	
 	-- Operation: Floodgate   水闸行动
-	  -- Big M.O.M.M.A.  老大娘
+	--Big M.O.M.M.A.  老大娘
 	[460156] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 快速启动
 	[469981] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 夺命封锁屏障
 	[471585] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 动员无人机
@@ -5857,7 +5976,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[473287] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 超量电化
 	[473351] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 电气重碾
 	[1214780] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 终极失真
-	  -- Demolition Duo  破拆双人组
+	--Demolition Duo  破拆双人组
 	[459779] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 滚桶冲锋
 	[459799] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 重击
 	[460602] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 快速射击
@@ -5865,18 +5984,18 @@ BigWigs_Voice_VV.FilePaths = {
 	[470090] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 天人永隔
 	[473690] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 动能胶质炸药
 	[1217653] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- B.B.B.F.G.
-	  -- Swampface  沼面
+	--Swampface  沼面
 	[469478] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 淤泥之爪
 	[470039] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 割喉藤蔓
 	[473070] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 唤醒沼泽
 	[473114] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 泥石流
-      -- Geezle Gigazap   吉泽尔·超震
+    --Geezle Gigazap   吉泽尔·超震
 	[465463] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 涡轮增压
 	[466190] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 雷霆重拳
 	[468723] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 激荡之水
 	[468813] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 超力震击
 	[468841] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 跃动火花
-      -- Trash
+    --Trash
 	[462771] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 勘测光束
 	[463058] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 嗜血狞笑
 	[465120] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 上紧发条
@@ -5898,21 +6017,22 @@ BigWigs_Voice_VV.FilePaths = {
 	[1214468] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 特技射击
 	[1216039] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- R.P.G.G.
 	[1217496] = "TheWarWithin\\Dungeon\\OperationFloodgate\\",  -- 噼啪溅跃
+	
 	-- Eco-Dome Al'dani   奥尔达尼生态圆顶
-	  -- Azhiccar  阿兹希卡
+	--Azhiccar  阿兹希卡
 	[1217232] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 吞噬
 	[1217247] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 盛宴
 	[1217327] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 入侵尖啸
 	[1217446] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 消化唾沫
 	[1217664] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 痛击
 	[1227745] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 毒性反刍
-	  -- Taah'bat and A'wazj  塔尔·巴特和阿瓦兹吉
+	--Taah'bat and A'wazj  塔尔·巴特和阿瓦兹吉
 	[1219457] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 虚体
 	[1219482] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 裂隙利爪
 	[1219700] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 奥术突袭
 	[1227918] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 迁跃打击
 	[1236130] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 束缚的标枪
-	  -- Soul-Scribe  撰魂师
+	--Soul-Scribe  撰魂师
 	[1224793] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 命运低语
 	[1224865] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 命缚者
 	[1225174] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 仪式匕首
@@ -5920,7 +6040,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1226444] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 重伤的命运
 	[1236703] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 永恒织缕
 	[1237184] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 命运裂片
-	  -- 小怪 
+	--小怪 
 	[1215850] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 碾地猛击
 	[1221152] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 暴食猛击
 	[1221190] = "TheWarWithin\\Dungeon\\EcoDomeAldani\\",  -- 暴食瘴气
@@ -5947,39 +6067,39 @@ BigWigs_Voice_VV.FilePaths = {
 
 	--  TWW  地心之战（世界） 
 	  -- KhazAlgar 世界首领
-	   -- Aggregation of Horrors 惊魂聚合体  
+	--Aggregation of Horrors 惊魂聚合体  
 	[452205] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 晶化弹幕
 	[452980] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 虚空震击
 	[453271] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 黑暗觉醒
 	[453294] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 水晶打击	
-	  -- Shurrai, Atrocity of the Undersea  修拉伊，地狱之海的暴虐者
+	--Shurrai, Atrocity of the Undersea  修拉伊，地狱之海的暴虐者
 	[453618] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 深渊打击
 	[453733] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 咸水喷吐
 	[453875] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 灵魂反刍
 	[455275] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 黑暗之潮
-	  -- Orta, the Broken Mountain  欧尔塔，破碎山恋
+	--Orta, the Broken Mountain  欧尔塔，破碎山恋
 	[450407] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 巨人重击
 	[450454] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 地动咆哮
 	[450677] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 破裂符文
 	[450929] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 崇山之握
-	  -- Kordac, the Dormant Protector  考尔达克，休眠的保护者
+	--Kordac, the Dormant Protector  考尔达克，休眠的保护者
 	[458329] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 泰坦重击
 	[458423] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 奥术轰炸
 	[458695] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 超载激光
 	[458799] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 超载大地
 	[458838] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 压制爆发
-	  -- The Gobfather 地精教父
+	--The Gobfather 地精教父
 	[1216505] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 炸弹场
 	[1216687] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 炽燃烈焰
 	[1216709] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 死从天降
 	[1216812]  = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 极巨大火箭猛击
-	  -- Reshanor, The Untethered  雷什诺尔，无拘者
+	--Reshanor, The Untethered  雷什诺尔，无拘者
 	[1237893] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 碎帷咆哮
 	[1237905] = "TheWarWithin\\Raid\\KhazAlgar\\",  -- 暮光之息
 	
 	-- Raid  地心团本
 	 -- Nerub'ar Palace   尼鲁巴尔王宫
-	  -- Ulgrax the Devourer  噬灭者乌格拉克斯
+	--Ulgrax the Devourer  噬灭者乌格拉克斯
 	[434697] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 蛮力碾压
 	[434705] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 暴捶
 	[434778] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 噬肉角力
@@ -5997,7 +6117,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[443842] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 噬灭黑暗
 	[445052] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 聒噪虫群
 	[455831] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 硬化缠网
-	  -- The Bloodbound Horror  血缚恐魔
+	--The Bloodbound Horror  血缚恐魔
 	[438696] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 黑脓败血
 	[442530] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 瘀液喷撒
 	[443042] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 异世之握
@@ -6011,14 +6131,14 @@ BigWigs_Voice_VV.FilePaths = {
 	[451288] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 黑暗壁垒
 	[452237] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 血液凝阻
 	[459444] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 内出血
-	  -- Sikran, Captain of the Sureki  苏雷吉队长席克兰
+	--Sikran, Captain of the Sureki  苏雷吉队长席克兰
 	[432969] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 相位贯突
 	[434860] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 相位之刃
 	[439511] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 队长之百华斩
 	[439559] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 箭雨
 	[456420] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 粉碎横扫
 	[459273] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 宇宙碎片
-	  -- Rasha'nan  拉夏南
+	--Rasha'nan  拉夏南
 	[439776] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 酸液池
 	[439784] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 喷射丝线
 	[439785] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 腐蚀
@@ -6033,7 +6153,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[455373] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 被感染的子嗣
 	[457877] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 酸性甲壳
 	[458067] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 野蛮创伤
-	  -- Broodtwister Ovi'nax  虫巢扭曲着欧维纳克斯
+	--Broodtwister Ovi'nax  虫巢扭曲着欧维纳克斯
 	[441362] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 不稳定的混合物
 	[442250] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 锁定
 	[442257] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 感染
@@ -6046,7 +6166,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[446700] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 毒药爆发
 	[450661] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 腐灼反应
 	[458212] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 死疽伤口
-	  -- Nexus-Princess Ky'veza  节点女亲王凯威扎
+	--Nexus-Princess Ky'veza  节点女亲王凯威扎
 	[435405] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 喑星之夜
 	[437343] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 女王之灾
 	[437620] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 虚空裂隙
@@ -6055,7 +6175,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[440377] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 虚空溃灭
 	[440576] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 深凿重创
 	[442277] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 无尽长夜
-	-- The Silken Court 流丝之庭
+	--The Silken Court 流丝之庭
 	[438355] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 灾变熵能
 	[438656] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 剧毒之雨
 	[438677] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 针刺虫群
@@ -6082,7 +6202,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[456245] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 刺痛谵妄
 	[460281] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 燃烧之怒
 	[460359] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 虚空溃变
-	-- Queen Ansurek  安苏雷克女王
+	--Queen Ansurek  安苏雷克女王
 	[437078] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 酸池
 	[437093] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 盛宴
 	[437417] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 剧毒新星
@@ -6121,7 +6241,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[464638] = "TheWarWithin\\Raid\\Nerub'arPalace\\",  -- 泛沫毒素
 
 	 -- Liberation of Undermine   解放安德鲁
-	  -- Vexie and the Geargrinders  维克茜和磨轮
+	--Vexie and the Geargrinders  维克茜和磨轮
 	[459678] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 喷油
 	[459683] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 浮油
 	[459943] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 召唤摩托
@@ -6131,7 +6251,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[468147] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 废气
 	[468216] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 爆燃纵火
 	[471403] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 冷酷刹戮
-	  -- Cauldron of Carnage  血腥大熔炉
+	--Cauldron of Carnage  血腥大熔炉
 	[463900] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 雷鼓齐射
 	[463925] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 残存电流
 	[465833] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 巨械争斗
@@ -6145,7 +6265,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1214039] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 熔岩池
 	[1214190] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 喷发重踏
 	[1221826] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 微械厮斗
-	  -- Rik Reverb  里克·混响
+	--Rik Reverb  里克·混响
 	[464518] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 耳鸣
 	[466093] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 错乱
 	[466866] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 回响之歌
@@ -6159,7 +6279,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1214164] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 刺激
 	[1214598] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 着迷
 	[1217122] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 残存电伏
-	  -- Stix Bunkjunker  斯提克斯·堆渣
+	--Stix Bunkjunker  斯提克斯·堆渣
 	[461536] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 滚动的垃圾
 	[464112] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 崩摧
 	[464149] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 焚烧
@@ -6177,7 +6297,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1217975] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 毁灭爆破
 	[1218704] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 原型能源线圈
 	[1219384] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 废铁火箭
-	  -- Sprocketmonger Lockenstock  链齿狂人洛肯斯多
+	--Sprocketmonger Lockenstock  链齿狂人洛肯斯多
 	[465232] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 声波爆轰
 	[465917] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 重力停滞
 	[466235] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 缆线输电
@@ -6196,7 +6316,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1218418] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 缆线输电
 	[1219047] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 极性化灾难震击
 	[1221320] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 激活发明！
-	  -- The One-Armed Bandit  独臂盗匪
+	--The One-Armed Bandit  独臂盗匪
 	[460181] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 奖励路线
 	[460444] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 豪客！
 	[460472] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 重棒登场
@@ -6212,7 +6332,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[471927] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 凋零烈焰
 	[474665] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 硬币磁铁
 	["rewards"] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 
-	  -- Mug'Zee, Heads of Security  穆格·兹伊，安保头子
+	--Mug'Zee, Heads of Security  穆格·兹伊，安保头子
 	[-31766] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 振荡器
 	[463967] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 嗜血
 	[466385] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 胆大妄为
@@ -6236,7 +6356,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1215953] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 静电充能
 	--[1216142] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 鲁莽怒火
 	--[1222948] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 电气充能护盾
-	  -- Chrome King Gallywix	 铬武大王加里维克斯
+	--Chrome King Gallywix	 铬武大王加里维克斯
 	--[-31482] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 召唤增援
 	[465952] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 超大捆劣性炸药
 	[466154] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 爆破燃烧
@@ -6272,7 +6392,7 @@ BigWigs_Voice_VV.FilePaths = {
 	--[1222831] = "TheWarWithin\\Raid\\LiberationOfUndermine\\",  -- 过载线圈
 	
 	-- Manaforge Omega  法力熔炉：欧米伽
-	  -- Plexus Sentinel   集能哨兵
+	--Plexus Sentinel   集能哨兵
 	[1218625] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 错位矩阵
 	[1218668] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 能量切割者	
 	[1219223] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 灰飞烟灭
@@ -6285,7 +6405,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1220679] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 相位闪现
 	[1227794] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 奥术闪电
 	[1233110] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 净化闪电
-	  -- Loom'ithar  卢米萨尔
+	--Loom'ithar  卢米萨尔
 	[1226311] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 注能束缚
 	[1226366] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 活体流丝
 	[1226395] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 过量输能爆发
@@ -6298,7 +6418,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1243771] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 奥能黏液
 	[1246921] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 注能晶塔
 	[1247045] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 超能灌注
-	  -- Soulbinder Naazindhri 缚魂者娜欣达利
+	--Soulbinder Naazindhri 缚魂者娜欣达利
 	[1223859] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 奥术驱除
 	[1225582] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 灵魂召唤
 	[1225616] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 魂火汇聚
@@ -6308,7 +6428,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1227276] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 笞魂歼灭
 	[1241100] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 秘法鞭笞
 	[1242086] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 奥术能量
-	  --  Forgeweaver Araz 熔炉编织者阿拉兹
+	--Forgeweaver Araz 熔炉编织者阿拉兹
 	[1227631] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 奥术驱除
 	[1228188] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 沉默风暴
 	[1228214] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 星界收割
@@ -6329,7 +6449,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1243901] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 虚空收割
 	[1248009] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 黑暗终界
 	[1248171] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 虚空裂缝
-	  --  The Soul Hunters  狩魂猎手
+	--The Soul Hunters  狩魂猎手
 	[1221490] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 邪能灼痕
 	[1222232] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 吞噬者之怒
 	[1222310] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 无餍之饥
@@ -6351,7 +6471,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1242284] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 灵魂重碾
 	[1242304] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 驱逐灵魂
 	[1245726] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 根除
-	  --  Fractillus  弗兰克提鲁斯
+	--Fractillus  弗兰克提鲁斯
 	[1224414] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 结晶震荡波
 	[1225673] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 狂怒粉碎
 	[1227373] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 碎壳
@@ -6359,7 +6479,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1231871] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 震波猛击
 	[1233416] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 结晶震荡波
 	[1247424] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 虚无吞噬
-	  -- Nexus-King Salhadaar  节点之王萨哈达尔 
+	--Nexus-King Salhadaar  节点之王萨哈达尔 
 	[1224737] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 誓言约束
 	[1224767] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 侍王之奴
 	[1224787] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 征服
@@ -6383,7 +6503,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1232399] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 恐惧炮击
 	[1234529] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 宇宙之喉
 	[1238975] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 复仇誓言
-	  -- Dimensius, the All-Devouring  诸界吞噬者迪门修斯
+	--Dimensius, the All-Devouring  诸界吞噬者迪门修斯
 	[1228206] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 过量物质
 	[1228207] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 集体引力
 	[1229038] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 吞噬
@@ -6428,143 +6548,191 @@ BigWigs_Voice_VV.FilePaths = {
 	--  Midnight  至暗之夜 
 	  -- Dungeon 地下城
 	-- Magister's Terrace 魔导师平台
-	-- Arcanotron Custos 奥能金刚库斯托斯
+	--Arcanotron Custos 奥能金刚库斯托斯
 	[474345] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 补给协议
 	[474496] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 震退猛击
 	[1214032] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 虚灵枷锁
 	[1214081] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 奥术驱除
-	--[1214089] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 奥术残渣
-	--[1243905] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 不稳定的能量
-	-- Seranel Sunlash 瑟拉奈尔·日鞭
+	--Seranel Sunlash 瑟拉奈尔·日鞭
 	[1224903] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 镇压力场
 	[1225787] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 符文印记
 	[1248689] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 加速结界
 	[1225193] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 静默浪潮
-	--[1225015] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 镇压力场
-	--[1225205] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 静默浪潮
-	--[1246446] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 虚无反噬
-	-- Gemellus 吉美尔鲁斯
+	--Gemellus 吉美尔鲁斯
 	[1223847] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 三重复制
 	[1224299] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 星界束缚
 	[1253709] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 神经链接
 	[1284954] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 寰宇刺击
-	--[1224104] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 虚空分泌物
-	--[1224401] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 宇宙辐射
-	-- Degentrius 迪詹崔乌斯
+	--Degentrius 迪詹崔乌斯
 	[1215897] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 贪噬之熵
 	[1280113] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 庞大碎片
 	[1215087] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 不稳定的虚空精华
-	--[1215157] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 不稳定的虚空精华
-	--[1215161] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 虚空毁灭
-	--[1269631] = "Midnight\\Dungeon\\MagistersTerrace\\",  -- 熵能宝珠
 
 	-- Maisara Caverns  迈萨拉洞窟
-	-- Muro'jin and Nekraxx 姆罗金和内克拉克斯
+	--Muro'jin and Nekraxx 姆罗金和内克拉克斯
 	[1243900] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 恶臭羽毛风暴
 	[1246666] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 感染羽翼
 	[1260643] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 弹幕射击
 	[1260731] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 冰冻陷阱
 	[1266480] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 长矛侧攻
 	[1249479] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 腐肉飞扑
-	--[1243741] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 冰冻陷阱
-	--[1243752] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 覆冰
-	--[1249478] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 腐肉飞扑
-	--[1260709] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 邪枝钉刺
-	--[1266488] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 迸裂创伤
-	-- Vordaza 沃达扎
+	--Vordaza 沃达扎
 	[1250708] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 死疽融合
 	[1251204] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 束缚幻影
 	[1251554] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 吸取灵魂
 	[1252054] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 寂灭
-	--[1251568] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 吸取灵魂
-	--[1251775] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 终极追杀
-	--[1251813] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 萦绕恐惧
-	--[1251833] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 灵魂腐烂
-	--[1252130] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 寂灭
-	--[1266706] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 萦绕残骸
-	-- Rak'tul 拉克图尔
+	--Rak'tul 拉克图尔
 	[1251023] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 碎魂者
 	[1252676] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 粉碎灵魂
 	[1253788] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 裂魂咆哮
-	--[1252675] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 粉碎灵魂
-	--[1252777] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 灵魂束缚
-	--[1252816] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 死亡战栗
-	--[1253779] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 幽魂凋零
-	--[1253844] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 枯萎灵魂
-	--[1254043] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 永恒的痛苦
-	--[1254175] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 亡者的哭喊
-	--[1255629] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 幽魂残渣
-	--[1266188] = "Midnight\\Dungeon\\MaisaraCaverns\\",  -- 暗影领域
 	
 	-- Nexus-Point Xenas  节点希纳斯
-	-- Kasreth 核技工程长卡斯雷瑟
+	--Kasreth 核技工程长卡斯雷瑟
 	[1251579] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 魔网阵列
 	[1251772] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 回流充能
 	[1257509] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 核闪引爆
 	[1264048] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 能量坍缩
-	--[1276485] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 星火灼烧
-	-- Corewarden Nysarra 核心守卫奈萨拉
+	--Corewarden Nysarra 核心守卫奈萨拉
 	[1247937] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 幽影鞭笞
 	[1249014] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 蚀光步伐
 	[1252703] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 空无先锋
 	[1264439] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 光痕耀斑
-	--[1252828] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 虚空创裂
-	-- Lothraxion 洛萨克森
+	--Lothraxion 洛萨克森
 	[1253855] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 辉熠消散
 	[1253950] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 灼热撕裂
 	[1255531] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 闪烁
 	[1257595] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 神圣诡计
-	--[1255310] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 光耀之痕
-	--[1255335] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 灼热撕裂
-	--[1255503] = "Midnight\\Dungeon\\NexusPointXenas\\",  -- 辉熠消散
 	
 	-- Windrunner Spire  风行者之塔
-	-- Emberdawn 烬晓
+	--Emberdawn 烬晓
 	[465904] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 燃烧烈风
 	[466064] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 炽热尖喙
 	[466556] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 炽焰腾流
-	--[466091] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 炽热尖喙
-	--[466559] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 炽焰腾流
-	--[470212] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 炽燃龙卷
-	--[472118] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 点燃余烬
-	-- Derelict Duo 二人组
+	--Derelict Duo 二人组
 	[472736] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 衰弱尖啸
 	[472745] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 飞溅喷吐
 	[472888] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 碎骨猛砍
 	[474105] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 黑暗诅咒
-	--[472777] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 黏稠喷溅
-	--[472793] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 猛力拖拽
-	--[474129] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 飞溅喷吐
-	--[1215803] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 黑暗诅咒
-	--[1219491] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 衰弱尖啸
-	--[1253834] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 黑暗诅咒
-	--[1282272] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 喷溅
-	-- Commander Kroluk 指挥官克罗鲁科
+	--Commander Kroluk 指挥官克罗鲁科
 	[467620] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 暴怒
 	[472081] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 无情跳跃
 	[1250851] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 盾墙
 	[1253272] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 破胆怒吼
 	[470963] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 剑刃风暴
-	--[468659] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 掷斧
-    -- Restless Heart 无眠之心
+    --Restless Heart 无眠之心
 	[472556] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 矢如雨下
 	[472662] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 暴风斩
 	[474528] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 飞矢烈风
 	[1253986] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 劲风射击
 	[468429] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 疾风狙击
-	--[1216042] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 飓风腾跃
-	--[1253979] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 劲风射击
-	--[1282911] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 飞矢烈风
-	--[1282955] = "Midnight\\Dungeon\\WindrunnerSpire\\",  -- 风暴灵魂之泉
 	
-	-- 英文  中文
-	-- 英文NPC 中文NPC
-	--[1111111] = "Midnight\\Dungeon\\abcdefgzz\\",  -- 
-	-- Corewarden Nysarra 核心守卫奈萨拉
+	-- Altar Of Fangs 毒牙祭坛（S2）
+	--Rav'i 拉维
+	[1296050] = "Midnight\\Dungeon\\AltarOfFangs\\",  -- 反刍 
+	[1296216] = "Midnight\\Dungeon\\AltarOfFangs\\",  -- 嘶嘶食腐 
+	[1296220] = "Midnight\\Dungeon\\AltarOfFangs\\",  -- 三重喷吐 
+	[1307703] = "Midnight\\Dungeon\\AltarOfFangs\\",  -- 鲜肉  
+	[1307894] = "Midnight\\Dungeon\\AltarOfFangs\\",  -- 贪婪践踏  
+	--The Writhing Coil 扭缠盘蛇
+	[1298949] = "Midnight\\Dungeon\\AltarOfFangs\\",  -- 镰尾  
+	[1299053] = "Midnight\\Dungeon\\AltarOfFangs\\",  -- 濒死喘息  
+	[1299130] = "Midnight\\Dungeon\\AltarOfFangs\\",  -- 掘地冲锋  
+	[1299154] = "Midnight\\Dungeon\\AltarOfFangs\\",  -- 同步毒液  
+	[1300044] = "Midnight\\Dungeon\\AltarOfFangs\\",  -- 毒液喷射  
+	[1300686] = "Midnight\\Dungeon\\AltarOfFangs\\",  -- 同化  
+	[1310358] = "Midnight\\Dungeon\\AltarOfFangs\\",  -- 剧毒萎缩  
+	[1310547] = "Midnight\\Dungeon\\AltarOfFangs\\",  -- 剧毒萎缩  
+	--Zul'jan 祖尔加
+	[1300876] = "Midnight\\Dungeon\\AltarOfFangs\\",  -- 毒牙仪式
+	[1301111] = "Midnight\\Dungeon\\AltarOfFangs\\",  -- 碎斧  
+	[1301350] = "Midnight\\Dungeon\\AltarOfFangs\\",  -- 砍倒  
+	[1301413] = "Midnight\\Dungeon\\AltarOfFangs\\",  -- 切骨者  
+
+	-- Den Of Nalorakk 纳洛拉克的洞穴 （S2）
+	--The Hoardmonger 囤宝狂人
+	[1234233] = "Midnight\\Dungeon\\DenOfNalorakk\\",  -- 腐坏补给
+	[1235118] = "Midnight\\Dungeon\\DenOfNalorakk\\",  -- 贪婪咆哮
+	[1253268] = "Midnight\\Dungeon\\DenOfNalorakk\\",  -- 裂地强击
+	--Sentinel of Winter 寒冬哨兵
+	[1235548] = "Midnight\\Dungeon\\DenOfNalorakk\\",  -- 冰川折磨
+	[1235623] = "Midnight\\Dungeon\\DenOfNalorakk\\",  -- 狂怒的飑风
+	[1235656] = "Midnight\\Dungeon\\DenOfNalorakk\\",  -- 寒冰暴雨
+	[1235783] = "Midnight\\Dungeon\\DenOfNalorakk\\",  -- 粉碎冰刺
+	--Nalorakk Den 纳洛拉克
+	[1242860] = "Midnight\\Dungeon\\DenOfNalorakk\\",  -- 回响重击
+	[1243011] = "Midnight\\Dungeon\\DenOfNalorakk\\",  -- 战神之怒
+	[1243569] = "Midnight\\Dungeon\\DenOfNalorakk\\",  -- 压制强攻
+
+	-- Murder Row 密谋小径
+	--凯斯媞亚·魔力之心<Kystia Manaheart>
+	[474240] = "Midnight\\Dungeon\\MurderRow\\",  -- 邪能新星 
+	[1230304] = "Midnight\\Dungeon\\MurderRow\\",  -- 光明灌注 
+	[1253811] = "Midnight\\Dungeon\\MurderRow\\",  -- 邪能飞溅 
+	[1264095] = "Midnight\\Dungeon\\MurderRow\\",  -- 镜像 
+	--赞恩·刃悲<Zaen Bladesorrow>
+	[474478] = "Midnight\\Dungeon\\MurderRow\\",  -- 影舞步 
+	[474765] = "Midnight\\Dungeon\\MurderRow\\",  -- 当日送达 
+	[1214357] = "Midnight\\Dungeon\\MurderRow\\",  -- 火焰炸弹
+	[1218347] = "Midnight\\Dungeon\\MurderRow\\",  -- 毒伤 
+	[1222795] = "Midnight\\Dungeon\\MurderRow\\",  -- 绝命凶径 
+	--歼灭者萨祖克斯<Xathuux the Annihilator>
+	[473898] = "Midnight\\Dungeon\\MurderRow\\",  -- 军团打击 
+	[474197] = "Midnight\\Dungeon\\MurderRow\\",  -- 魔化狂怒
+	[1214637] = "Midnight\\Dungeon\\MurderRow\\",  -- 利斧投掷 
+	[1295453] = "Midnight\\Dungeon\\MurderRow\\",  -- 地狱火碾压 
+	--利希尔·烬怒<Lithiel Cinderfury>
+	[474408] = "Midnight\\Dungeon\\MurderRow\\",  -- 召唤邪犬 
+	[1218203] = "Midnight\\Dungeon\\MurderRow\\",  -- 古尔丹之指 
+	[1224478] = "Midnight\\Dungeon\\MurderRow\\",  -- 灾厄浪潮 
+
+	-- The Blinding Vale 夺目谷
+	--光明众花<Lightblossom>
+	[1234753] = "Midnight\\Dungeon\\TheBlindingVale\\",  -- 基岩猛击 
+	[1234850] = "Midnight\\Dungeon\\TheBlindingVale\\",  -- 播光急奔 
+	[1235564] = "Midnight\\Dungeon\\TheBlindingVale\\",  -- 光明之花射线 
+	[1235640] = "Midnight\\Dungeon\\TheBlindingVale\\",  -- 荆棘之刃 
+	--圣光猎手伊库兹<Ikuzz the Light Hunter>
+	[1236709] = "Midnight\\Dungeon\\TheBlindingVale\\",  -- 唤棘者咆哮 
+	[1236746] = "Midnight\\Dungeon\\TheBlindingVale\\",  -- 青翠践踏 
+	[1237090] = "Midnight\\Dungeon\\TheBlindingVale\\",  -- 嗜血注视
+	--护光者鲁伊亚<Lightwarden Ruia>
+	[1239824] = "Midnight\\Dungeon\\TheBlindingVale\\",  -- 光明之火 
+	[1239882] = "Midnight\\Dungeon\\TheBlindingVale\\",  -- 变形：枭兽 
+	[1239883] = "Midnight\\Dungeon\\TheBlindingVale\\",  -- 变形：哈籁尼尔 
+	[1239885] = "Midnight\\Dungeon\\TheBlindingVale\\",  -- 变形：熊 
+	[1240098] = "Midnight\\Dungeon\\TheBlindingVale\\",  -- 光明坠落 
+	[1240210] = "Midnight\\Dungeon\\TheBlindingVale\\",  -- 粉碎打击 
+	[1241058] = "Midnight\\Dungeon\\TheBlindingVale\\",  -- 凶残痛击
+	--兹欧凯特<Ziekket>
+	[1246372] = "Midnight\\Dungeon\\TheBlindingVale\\",  -- 唤醒光绽 
+	[1246607] = "Midnight\\Dungeon\\TheBlindingVale\\",  -- 凝聚光线 
+	[1246858] = "Midnight\\Dungeon\\TheBlindingVale\\",  -- 光绽精华 
+	[1247685] = "Midnight\\Dungeon\\TheBlindingVale\\",  -- 棘刺 
+
+	-- Voidscar Arena 虚空之痕竞技场
+	--塔兹拉尔<Taz'Rah>
+	[1222098] = "Midnight\\Dungeon\\VoidscarArena\\",  -- 空灵冲刺
+	[1296963] = "Midnight\\Dungeon\\VoidscarArena\\",  -- 幽影破裂 
+	[1297017] = "Midnight\\Dungeon\\VoidscarArena\\",  -- 虚空冲击 
+	[1300259] = "Midnight\\Dungeon\\VoidscarArena\\",  -- 黑暗绽放 
+	--阿特洛苏斯<Atroxus>
+	[1222371] = "Midnight\\Dungeon\\VoidscarArena\\",  -- 激怒蠕行者 
+	[1222642] = "Midnight\\Dungeon\\VoidscarArena\\",  -- 巨型爪击 
+	[1222721] = "Midnight\\Dungeon\\VoidscarArena\\",  -- 毒性吐息 
+	[1226120] = "Midnight\\Dungeon\\VoidscarArena\\",  -- 毒液喷溅 
+	[1262497] = "Midnight\\Dungeon\\VoidscarArena\\",  -- 巨响咆哮
+	--煞戎努斯<Charonus>
+	[1222755] = "Midnight\\Dungeon\\VoidscarArena\\",  -- 虚空奔涌 
+	[1227264] = "Midnight\\Dungeon\\VoidscarArena\\",  -- 星辰坠击 
+	[1263982] = "Midnight\\Dungeon\\VoidscarArena\\",  -- 引力宝珠 
+	[1282770] = "Midnight\\Dungeon\\VoidscarArena\\",  -- 不稳定的奇点 
+	[1311923] = "Midnight\\Dungeon\\VoidscarArena\\",  -- 暗影浪潮 
+
+
 	            
 				-- Raid 团本
 	-- 	The Dreamrift 梦境裂隙
-	-- Chimaerus the Undreamt God 奇美鲁斯，未梦之神
+	--Chimaerus the Undreamt God 奇美鲁斯，未梦之神
 	[1245396] = "Midnight\\Raid\\TheDreamrift\\",  -- 吞噬
 	[1245406] = "Midnight\\Raid\\TheDreamrift\\",  -- 贪食俯冲
 	[1245486] = "Midnight\\Raid\\TheDreamrift\\",  -- 腐化毁灭
@@ -6578,65 +6746,40 @@ BigWigs_Voice_VV.FilePaths = {
 	[1272726] = "Midnight\\Raid\\TheDreamrift\\",  -- 猛撕开裂
 
 	-- 	The Voidspire 虚影尖塔	
-	-- Imperator Averzian 元首阿福扎恩
+	--Imperator Averzian 元首阿福扎恩
 	[1249251] = "Midnight\\Raid\\TheVoidspire\\",  -- 黑暗颠覆
 	[1249262] = "Midnight\\Raid\\TheVoidspire\\",  -- 幽影坍缩
 	[1251361] = "Midnight\\Raid\\TheVoidspire\\",  -- 暗影进军
 	[1258883] = "Midnight\\Raid\\TheVoidspire\\",  -- 虚空坠落
 	[1260712] = "Midnight\\Raid\\TheVoidspire\\",  -- 湮灭之怒
-	--[1280015] = "Midnight\\Raid\\TheVoidspire\\",  -- 虚空标记
-	-- Vorasius 弗拉希乌斯
+	--Vorasius 弗拉希乌斯
 	[1241692] = "Midnight\\Raid\\TheVoidspire\\",  -- 影爪重击
 	[1254199] = "Midnight\\Raid\\TheVoidspire\\",  -- 散逸寄生虫
 	[1256855] = "Midnight\\Raid\\TheVoidspire\\",  -- 虚空吐息
 	[1260052] = "Midnight\\Raid\\TheVoidspire\\",  -- 始源咆哮
-	-- Fallen-King Salhadaar 陨落之王萨哈达尔
+	--Fallen-King Salhadaar 陨落之王萨哈达尔
 	[1246175] = "Midnight\\Raid\\TheVoidspire\\",  -- 熵能瓦解
 	[1247738] = "Midnight\\Raid\\TheVoidspire\\",  -- 虚空融合
 	[1250686] = "Midnight\\Raid\\TheVoidspire\\",  -- 扭曲遮蔽
 	[1254081] = "Midnight\\Raid\\TheVoidspire\\",  -- 破碎投影
-	--[1250803] = "Midnight\\Raid\\TheVoidspire\\",  -- 粉碎暮光
-	--[1248697] = "Midnight\\Raid\\TheVoidspire\\",  -- 专制命令
-	-- Vaelgor & Ezzorak 威厄高尔和艾佐拉克
-	--[1244221] = "Midnight\\Raid\\TheVoidspire\\",  -- 亡者吐息
+	--Vaelgor & Ezzorak 威厄高尔和艾佐拉克
 	[1244917] = "Midnight\\Raid\\TheVoidspire\\",  -- 虚空嚎叫
 	[1245391] = "Midnight\\Raid\\TheVoidspire\\",  -- 阴霾
-	--[1245645] = "Midnight\\Raid\\TheVoidspire\\",  -- 拉克獠牙
 	[1249748] = "Midnight\\Raid\\TheVoidspire\\",  -- 午夜烈焰
 	[1262623] = "Midnight\\Raid\\TheVoidspire\\",  -- 虚无光束
 	[1265131] = "Midnight\\Raid\\TheVoidspire\\",  -- 威厄之翼
-	-- Lightblinded Vanguard 光盲先锋军
+	--Lightblinded Vanguard 光盲先锋军
 	[1246162] = "Midnight\\Raid\\TheVoidspire\\",  -- 虔诚光环
-	--[1246485] = "Midnight\\Raid\\TheVoidspire\\",  -- 复仇者之盾
 	[1246736] = "Midnight\\Raid\\TheVoidspire\\",  -- 审判
 	[1246749] = "Midnight\\Raid\\TheVoidspire\\",  -- 神圣鸣罪
-	--[1246765] = "Midnight\\Raid\\TheVoidspire\\",  -- 神圣风暴
 	[1248449] = "Midnight\\Raid\\TheVoidspire\\",  -- 愤怒光环
 	[1248451] = "Midnight\\Raid\\TheVoidspire\\",  -- 平心光环
 	[1248644] = "Midnight\\Raid\\TheVoidspire\\",  -- 圣洁鸣钟
 	[1248674] = "Midnight\\Raid\\TheVoidspire\\",  -- 圣洁护盾
-	--[1248710] = "Midnight\\Raid\\TheVoidspire\\",  -- 提尔之怒
-	--[1248983] = "Midnight\\Raid\\TheVoidspire\\",  -- 处决宣判
 	[1251857] = "Midnight\\Raid\\TheVoidspire\\",  -- 审判
 	[1255738] = "Midnight\\Raid\\TheVoidspire\\",  -- 灼热光辉
 	[1276243] = "Midnight\\Raid\\TheVoidspire\\",  -- 狂热之魂
-	-- Crown of the Cosmos 宇宙之冕
-	--[1232467] = "Midnight\\Raid\\TheVoidspire\\",  -- 空虚之握
-	--[1233602] = "Midnight\\Raid\\TheVoidspire\\",  -- 银锋箭
-	--[1233787] = "Midnight\\Raid\\TheVoidspire\\",  -- 黑暗之手
-	--[1233865] = "Midnight\\Raid\\TheVoidspire\\",  -- 空无之冕
-	--[1234569] = "Midnight\\Raid\\TheVoidspire\\",  -- 星辰散射
-	--[1235622] = "Midnight\\Raid\\TheVoidspire\\",  -- 奇点喷发
-	--[1237038] = "Midnight\\Raid\\TheVoidspire\\",  -- 虚空追猎者钉刺
-	--[1237614] = "Midnight\\Raid\\TheVoidspire\\",  -- 游侠队长印记
-	--[1238206] = "Midnight\\Raid\\TheVoidspire\\",  -- 无常裂隙
-	--[1238708] = "Midnight\\Raid\\TheVoidspire\\",  -- 黑暗冲锋
-	--[1239080] = "Midnight\\Raid\\TheVoidspire\\",  -- 终末守护
-	--[1243753] = "Midnight\\Raid\\TheVoidspire\\",  -- 暴食深渊
-	--[1243982] = "Midnight\\Raid\\TheVoidspire\\",  -- 银锋弹幕射击
-	--[1245874] = "Midnight\\Raid\\TheVoidspire\\",  -- 环绕物质
-	--[1246461] = "Midnight\\Raid\\TheVoidspire\\",  -- 裂隙挥砍
-	--[1246918] = "Midnight\\Raid\\TheVoidspire\\",  -- 宇宙屏障
+	--Crown of the Cosmos 宇宙之冕
 	[1237837] = "Midnight\\Raid\\TheVoidspire\\",  -- 虚空召唤
 	[1238843] = "Midnight\\Raid\\TheVoidspire\\",  -- 噬灭宇宙
 	[1243743] = "Midnight\\Raid\\TheVoidspire\\",  -- 干扰震荡
@@ -6644,31 +6787,31 @@ BigWigs_Voice_VV.FilePaths = {
 	[1261016] = "Midnight\\Raid\\TheVoidspire\\",  -- 裂隙幻影
 	[1261339] = "Midnight\\Raid\\TheVoidspire\\",  -- 宇宙传送门
 	
-	-- 	 March on Quel'Danas 进军奎尔丹纳斯
-	-- Belo'ren, Child of Al'ar 贝洛朗，奥的子嗣
-	-- Midnight Falls 至暗之夜降临
-	--[1241313] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 复生
-	--[1242260] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 注能飞羽
-	--[1242792] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 烈焰孵化
-	--[1242981] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 光耀回响
-	--[1246709] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 死亡坠落
-	--[1260763] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 守护者敕令
+	-- March on Quel'Danas 进军奎尔丹纳斯
+	--Belo'ren, Child of Al'ar 贝洛朗，奥的子嗣
+	[1260763] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 守护者敕令
 	[1241282] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 贝洛朗的燃烬
 	[1244344] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 永恒灼烧
+	--Midnight Falls 至暗之夜降临	
 	[1249620] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 死亡挽歌
 	[1250898] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 黑暗天使长
 	[1251386] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 护卫棱镜
 	[1253915] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 天穹战刃
-	[1260763] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 守护者敕令
-	[1276525] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 虚光汇流
-	[1267049] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 天堂与地狱
+	[1266388] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 黑暗星座
 	[1266897] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 圣光虹吸
 	[1267049] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 天穹之枪
 	[1273158] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 死亡安魂曲
+	[1276525] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 虚光汇流
 	[1279420] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 黑暗类星体
 	[1282412] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 核心收割
 	[1284525] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 充电
 	[1284931] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 终结棱柱
 	[1284980] = "Midnight\\Raid\\MarchOnQuelDanas\\",  -- 黯灭协奏
 	
+	-- Sporefall  孢陨幽境
+	--Rotmire 腐沼
+	[1221622] = "Midnight\\Raid\\Sporefall\\",  -- 唤醒真菌
+	[1221637] = "Midnight\\Raid\\Sporefall\\",  -- 真菌绽放
+	[1221781] = "Midnight\\Raid\\Sporefall\\",  -- 腐烂之拳
+	[1221787] = "Midnight\\Raid\\Sporefall\\",  -- 脓包爆裂
 }

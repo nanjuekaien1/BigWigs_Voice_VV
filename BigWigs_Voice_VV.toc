@@ -1,15 +1,16 @@
-## Interface: 120005, 120007
+﻿## Interface: 120100, 120005, 120007
 
 ## Title: BigWigs |cffff0000+|r|cffffffffVoice: VV|r
-## Version: 12.0.3
+## Version: 12.0.5
 ## Notes: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
-## Notes-zhCN: BigWigs附加模块，为团队首领技能播放语音提示 v12。
+## Notes-zhCN: BigWigs附加模块，为团队首领技能播放语音提示 v12.1。
 ## Notes-zhTW: BigWigs附加模組，為團隊首領技能播放語音提示。
 ## IconTexture: Interface\AddOns\BigWigs_Voice_VV\Icons\VV_BW.tga
 ## Author: Funkeh, Sehra, VV
 
 ## X-BigWigs-LoadOn-CoreEnabled: 1
 ## Dependencies: BigWigs
+## LoadOnDemand: 1
 
 ## X-Category: Raid
 ## X-License: All Rights Reserved. 

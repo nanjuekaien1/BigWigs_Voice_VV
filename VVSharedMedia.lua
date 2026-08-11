@@ -102,6 +102,7 @@ LSM:Register("sound", "|cffeda55f弹幕射击|r", [[Interface\Addons\BigWigs_Voi
 LSM:Register("sound", "|cffeda55f瞄准符文|r", [[Interface\Addons\BigWigs_Voice_VV\Media\AimingRune.ogg]])
 LSM:Register("sound", "|cffeda55f快踩陷阱|r", [[Interface\Addons\BigWigs_Voice_VV\Media\Steptrap.ogg]])
 LSM:Register("sound", "|cffeda55f快挡射线|r", [[Interface\Addons\BigWigs_Voice_VV\Media\Fastbeam.ogg]])
+LSM:Register("sound", "|cffeda55f快找掩体|r", [[Interface\Addons\BigWigs_Voice_VV\Media\CoverMove.ogg]])
 
 --靠近
 LSM:Register("sound", "|cff3c8cff找人靠近|r", [[Interface\Addons\BigWigs_Voice_VV\Media\someone.ogg]])

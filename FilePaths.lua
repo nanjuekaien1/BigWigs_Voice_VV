@@ -33,6 +33,9 @@ BigWigs_Voice_VV.FilePaths = {
 	["prisoners_freed"] = "Added\\",  -- 解救囚犯 -- 迈萨拉洞窟
 	["quarry_camps_liberated"] = "Added\\",  -- 解放营地 -- 萨隆矿坑
 	["offerings_acquired"] = "Added\\",  -- 获得供品 -- 纳洛拉克的洞穴
+	["lieutenant_cast"] = "Added\\",  -- 注意控断（副官的施法）
+	["trash_cast"] = "Added\\",  -- 注意控断（小怪的施法）
+	["trash_channel"] = "Added\\",  -- 注意控断（引导法术）
 	
 	-- 技能列表[查询可以按照副本名称搜索]
 	-- [Wrath of the Lich King 巫妖王之怒]
@@ -2315,6 +2318,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[267618] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 排干体液
 	[267639] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 燃烧腐蚀
 	[267702] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 埋葬
+	[1311956]  = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 燃烧腐蚀
 	[1312146]  = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 觉醒猛击
 	--The Council of Tribes 部族议会
 	[266206] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 旋转利斧
@@ -2330,8 +2334,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[269369] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 致命咆哮
 	[1303115] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 凌空猛击 
 	[1303267] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 镀金毁灭 
-	[1303326] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 震地之跃 
-	[1303481] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 野蛮槌击 
+	[1303327] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 震地之跃 
+	[1303488] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  -- 野蛮槌击 
 
 		--往期 
 --[[	[266951] = "BattleForAzeroth\\Dungeon\\Kings'Rest\\",  --
@@ -6545,7 +6549,17 @@ BigWigs_Voice_VV.FilePaths = {
 	[1250055] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 虚空之握
 	[1251619] = "TheWarWithin\\Raid\\ManaforgeOmega\\",  -- 星辰碎片冲击
  
-	--  Midnight  至暗之夜 
+	--  Midnight  至暗之夜
+	  -- 地下堡
+	--毒瀑深渊（宿敌地下堡）  
+	[1288103] = "Midnight\\Delves\\",  -- 乌拉特克布道
+	[1288125] = "Midnight\\Delves\\",  -- 乌拉特克的回响 
+	[1291555] = "Midnight\\Delves\\",  -- 剧毒胆汁 
+	[1293824] = "Midnight\\Delves\\",  -- 虚空毒素 
+	[1293825] = "Midnight\\Delves\\",  -- 毒蛇猛击 
+	[1294963] = "Midnight\\Delves\\",  -- 灵魂灭绝 
+	[1309418] = "Midnight\\Delves\\",  -- 毒性风暴 
+
 	  -- Dungeon 地下城
 	-- Magister's Terrace 魔导师平台
 	--Arcanotron Custos 奥能金刚库斯托斯
@@ -6663,7 +6677,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1243011] = "Midnight\\Dungeon\\DenOfNalorakk\\",  -- 战神之怒
 	[1243569] = "Midnight\\Dungeon\\DenOfNalorakk\\",  -- 压制强攻
 
-	-- Murder Row 密谋小径
+	-- Murder Row 密谋小径（S2）
 	--凯斯媞亚·魔力之心<Kystia Manaheart>
 	[474240] = "Midnight\\Dungeon\\MurderRow\\",  -- 邪能新星 
 	[1230304] = "Midnight\\Dungeon\\MurderRow\\",  -- 光明灌注 
@@ -6685,7 +6699,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1218203] = "Midnight\\Dungeon\\MurderRow\\",  -- 古尔丹之指 
 	[1224478] = "Midnight\\Dungeon\\MurderRow\\",  -- 灾厄浪潮 
 
-	-- The Blinding Vale 夺目谷
+	-- The Blinding Vale 夺目谷（S2）
 	--光明众花<Lightblossom>
 	[1234753] = "Midnight\\Dungeon\\TheBlindingVale\\",  -- 基岩猛击 
 	[1234850] = "Midnight\\Dungeon\\TheBlindingVale\\",  -- 播光急奔 
@@ -6709,7 +6723,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1246858] = "Midnight\\Dungeon\\TheBlindingVale\\",  -- 光绽精华 
 	[1247685] = "Midnight\\Dungeon\\TheBlindingVale\\",  -- 棘刺 
 
-	-- Voidscar Arena 虚空之痕竞技场
+	-- Voidscar Arena 虚空之痕竞技场（S2）
 	--塔兹拉尔<Taz'Rah>
 	[1222098] = "Midnight\\Dungeon\\VoidscarArena\\",  -- 空灵冲刺
 	[1296963] = "Midnight\\Dungeon\\VoidscarArena\\",  -- 幽影破裂 
@@ -6727,10 +6741,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[1263982] = "Midnight\\Dungeon\\VoidscarArena\\",  -- 引力宝珠 
 	[1282770] = "Midnight\\Dungeon\\VoidscarArena\\",  -- 不稳定的奇点 
 	[1311923] = "Midnight\\Dungeon\\VoidscarArena\\",  -- 暗影浪潮 
-
-
 	            
-				-- Raid 团本
+		-- Raid 团本
 	-- 	The Dreamrift 梦境裂隙
 	--Chimaerus the Undreamt God 奇美鲁斯，未梦之神
 	[1245396] = "Midnight\\Raid\\TheDreamrift\\",  -- 吞噬

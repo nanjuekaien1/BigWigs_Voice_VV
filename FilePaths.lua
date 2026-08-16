@@ -2477,8 +2477,8 @@ BigWigs_Voice_VV.FilePaths = {
 	-- Temple of Sethraliss  塞塔里斯神庙
 	--Adderis and Aspix 阿德里斯和阿斯匹克斯
 	[1288049] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 电闪雷鸣
-	[1288428] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 过载
-	[1288864] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 暴风 
+	[1311804] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 过载
+	[1311805] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 暴风 
 	[1289059] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 狂风之力 
 	--Merektha 米利克萨
 	[264172] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\",  -- 钻地

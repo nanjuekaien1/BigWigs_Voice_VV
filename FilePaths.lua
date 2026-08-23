@@ -6873,16 +6873,39 @@ BigWigs_Voice_VV.FilePaths = {
 	[1303230] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 鲜血洪流 
 	[1306872] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 血色风暴 
 	[1308356] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 唤醒子嗣 
-	--<The Coiled Altar>
-
-	--<Ula'tek>
+	--盘卷祭坛<The Coiled Altar>
+	[1282281] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 毒牙
+	[1282487] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 盘卷祭坛之牙
+	[1283489] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 处斩
+	[1283832] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 碎斧
+	[1286441] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 精魂狂笑
+	[1286573] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 灵魂撕裂
+	[1286918] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 永恒夜幕
+	[1289900] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 恐惧行军
+	[1298381] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 盘卷祭坛亵渎
+	[1299266] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 冷酷处斩
+	[1299680] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 撕裂
+	[1299960] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 剧毒洪流
+	[1307279] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 凋零撕裂
+	--乌拉特克<Ula'tek>
+	[1286860] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 被缚之怒
+	[1286905] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 怒火释放
+	[1292188] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 腐蚀浪潮
+	[1292999] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 下潜
+	[1295905] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 毒蛇之咬
+	[1296301] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 恶臭痛击
+	[1298367] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 蛇母之怒
+	[1298559] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 血腥响尾
+	[1300530] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 幽魂盘卷
+	[1300751] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 毒蛇呼唤
+	[1301510] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 盘绕猎物
+	[1302982] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 剧毒喷吐
 
 	-- 潮缚石窟<The Tidebound Grotto>
 	--尼姆瑞莎·唤波者<Nymrissa Wavecaller>	 
 	[1257608] = "Midnight\\Raid\\TheTideboundGrotto\\",  -- 冰霜弹幕
-	[1257717] = "Midnight\\Raid\\TheTideboundGrotto\\",  -- 诱人水泡
 	[1258668] = "Midnight\\Raid\\TheTideboundGrotto\\",  -- 激荡漩涡
 	[1260837] = "Midnight\\Raid\\TheTideboundGrotto\\",  -- 深渊之雨
 	[1282937] = "Midnight\\Raid\\TheTideboundGrotto\\",  -- 冰刃乱舞
-
+	[1276710] = "Midnight\\Raid\\TheTideboundGrotto\\",  -- 诱人水泡
 }

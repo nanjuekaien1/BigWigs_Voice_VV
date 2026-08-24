@@ -33,9 +33,9 @@ BigWigs_Voice_VV.FilePaths = {
 	["prisoners_freed"] = "Added\\",  -- 解救囚犯 -- 迈萨拉洞窟
 	["quarry_camps_liberated"] = "Added\\",  -- 解放营地 -- 萨隆矿坑
 	["offerings_acquired"] = "Added\\",  -- 获得供品 -- 纳洛拉克的洞穴
-	["lieutenant_cast"] = "Added\\",  -- 注意控断（副官的施法）
-	["trash_cast"] = "Added\\",  -- 注意控断（小怪的施法）
-	["trash_channel"] = "Added\\",  -- 注意控断（引导法术）
+	--["lieutenant_cast"] = "Added\\",  -- 注意控断（副官的施法）
+	--["trash_cast"] = "Added\\",  -- 注意控断（小怪的施法）
+	--["trash_channel"] = "Added\\",  -- 注意控断（引导法术）
 	
 	-- 技能列表[查询可以按照副本名称搜索]
 	-- [Wrath of the Lich King 巫妖王之怒]

@@ -1,6 +1,11 @@
 local LSM = LibStub("LibSharedMedia-3.0") 
 
 -- -----
+--   FONT
+-- -----
+--LSM:Register("font", "ROADWAY", [[Interface\Addons\BigWigs_Voice_VV\font\ROADWAY.TTF]],255) 
+
+-- -----
 --  Media 
 -- -----
 
@@ -103,7 +108,7 @@ LSM:Register("sound", "|cff33ff99风筝小怪|r", [[Interface\Addons\BigWigs_Voi
 LSM:Register("sound", "|cff33ff99 正面|r", [[Interface\Addons\BigWigs_Voice_VV\Media\Other-17.ogg]])
 LSM:Register("sound", "|cff33ff99安全安全|r", [[Interface\Addons\BigWigs_Voice_VV\Media\Other-18.ogg]])
 LSM:Register("sound", "|cff33ff99弹幕射击|r", [[Interface\Addons\BigWigs_Voice_VV\Media\Other-19.ogg]])
-LSM:Register("sound", "|cff33ff99码分散|r", [[Interface\Addons\BigWigs_Voice_VV\Media\Other-20.ogg]])
+LSM:Register("sound", "|cff33ff995码分散|r", [[Interface\Addons\BigWigs_Voice_VV\Media\Other-20.ogg]])
 
 --点名类 You
 LSM:Register("sound", "|cffa335eeDEBUFF点你|r", [[Interface\Addons\BigWigs_Voice_VV\Media\You-01.ogg]])

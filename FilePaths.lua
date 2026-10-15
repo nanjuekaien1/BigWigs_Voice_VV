@@ -6829,6 +6829,7 @@ BigWigs_Voice_VV.FilePaths = {
 	
 	-- 烈毒之渊<The Venomous Abyss>
 	--盘魂者内克扎莉<Nek'zali the Soulcoiler>
+	[1292036] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 
 	[1293212] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 紧攫深渊
 	[1295397] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 无眠的阿曼尼
 	[1299673] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 祈求
@@ -6845,15 +6846,15 @@ BigWigs_Voice_VV.FilePaths = {
 	[1291933] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 投掷垃圾 
 	[1292104] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 蘑菇投掷 
 	[1292779] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 最终扬升 
-	[1295817] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 抛鱼 
+	--[1295817] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 抛鱼 
 	[1295854] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 撕裂碎片 
 	[1296092] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 巨力重击 
 	[1296249] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 爆炸惊喜 
 	[1296535] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 恶心的鱼 
 	[1297022] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 莫尔扎希的命令 
 	--万毒邪祟者瓦什尼克<Vashnik the Malignant>
-	[1281907] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 瘟疫泡沫 
-	[1282117] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 适应性感染 
+	--[1281907] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 瘟疫泡沫 
+	--[1282117] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 适应性感染 
 	[1282525] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 恶性催化剂 
 	[1283164] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 痛饮 
 	--斯索拉克<Sszorak>
@@ -6868,11 +6869,12 @@ BigWigs_Voice_VV.FilePaths = {
 	[1290956] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 搅动深渊 
 	[1291404] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 剧毒涌现 
 	[1291478] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 腐蚀唾液 
-	[1293792] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 洪流 
+	--[1293792] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 洪流 
 	[1294293] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 邪恶洪流 
 	[1303230] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 鲜血洪流 
 	[1306872] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 血色风暴 
-	[1308356] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 唤醒子嗣 
+	[1308356] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 唤醒子嗣
+	[1308556] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 下潜
 	--盘卷祭坛<The Coiled Altar>
 	[1282281] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 毒牙
 	[1282487] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 盘卷祭坛之牙
@@ -6891,7 +6893,7 @@ BigWigs_Voice_VV.FilePaths = {
 	[1286860] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 被缚之怒
 	[1286905] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 怒火释放
 	[1292188] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 腐蚀浪潮
-	[1292999] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 下潜
+	--[1292999] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 下潜
 	[1295905] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 毒蛇之咬
 	[1296301] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 恶臭痛击
 	[1298367] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 蛇母之怒
@@ -6900,6 +6902,8 @@ BigWigs_Voice_VV.FilePaths = {
 	[1300751] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 毒蛇呼唤
 	[1301510] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 盘绕猎物
 	[1302982] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 剧毒喷吐
+	[1310738] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 剧毒母体
+	[1310763] = "Midnight\\Raid\\TheVenomousAbyss\\",  -- 溃烂爆发
 
 	-- 潮缚石窟<The Tidebound Grotto>
 	--尼姆瑞莎·唤波者<Nymrissa Wavecaller>	 
@@ -6908,4 +6912,19 @@ BigWigs_Voice_VV.FilePaths = {
 	[1260837] = "Midnight\\Raid\\TheTideboundGrotto\\",  -- 深渊之雨
 	[1282937] = "Midnight\\Raid\\TheTideboundGrotto\\",  -- 冰刃乱舞
 	[1276710] = "Midnight\\Raid\\TheTideboundGrotto\\",  -- 诱人水泡
+
+	-- 基希克斯破封<The Unbinding of Kith'ix>	
+	--基希克斯<Kith'ix>	
+	[1301479] = "Midnight\\Raid\\TheUnbindingOfKithix\\",  -- 八重蚀日
+	[1301511] = "Midnight\\Raid\\TheUnbindingOfKithix\\",  -- 虚空虫群
+	[1302951] = "Midnight\\Raid\\TheUnbindingOfKithix\\",  -- 窒息黑暗
+	[1303169] = "Midnight\\Raid\\TheUnbindingOfKithix\\",  -- 神圣光辉
+	[1303406] = "Midnight\\Raid\\TheUnbindingOfKithix\\",  -- 深渊攫取
+	[1303681] = "Midnight\\Raid\\TheUnbindingOfKithix\\",  -- 扭曲的附肢
+	[1304045] = "Midnight\\Raid\\TheUnbindingOfKithix\\",  -- 不可名状之怖
+	[1304424] = "Midnight\\Raid\\TheUnbindingOfKithix\\",  -- 熄灭
+	[1304930] = "Midnight\\Raid\\TheUnbindingOfKithix\\",  -- 黑暗毁灭
+	[1308873] = "Midnight\\Raid\\TheUnbindingOfKithix\\",  -- 虚无之门
+	[1318467] = "Midnight\\Raid\\TheUnbindingOfKithix\\",  -- 湮消
+
 }

@@ -32,16 +32,16 @@ local VoiceID = "中文语音：VV(女)"
 local VoiceKey = "vv"
 
 BigWigsAPI:RegisterCountdown(VoiceKey, VoiceID, {
-	"Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\1.ogg",
-	"Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\2.ogg",
-	"Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\3.ogg",
-	"Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\4.ogg",
-	"Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\5.ogg",
-	"Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\6.ogg",
-	"Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\7.ogg",
-	"Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\8.ogg",
-	"Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\9.ogg",
-	"Interface\\AddOns\\BigWigs_Voice_VV\\Media\\Sounds\\10.ogg",
+	"Interface\\AddOns\\BigWigs_Voice_VV\\Countdown\\1.ogg",
+	"Interface\\AddOns\\BigWigs_Voice_VV\\Countdown\\2.ogg",
+	"Interface\\AddOns\\BigWigs_Voice_VV\\Countdown\\3.ogg",
+	"Interface\\AddOns\\BigWigs_Voice_VV\\Countdown\\4.ogg",
+	"Interface\\AddOns\\BigWigs_Voice_VV\\Countdown\\5.ogg",
+	"Interface\\AddOns\\BigWigs_Voice_VV\\Countdown\\6.ogg",
+	"Interface\\AddOns\\BigWigs_Voice_VV\\Countdown\\7.ogg",
+	"Interface\\AddOns\\BigWigs_Voice_VV\\Countdown\\8.ogg",
+	"Interface\\AddOns\\BigWigs_Voice_VV\\Countdown\\9.ogg",
+	"Interface\\AddOns\\BigWigs_Voice_VV\\Countdown\\10.ogg",
 })
 
 
